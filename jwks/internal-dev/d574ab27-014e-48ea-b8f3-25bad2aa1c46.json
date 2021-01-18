@@ -1,0 +1,32 @@
+{
+  "keys": [
+    {
+      "n": "q3izM3Ds4AfsBBGsN7_EEiawyYyJL0SytPdren8uHdut3Mj1pqNNRnZv9y9s5rs95h3u74rhrZl3ReT7QYWZgbNJVfqJiNuXCvS9qLfXNXsb6Ua8fEfqlKgsLAgJpkAXBpt4Pk7P3j7IDdpY1a0ZXQN-H2rAfdkUIgxGy96s3Wk",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "dev-1",
+      "use": "sig"
+    },
+    {
+      "n": "0HTBAmgzFHZg3NbhUGjwUgqMZa0RBacvvgzRYGAM6-ZBXI88MHjp8_ig2PA-kttm6OSouGpdRGkMBMF_XWQigVFYe4hNpzmLNbrpipZeyQTWbN6nPdvBnqOJ9cpoFFncxpz2k6vI5pVpM4l8NFs-pA522yN7Q-fkwGq-xY1e8-s",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "test-1-pharmacist",
+      "use": "sig"
+    },
+    {
+      "n": "q3izM3Ds4AfsBBGsN7_EEiawyYyJL0SytPdren8uHdut3Mj1pqNNRnZv9y9s5rs95h3u74rhrZl3ReT7QYWZgbNJVfqJiNuXCvS9qLfXNXsb6Ua8fEfqlKgsLAgJpkAXBpt4Pk7P3j7IDdpY1a0ZXQN-H2rAfdkUIgxGy96s3Wk",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "test-1-gmc",
+      "use": "sig"
+    },
+    {
+      "n": "5D8ydr2FLj-Qmmrs8t2vYFdoOXQvyRXvp1t_VTNHdiIXv8-Qg_YqnIyv5lvq4U0OzLVJWqi_2l30w5W_3wj4qWqPh4fzCEe7zSb5xAsbUqqr9RUEpEvoDsVCjkRrL_iOZGwsB8qbaNyK1bqddpOFgLth4VjN5tG1n7Y_BOtmSyU",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "test-1-nurse",
+      "use": "sig"
+    }
+  ]
+}

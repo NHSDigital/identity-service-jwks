@@ -3,3 +3,7 @@
 *.key.pub
 .envrc
 .vscode
+
+.direnv
+env
+.dir-locals.el

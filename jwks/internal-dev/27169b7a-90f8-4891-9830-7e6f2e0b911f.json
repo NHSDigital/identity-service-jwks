@@ -15,22 +15,6 @@
       "use": "sig",
       "alg": "RS512",
       "kid": "test-rs512"
-    },
-    {
-      "kty": "RSA",
-      "n": "2qqkC5cAFq-5WEsPbzyQzENVqxIj7ddvY9nVfsE6M_KcsFA_lFf7T8nTUVQWQo_-5oJh-3pU3MptbeWTZl5QHZujhdfiikrSeWVmscRzWV9Nw8cO4SG-MOPzoiiBfiuwqGTtwFKv5zSmr0vultfesx1EVv-1fUm1QEZy6wD-vu_QrKr8oJ0eUyb7iIMl-B_EEXVGWacgAeox8xCrLreVouJaDGe6Tg0HxX-XwHudb8xF1VYqCBgDrn3KrXgeOVx89Ck5jAbYFhuOPTBoBoppLWt0_SgnVe7AhxxnR9sgKVL9N4JLbqz1Qiuf47KCxi5iq0FZv9QuWTw0wlOpdsrPOQ",
-      "e": "AQAB",
-      "use": "sig",
-      "kid": "1",
-      "alg": "RS512"
-    },
-    {
-      "kty": "RSA",
-      "n": "y7nLDUMjroHPUxq6OfiC6Kc_-lESwsiNJKEecldDKWijlQ9xlIMuvh2BnsY8TwipdYQeyjZ7G2cht7V2TmaemRlYHYCO1b09ieThU8mtT9_POCOuvzpFX4DJh1lEBGc9unNOJ84mrYpLxD-yHHR0BYcvYLOx-d99H5ehGuP_VgPayJETKFNUIRxhL9zvJXisvWSMtw8vK3AP9AdSlWelgQoLVZDSiAeUOIGTzK_IQARU7_rX0OMLfuHzMJFi4IHt7B_qn--YPu-SfAQ8xhahG3MJfDVcKz_4ZVi2p1Hc3Frz9reR8YmgkJnBmbI9opGxUFIMgA0ur75Ul9DGdLrUzQ",
-      "e": "AQAB",
-      "use": "sig",
-      "kid": "2",
-      "alg": "RS256"
     }
   ]
 }

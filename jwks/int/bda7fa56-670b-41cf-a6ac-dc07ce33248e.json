@@ -7,14 +7,6 @@
       "use": "sig",
       "alg": "RS512",
       "kid": "test-rs512"
-    },
-    {
-      "kty": "RSA",
-      "n": "2Z8WW0oMeJEe7ZbyTsn4JX0ZPGMsNSPZcqo1Bi7oeN5-VB7K2YV96HDipSoeP-cR1J98AL3QM8Q14JO9ZfQkiLSGVta3sELlFJWiEuXkWLjKI49NfSlx8B1vVVasTmfEDUfEcEp7P1tk04F79Vi1GzhJ0eTMb5DXMXNg-9RH0MdPw_4OqzMq7ZJLxu0rP1F_KRLMLCS039Lb2R21qdBMb1XYC6Rx1giSlm9r_G7bpHB7R49ieuNl4gF5iABP5ddwbh4E6kt3EbHHmT3TE3ixUiFvqXU9sY-iTtBh5khS9n2SmYJyB4qYrc8yU3Y3wSB50cst8D8R0xr0YbuyCFgC8IruG5f_0RkW3TX3-h98mcOkr9b2b4R7WG6zO_W4d4Sb6s6N-Koz_UlEAsPcxsxWVZGguTEzVJYHa5ieOrpsJMl1RZb-mCvgRIIrV_eultkEkCQFPKENhjQDEGVV4QYJSgNYsQm1-Oub8gC79BKQS1Sunvk-FaQcRODTFNsrIYbYC6PrK2AfTlIp9aFWDqudyTqkCZ4QnFf7EOqxAo6oF-8a8b9KS2Tu3IHQ9wVCu4i94RoyX44J6jlEd8X7fq7IajoNYpOnbCfcUYzcxGNy9HyVihuVYxGm3F_Js-M0ix1Mf7RUU-sb7Pe0nlj9EHXd87H-dCSQUnejcoWDBArmR-M",
-      "e": "AQAB",
-      "use": "sig",
-      "alg": "RS256",
-      "kid": "test-rs256"
     }
   ]
 }

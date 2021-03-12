@@ -59,7 +59,11 @@ if __name__ == "__main__":
     jwks_file = JWKS_ROOT_DIR.joinpath(env).joinpath(f"{app_id}.json")
     if jwks_file.exists():
         with open(jwks_file) as f:
-            jwks = json.load(f)
+            try:
+                jwks = json.load(f)
+            except json.decoder.JSONDecodeError:
+                # If the file exists but is empty
+                jwks = {"keys":[]}
 
     # Check if key already present
     for key in jwks["keys"]:

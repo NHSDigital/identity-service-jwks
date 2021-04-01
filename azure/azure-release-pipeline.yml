@@ -1,0 +1,37 @@
+name: "$(SourceBranchName)+$(BuildID)"
+
+parameters:
+  - name: internal_envs
+    type: boolean
+    default: true
+    displayName: Internal Environments
+  - name: external_envs_nonprod
+    type: boolean
+    default: true
+    displayName: External Environments (nonprod)
+  - name: prod
+    type: boolean
+    default: true
+    displayName: Production Environment (requires manual approval)
+
+trigger:
+  branches:
+    include:
+      - tags/refs/v*
+  tags:
+    include:
+      - v*
+
+resources:
+  repositories:
+    - repository: common
+      type: github
+      name: NHSDigital/api-management-utils
+      endpoint: NHSDigital
+
+extends:
+  template: ./deploy-jwks.yml
+  parameters:
+    internal_envs: ${{ parameters.internal_envs }}
+    external_envs_nonprod: ${{ parameters.external_envs_nonprod }}
+    prod: ${{ parameters.prod }}

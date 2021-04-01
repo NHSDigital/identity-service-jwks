@@ -1,0 +1,60 @@
+parameters:
+  - name: internal_envs
+    type: boolean
+  - name: external_envs_nonprod
+    type: boolean
+  - name: prod
+    type: boolean
+  - name: apigee_environments
+    type: object
+    default:
+      internal_envs:
+        - internal_dev
+        - internal_dev_sandbox
+        - internal_qa
+        - internal_qa_sandbox
+        - ref
+      external_envs_nonprod:
+        - dev
+        - sandbox
+        - int
+      prod:
+        - prod
+
+stages:
+
+  - template: ./deploy-jwks-env.yml
+    parameters:
+      apigee_environments: ${{ parameters.apigee_environments.internal_envs }}
+      stage_name: internal_envs
+      apigee_organization: nonprod
+
+  - template: ./deploy-jwks-env.yml
+    parameters:
+      apigee_environments: ${{ parameters.apigee_environments.external_envs_nonprod }}
+      stage_name: external_envs_nonprod
+      apigee_organization: prod
+      
+  # - ${{ if parameters.prod }}:
+  #   - stage: manual_approval
+  #     condition: eq(dependencies.compute_release_orgs.outputs['env.prod.todo'], 'true')
+  #     dependsOn: [compute_release_orgs]
+  #     jobs:
+  #       - deployment: approval
+  #         pool:
+  #           name: "AWS-ECS"
+  #         environment: "manual-approval"
+  #         strategy:
+  #           runOnce:
+  #             deploy:
+  #               steps:
+  #                 - download: none
+  #                 - bash: |
+  #                     echo Approved
+  #                   displayName: "approve prod changes"
+  
+  #   - template: ./release-to-apigee-env.yml
+  #     parameters:
+  #       apigee_environment: prod
+  #       stage_name: prod
+  #       depends_on: [compute_release_orgs, manual_approval]

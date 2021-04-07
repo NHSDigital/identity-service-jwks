@@ -11,6 +11,7 @@ parameters:
     values:
       - nonprod
       - prod
+  - name: check_mode
 
 
 stages:
@@ -157,14 +158,16 @@ stages:
       - ${{ each apigee_environment in parameters.apigee_environments }}:
         - bash: |
             set -e
-            FILES=$(${{ apigee_environment }}_apps)
-            if [[ "${FILES}" ]]; then
+            echo $(${{ apigee_environment }}_apps)
+            FILES="$(${{ apigee_environment }}_apps)"
+            echo ${FILES}
+            if [ ! -z "${FILES}" ]; then
                 cd utils/ansible
                 ANSIBLE_FORCE_COLOR=yes \
                 APIGEE_ACCESS_TOKEN=$(secret.AccessToken) \
                 APIGEE_ENVIRONMENT=${{ replace(apigee_environment, '_', '-') }} \
                 APP_ID=$(echo ${FILES} | tr ' ' ',') \
-                CHECK=1 \
+                CHECK=${{ parameters.check_mode }} \
                 make add-jwks-resource-url-to-app
             fi
           displayName: Update ${{ apigee_environment }} apps with JWKS

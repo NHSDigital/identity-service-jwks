@@ -20,6 +20,13 @@ parameters:
       - diff
       - all
     displayName: JWKS Selection (diff or all time)
+  - name: check_mode
+    type: string
+    default: 1
+    values:
+      - 1
+      - 0
+    displayName: Run ansible in check mode?
 
 trigger:
   branches:
@@ -43,3 +50,4 @@ extends:
     external_envs_nonprod: ${{ parameters.external_envs_nonprod }}
     prod: ${{ parameters.prod }}
     selection: ${{ parameters.selection }}
+    check_mode: ${{ parameters.check_mode }}

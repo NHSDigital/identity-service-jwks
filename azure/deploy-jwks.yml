@@ -21,6 +21,7 @@ parameters:
         - int
       prod:
         - prod
+  - name: check_mode
 
 stages:
 
@@ -31,6 +32,7 @@ stages:
         stage_name: internal_envs
         apigee_organization: nonprod
         selection: ${{ parameters.selection }}
+        check_mode: ${{ parameters.check_mode }}
 
   - ${{ if parameters.external_envs_nonprod }}:
     - template: ./deploy-jwks-env.yml
@@ -39,6 +41,7 @@ stages:
         stage_name: external_envs_nonprod
         apigee_organization: prod
         selection: ${{ parameters.selection }}
+        check_mode: ${{ parameters.check_mode }}
 
   - ${{ if parameters.prod }}:
     - template: ./deploy-jwks-env.yml
@@ -47,3 +50,4 @@ stages:
         stage_name: prod
         apigee_organization: prod
         selection: ${{ parameters.selection }}
+        check_mode: ${{ parameters.check_mode }}

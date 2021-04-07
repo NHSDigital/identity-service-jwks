@@ -5,6 +5,7 @@ parameters:
     type: boolean
   - name: prod
     type: boolean
+  - name: selection
   - name: apigee_environments
     type: object
     default:
@@ -29,6 +30,7 @@ stages:
         apigee_environments: ${{ parameters.apigee_environments.internal_envs }}
         stage_name: internal_envs
         apigee_organization: nonprod
+        selection: ${{ parameters.selection }}
 
   - ${{ if parameters.external_envs_nonprod }}:
     - template: ./deploy-jwks-env.yml
@@ -36,6 +38,7 @@ stages:
         apigee_environments: ${{ parameters.apigee_environments.external_envs_nonprod }}
         stage_name: external_envs_nonprod
         apigee_organization: prod
+        selection: ${{ parameters.selection }}
 
   - ${{ if parameters.prod }}:
     - template: ./deploy-jwks-env.yml
@@ -43,3 +46,4 @@ stages:
         apigee_environments: ${{ parameters.apigee_environments.prod }}
         stage_name: prod
         apigee_organization: prod
+        selection: ${{ parameters.selection }}

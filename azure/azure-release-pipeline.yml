@@ -13,6 +13,13 @@ parameters:
     type: boolean
     default: true
     displayName: Production Environment (requires manual approval)
+  - name: selection
+    type: string
+    default: diff
+    values:
+      - diff
+      - all
+    displayName: JWKS Selection (diff or all time)
 
 trigger:
   branches:
@@ -35,3 +42,4 @@ extends:
     internal_envs: ${{ parameters.internal_envs }}
     external_envs_nonprod: ${{ parameters.external_envs_nonprod }}
     prod: ${{ parameters.prod }}
+    selection: ${{ parameters.selection }}

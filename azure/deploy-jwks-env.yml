@@ -1,4 +1,5 @@
 parameters:
+  - name: selection
   - name: stage_name
     values:
       - internal_envs
@@ -29,10 +30,13 @@ stages:
         submodules: true
         persistCredentials: true
 
+      - bash: git checkout $(Build.SourceBranchName)
+        displayName: Checkout $(Build.SourceBranchName)
+
       - ${{ each apigee_environment in parameters.apigee_environments }}:
         - bash: |
             set -e
-            APP_IDS=$(./scripts/list_apps.sh ${{ replace(apigee_environment, '_', '-') }} | xargs echo)
+            APP_IDS=$(./scripts/list_apps.sh ${{ replace(apigee_environment, '_', '-') }} ${{ parameters.selection }}| xargs echo)
             echo ${APP_IDS}
             echo "##vso[task.setvariable variable=apps;isOutput=true]'${APP_IDS}'"
           displayName: Check ${{ apigee_environment }} for jwks apps

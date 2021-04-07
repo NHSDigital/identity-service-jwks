@@ -38,9 +38,31 @@ stages:
           displayName: Check ${{ apigee_environment }} for jwks apps
           name: ${{ apigee_environment }}
 
+  - ${{ if eq(parameters.stage_name, 'prod') }}:
+    - stage: manual_approval
+      condition: gt(length(dependencies.check_${{ parameters.stage_name }}.outputs['check.prod.apps']), 0)
+      dependsOn:
+        - check_${{ parameters.stage_name }}
+      jobs:
+        - deployment: approval
+          pool:
+            name: "AWS-ECS"
+          environment: "manual-approval"
+          strategy:
+            runOnce:
+              deploy:
+                steps:
+                  - download: none
+                  - bash: |
+                      echo Approved
+                    displayName: "approve prod changes"
+
   - stage: ${{ parameters.stage_name }}
     dependsOn:
       - check_${{ parameters.stage_name }}
+      - ${{ if eq(parameters.stage_name, 'prod') }}:
+          - manual_approval
+
     variables:
       ${{ each apigee_environment in parameters.apigee_environments }}:
         ${{ apigee_environment }}_apps: $[ stageDependencies.check_${{ parameters.stage_name }}.check.outputs['${{ apigee_environment }}.apps'] ]

@@ -22,19 +22,18 @@ parameters:
     displayName: JWKS Selection (diff or all time)
   - name: check_mode
     type: boolean
-    default: False
+    default: True
     displayName: Run ansible with --check (always the case for branch != main)
 
-
-pr: # No PR triggers
-  branches:
-    exclude:
-      - '*'
-
-trigger: # On update to main
+pr: # Only trigger on PRs targeting main
   branches:
     include:
       - main
+
+trigger: # Don't trigger on updates to any branch
+  branches:
+    exclude:
+      - '*'
 
 resources:
   repositories:

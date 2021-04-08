@@ -35,8 +35,9 @@ stages:
       # in a funky state.  This allows git-diff main -- jwks/ to work
       - bash: |
           set -e
+          CURRENT_REF=$(git rev-parse HEAD)
           git checkout main
-          git checkout $(Build.SourceBranchName)
+          git checkout ${CURRENT_REF}
           echo "##vso[task.setvariable variable=any_apps]false"
         displayName: Checkout $(Build.SourceBranchName)
 
@@ -57,9 +58,7 @@ stages:
         displayName: Any environments?
         name: any
 
-
-
-  - ${{ if eq(parameters.stage_name, 'prod') }}:
+  - ${{ if and(eq(parameters.stage_name, 'prod'), eq(parameters.check_mode,0)) }}:
     - stage: manual_approval
       condition: eq(dependencies.check_${{ parameters.stage_name }}.outputs['check.any.apps'], 'true')
       dependsOn:
@@ -81,13 +80,16 @@ stages:
   - stage: ${{ parameters.stage_name }}
     dependsOn:
       - check_${{ parameters.stage_name }}
-      - ${{ if eq(parameters.stage_name, 'prod') }}:
+      - ${{ if and(eq(parameters.stage_name, 'prod'), eq(parameters.check_mode,0)) }}:
           - manual_approval
     condition: eq(dependencies.check_${{ parameters.stage_name }}.outputs['check.any.apps'], 'true')
     variables:
       ${{ each apigee_environment in parameters.apigee_environments }}:
         ${{ apigee_environment }}_apps: $[ stageDependencies.check_${{ parameters.stage_name }}.check.outputs['${{ apigee_environment }}.apps'] ]
-
+      ${{ if eq(variables.Build.SourceBranch,'refs/heads/main') }}:
+        SKIP_JWKS_RESOURCE_URL_VALIDATION: ''
+      ${{ if ne(variables.Build.SourceBranch,'refs/heads/main') }}:
+        SKIP_JWKS_RESOURCE_URL_VALIDATION: 1
     jobs:
     - job: check
       displayName: See if JWKS keys required
@@ -158,16 +160,22 @@ stages:
       - ${{ each apigee_environment in parameters.apigee_environments }}:
         - bash: |
             set -e
-            echo $(${{ apigee_environment }}_apps)
+
             FILES="$(${{ apigee_environment }}_apps)"
-            echo ${FILES}
             if [ ! -z "${FILES}" ]; then
+                if [ ${{ parameters.check_mode }} -eq 1 ]; then
+                    echo "Running in CHECK mode, ansible will only simulated changes to apigee"
+                fi
                 cd utils/ansible
                 ANSIBLE_FORCE_COLOR=yes \
                 APIGEE_ACCESS_TOKEN=$(secret.AccessToken) \
                 APIGEE_ENVIRONMENT=${{ replace(apigee_environment, '_', '-') }} \
                 APP_ID=$(echo ${FILES} | tr ' ' ',') \
                 CHECK=${{ parameters.check_mode }} \
+                SKIP_JWKS_RESOURCE_URL_VALIDATION=$(SKIP_JWKS_RESOURCE_URL_VALIDATION) \
                 make add-jwks-resource-url-to-app
+                if [ ${{ parameters.check_mode }} -eq 1 ]; then
+                    echo "Ran in CHECK mode, ansible did not apply changes to apigee"
+                fi
             fi
           displayName: Update ${{ apigee_environment }} apps with JWKS

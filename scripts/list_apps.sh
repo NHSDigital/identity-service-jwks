@@ -36,7 +36,8 @@ case ${SELECTION} in
         # merge commit, i.e. HEAD~ when on a PR want the changes
         # relative to main.
         [ $(git branch --show) == "main" ] && RANGE="HEAD~" || RANGE="origin/main"
-        FILES=$(git diff --name-only --diff-filter=A ${RANGE} -- jwks/${ENVIRONMENT}) ;;
+        FILES=$(git diff --name-only --no-renames --diff-filter=A ${RANGE} -- jwks/${ENVIRONMENT})
+        ;;
     all)
         # If 'all' then just list all files in the environment
         FILES=$(find ./jwks/${ENVIRONMENT} -iname '*.json' -type f -printf '%f\n' || true) ;;

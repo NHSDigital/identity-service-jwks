@@ -19,7 +19,7 @@ stages:
     dependsOn: []
     jobs:
     - job: check
-      displayName: See if JWKS keys required
+      displayName: List apps
       timeoutInMinutes: 30
       pool:
         name: 'AWS-ECS'
@@ -92,7 +92,7 @@ stages:
         SKIP_JWKS_RESOURCE_URL_VALIDATION: 1
     jobs:
     - job: check
-      displayName: See if JWKS keys required
+      displayName: Add JWKS resource urls to apps
       timeoutInMinutes: 30
       pool:
         name: 'AWS-ECS'

@@ -1,0 +1,181 @@
+parameters:
+  - name: selection
+  - name: stage_name
+    values:
+      - internal_envs
+      - external_envs_nonprod
+      - prod
+  - name: apigee_environments
+    type: object
+  - name: apigee_organization
+    values:
+      - nonprod
+      - prod
+  - name: check_mode
+
+
+stages:
+  - stage: check_${{ parameters.stage_name }}
+    dependsOn: []
+    jobs:
+    - job: check
+      displayName: See if JWKS keys required
+      timeoutInMinutes: 30
+      pool:
+        name: 'AWS-ECS'
+      workspace:
+        clean: all
+      steps:
+      - checkout: self
+        path: "s/identity-service-jwks"
+        submodules: true
+        persistCredentials: true
+
+      # Default azure devops pipeline 'checkout' operation leaves git
+      # in a funky state.  This allows git-diff main -- jwks/ to work
+      - bash: |
+          set -e
+          CURRENT_REF=$(git rev-parse HEAD)
+          git checkout main
+          git checkout ${CURRENT_REF}
+          echo "##vso[task.setvariable variable=any_apps]false"
+        displayName: Checkout $(Build.SourceBranchName)
+
+      - ${{ each apigee_environment in parameters.apigee_environments }}:
+        - bash: |
+            set -e
+            APP_IDS=$(./scripts/list_apps.sh ${{ replace(apigee_environment, '_', '-') }} ${{ parameters.selection }}| xargs echo)
+            echo ${APP_IDS}
+            echo "##vso[task.setvariable variable=apps;isOutput=true]${APP_IDS}"
+            if [[ "${APP_IDS}" ]]; then
+               echo "##vso[task.setvariable variable=any_apps]true"
+            fi
+          displayName: Check ${{ apigee_environment }} for jwks apps
+          name: ${{ apigee_environment }}
+
+      - bash: |
+          echo "##vso[task.setvariable variable=apps;isOutput=true]$(any_apps)"
+        displayName: Any environments?
+        name: any
+
+  - ${{ if and(eq(parameters.stage_name, 'prod'), eq(parameters.check_mode,0)) }}:
+    - stage: manual_approval
+      condition: eq(dependencies.check_${{ parameters.stage_name }}.outputs['check.any.apps'], 'true')
+      dependsOn:
+        - check_${{ parameters.stage_name }}
+      jobs:
+        - deployment: approval
+          pool:
+            name: "AWS-ECS"
+          environment: "manual-approval"
+          strategy:
+            runOnce:
+              deploy:
+                steps:
+                  - download: none
+                  - bash: |
+                      echo Approved
+                    displayName: "approve prod changes"
+
+  - stage: ${{ parameters.stage_name }}
+    dependsOn:
+      - check_${{ parameters.stage_name }}
+      - ${{ if and(eq(parameters.stage_name, 'prod'), eq(parameters.check_mode,0)) }}:
+          - manual_approval
+    condition: eq(dependencies.check_${{ parameters.stage_name }}.outputs['check.any.apps'], 'true')
+    variables:
+      ${{ each apigee_environment in parameters.apigee_environments }}:
+        ${{ apigee_environment }}_apps: $[ stageDependencies.check_${{ parameters.stage_name }}.check.outputs['${{ apigee_environment }}.apps'] ]
+      ${{ if eq(variables.Build.SourceBranch,'refs/heads/main') }}:
+        SKIP_JWKS_RESOURCE_URL_VALIDATION: ''
+      ${{ if ne(variables.Build.SourceBranch,'refs/heads/main') }}:
+        SKIP_JWKS_RESOURCE_URL_VALIDATION: 1
+    jobs:
+    - job: check
+      displayName: See if JWKS keys required
+      timeoutInMinutes: 30
+      pool:
+        name: 'AWS-ECS'
+      workspace:
+        clean: all
+
+      steps:
+      - task: UsePythonVersion@0
+        displayName: "Use Python 3.8"
+        inputs:
+          versionSpec: "3.8"
+
+      - checkout: self
+        path: "s/identity-service-jwks"
+        submodules: true
+        persistCredentials: true
+
+      - bash: git clone https://github.com/NHSDigital/api-management-utils utils --depth=1
+        displayName: checkout utils
+
+      - bash: pip install --upgrade pip && pip install poetry
+        displayName: install pip/poetry
+
+      - task: s3-cache-action@1
+        inputs:
+          key: poetry | $(System.DefaultWorkingDirectory) | identity-service-jwks/utils/poetry.lock
+          location: "utils/.venv"
+          debug: true
+          alias: 'Utils'
+        displayName: cache utils dependencies
+
+      - bash: |
+          set -e
+          make install
+          sleep 5
+        condition: and(succeeded(), ne(variables['CacheRestored-Utils'], 'true'))
+        workingDirectory: utils
+        displayName: "Install utils"
+
+      - template: /azure/components/aws-assume-role.yml@common
+        parameters:
+          role: "auto-ops"
+          profile: "apm_ptl"
+          aws_account: "ptl"
+
+      - template: /azure/components/get-aws-secrets-and-ssm-params.yml@common
+        parameters:
+          secret_file_ids: []
+          secret_ids:
+          - ptl/azure-devops/apigee-${{ parameters.apigee_organization }}/APIGEE_OTP_KEY
+          - ptl/azure-devops/apigee-${{ parameters.apigee_organization }}/APIGEE_PASSWORD
+          config_ids:
+          - /ptl/azure-devops/apigee-${{ parameters.apigee_organization }}/APIGEE_USERNAME
+          aws_account: ptl
+
+      - template: /azure/components/get-mfa-code.yml@common
+        parameters:
+          apigee_otp_key: $(APIGEE_OTP_KEY)
+
+      - template: /azure/components/get-access-token.yml@common
+        parameters:
+          apigee_username: $(APIGEE_USERNAME)
+          apigee_password: $(APIGEE_PASSWORD)
+
+      - ${{ each apigee_environment in parameters.apigee_environments }}:
+        - bash: |
+            set -e
+
+            FILES="$(${{ apigee_environment }}_apps)"
+            if [ ! -z "${FILES}" ]; then
+                if [ ${{ parameters.check_mode }} -eq 1 ]; then
+                    echo "Running in CHECK mode, ansible will only simulated changes to apigee"
+                fi
+                cd utils/ansible
+                ANSIBLE_FORCE_COLOR=yes \
+                APIGEE_ACCESS_TOKEN=$(secret.AccessToken) \
+                APIGEE_ENVIRONMENT=${{ replace(apigee_environment, '_', '-') }} \
+                APP_ID=$(echo ${FILES} | tr ' ' ',') \
+                CHECK=${{ parameters.check_mode }} \
+                SKIP_JWKS_RESOURCE_URL_VALIDATION=$(SKIP_JWKS_RESOURCE_URL_VALIDATION) \
+                make add-jwks-resource-url-to-app
+                if [ ${{ parameters.check_mode }} -eq 1 ]; then
+                    echo "Ran in CHECK mode, ansible did not apply changes to apigee"
+                fi
+            fi
+          displayName: Update ${{ apigee_environment }} apps with JWKS

@@ -1,0 +1,52 @@
+name: "$(SourceBranchName)+$(BuildID)"
+
+parameters:
+  - name: internal_envs
+    type: boolean
+    default: true
+    displayName: Internal Environments (internal-dev, internal-dev-sandbox, internal-qa, internal-qa-sandbox, ref)
+  - name: external_envs_nonprod
+    type: boolean
+    default: true
+    displayName: External Environments (dev, sandbox, int)
+  - name: prod
+    type: boolean
+    default: true
+    displayName: Production Environment (prod - requires manual approval)
+  - name: selection
+    type: string
+    default: diff
+    values:
+      - diff
+      - all
+    displayName: JWKS Selection (diff or all time)
+  - name: check_mode
+    type: boolean
+    default: True
+    displayName: Run ansible with --check (always the case for branch != main)
+
+pr: # Only trigger on PRs targeting main
+  branches:
+    include:
+      - main
+
+trigger: # Don't trigger on updates to any branch
+  branches:
+    exclude:
+      - '*'
+
+resources:
+  repositories:
+    - repository: common
+      type: github
+      name: NHSDigital/api-management-utils
+      endpoint: NHSDigital
+
+extends:
+  template: ./components/deploy-jwks.yml
+  parameters:
+    internal_envs: ${{ parameters.internal_envs }}
+    external_envs_nonprod: ${{ parameters.external_envs_nonprod }}
+    prod: ${{ parameters.prod }}
+    selection: ${{ parameters.selection }}
+    check_mode: ${{ parameters.check_mode }}

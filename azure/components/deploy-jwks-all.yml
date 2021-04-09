@@ -1,0 +1,53 @@
+parameters:
+  - name: internal_envs
+    type: boolean
+  - name: external_envs_nonprod
+    type: boolean
+  - name: prod
+    type: boolean
+  - name: selection
+  - name: apigee_environments
+    type: object
+    default:
+      internal_envs:
+        - internal_dev
+        - internal_dev_sandbox
+        - internal_qa
+        - internal_qa_sandbox
+        - ref
+      external_envs_nonprod:
+        - dev
+        - sandbox
+        - int
+      prod:
+        - prod
+  - name: check_mode
+
+stages:
+
+  - ${{ if parameters.internal_envs }}:
+    - template: ./deploy-jwks-env.yml
+      parameters:
+        apigee_environments: ${{ parameters.apigee_environments.internal_envs }}
+        stage_name: internal_envs
+        apigee_organization: nonprod
+        selection: ${{ parameters.selection }}
+        check_mode: ${{ parameters.check_mode }}
+
+  - ${{ if parameters.external_envs_nonprod }}:
+    - template: ./deploy-jwks-env.yml
+      parameters:
+        apigee_environments: ${{ parameters.apigee_environments.external_envs_nonprod }}
+        stage_name: external_envs_nonprod
+        apigee_organization: prod
+        selection: ${{ parameters.selection }}
+        check_mode: ${{ parameters.check_mode }}
+
+  - ${{ if parameters.prod }}:
+    - template: ./deploy-jwks-env.yml
+      parameters:
+        apigee_environments: ${{ parameters.apigee_environments.prod }}
+        stage_name: prod
+        apigee_organization: prod
+        selection: ${{ parameters.selection }}
+        check_mode: ${{ parameters.check_mode }}

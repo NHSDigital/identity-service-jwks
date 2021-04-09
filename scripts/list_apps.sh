@@ -35,7 +35,7 @@ case ${SELECTION} in
         # In the case of a release from main, want the diff from the
         # merge commit, i.e. HEAD~ when on a PR want the changes
         # relative to main.
-        [ "$(git branch --show)" == "main" ] && RANGE="HEAD~" || RANGE="origin/main"
+        [ "$(git branch --show)" == "main" ] && RANGE="HEAD~" || RANGE="main"
         FILES=$(git diff --name-only --no-renames --diff-filter=A ${RANGE} -- jwks/${ENVIRONMENT})
         ;;
     all)

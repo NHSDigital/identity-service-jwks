@@ -19,9 +19,9 @@ stages:
       selection: ${{ parameters.selection }}
 
       # non-main branches ALWAYS run in check mode
-      ${{ if ne(variables.Build.SourceBranch,'refs/heads/main') }}:
+      ${{ if ne(variables['Build.SourceBranch'],'refs/heads/main') }}:
         check_mode: 1
-      ${{ if eq(variables.Build.SourceBranch,'refs/heads/main') }}:
+      ${{ if eq(variables['Build.SourceBranch'],'refs/heads/main') }}:
         ${{ if parameters.check_mode }}:
           check_mode: 1
         ${{ if not(parameters.check_mode) }}:

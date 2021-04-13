@@ -18,7 +18,17 @@ import pathlib
 from docopt import docopt
 from authlib.jose import jwk
 
-ENVIRONMENTS = ["internal-dev", "internal-qa", "ref", "int", "prod"]
+ENVIRONMENTS = [
+    "internal-dev",
+    "internal-dev-sandbox",
+    "internal-qa",
+    "internal-qa-sandbox",
+    "ref",
+    "dev",
+    "sandbox",
+    "int",
+    "prod",
+]
 JWKS_ROOT_DIR = pathlib.Path(__file__).absolute().parent.parent.joinpath("jwks")
 
 if __name__ == "__main__":
@@ -55,8 +65,10 @@ if __name__ == "__main__":
     # Create empty keystore
     jwks = {"keys": []}
 
+    jwks_env_dir = JWKS_ROOT_DIR.joinpath(env)
+
     # If file already exists, load existing keystore
-    jwks_file = JWKS_ROOT_DIR.joinpath(env).joinpath(f"{app_id}.json")
+    jwks_file = jwks_env_dir.joinpath(f"{app_id}.json")
     if jwks_file.exists():
         with open(jwks_file) as f:
             try:
@@ -71,6 +83,9 @@ if __name__ == "__main__":
             print(f"Key already present in {jwks_file}", file=sys.stderr)
             print(json.dumps(jwks, indent=2), file=sys.stderr)
             sys.exit(1)
+
+    if not jwks_env_dir.exists():
+        jwks_env_dir.mkdir()
 
     # Add key and write
     jwks["keys"].append(new_key)

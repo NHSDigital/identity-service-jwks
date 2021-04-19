@@ -83,6 +83,10 @@ if __name__ == "__main__":
             print(f"Key already present in {jwks_file}", file=sys.stderr)
             print(json.dumps(jwks, indent=2), file=sys.stderr)
             sys.exit(1)
+        if key["kid"] == new_key["kid"]:
+            print(f"Key Id already present in {jwks_file}", file=sys.stderr)
+            print(json.dumps(jwks, indent=2), file=sys.stderr)
+            sys.exit(1)
 
     if not jwks_env_dir.exists():
         jwks_env_dir.mkdir()

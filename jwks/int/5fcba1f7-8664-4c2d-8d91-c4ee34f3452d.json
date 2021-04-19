@@ -11,7 +11,7 @@
       "n": "zKuuZtFrRVViwIvWluesIape02DJEPPoUAWNVO9gHNOk7UaY_bT-AQOMcHMb0uCCNWacO4UJCBp_DURlHXkXTsj_xW4BePwuaaJJTaMgwDx65ipYKayTLzaGUEh2XVMoedEWZot1CHEgbN8vT8eTuZbeG48nu8ONh9t16irPyPu-E7tKm8-T9eBtuDuH6086qLtInO1BrcjKl0UzKFuOyimOC6jPUL9LDvan-hF3-zNTIWnpvsurnFbhRNWgXz2wOmA-312MkBDxuW8pRy1JDsYisqNfi1c5b1AUhBH3K3FU1Pob17pD5d_O00dDNe_htev61wGGPkVE5Fy_cEE3IpKEjhmkfzF54UURjozlqDyfy2mCqaNCn6K3K1Jr15z5FzYgLq0qtWuLMRrdnFcigkkwMTvlE_mT6wagmWdJke2jqhqv6UU-GQYdt0-_EOWVAZBRvZPcM-WHbuj_HzuA9nnbVIIvgGZgplvXjH30qxD9_O4GrE0qvRtwQukA-_wdQHRDuLycGanG7wCq37kFHKvzjRHxgfjTEqS5ibp75flkER5IFafHHO1Iw5W7dETXsmLSzYgMprBeXf0sbCE7cdq_3gpmTjQaWXXA6u0JPx9uVckSdMCnug8QvYc1WPFY7GEW5OD5baI4n1RiNixn29Sg4ldQcUVVayhYxSiIYg0",
       "e": "AQAB",
       "kty": "RSA",
-      "kid": "integration-test-1",
+      "kid": "integration-test-3",
       "use": "sig"
     }
   ]

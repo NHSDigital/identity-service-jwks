@@ -79,8 +79,8 @@ if __name__ == "__main__":
 
     # Check if key already present
     for key in jwks["keys"]:
-        if key == new_key:
-            print(f"Key already present in {jwks_file}", file=sys.stderr)
+        if key["kid"] == new_key["kid"]:
+            print(f"kid already present in {jwks_file}", file=sys.stderr)
             print(json.dumps(jwks, indent=2), file=sys.stderr)
             sys.exit(1)
 

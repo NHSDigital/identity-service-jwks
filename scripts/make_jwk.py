@@ -78,11 +78,15 @@ if __name__ == "__main__":
                 jwks = {"keys":[]}
 
     # Check if key already present
+    # Check if key already present, before kid check to avoid same key addition
     for key in jwks["keys"]:
         if key == new_key:
             print(f"Key already present in {jwks_file}", file=sys.stderr)
             print(json.dumps(jwks, indent=2), file=sys.stderr)
             sys.exit(1)
+
+    # Check for duplicate kid
+    for key in jwks["keys"]:
         if key["kid"] == new_key["kid"]:
             print(f"Key Id already present in {jwks_file}", file=sys.stderr)
             print(json.dumps(jwks, indent=2), file=sys.stderr)

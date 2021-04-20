@@ -1,9 +1,7 @@
 parameters:
   - name: internal_envs
     type: boolean
-  - name: external_envs_nonprod
-    type: boolean
-  - name: prod
+  - name: external_envs
     type: boolean
   - name: selection
   - name: check_mode
@@ -14,8 +12,7 @@ stages:
   - template: ./deploy-jwks-all.yml
     parameters:
       internal_envs: ${{ parameters.internal_envs }}
-      external_envs_nonprod: ${{ parameters.external_envs_nonprod }}
-      prod: ${{ parameters.prod }}
+      external_envs: ${{ parameters.external_envs }}
       selection: ${{ parameters.selection }}
 
       # non-main branches ALWAYS run in check mode

@@ -5,14 +5,10 @@ parameters:
     type: boolean
     default: true
     displayName: Internal Environments (internal-dev, internal-dev-sandbox, internal-qa, internal-qa-sandbox, ref)
-  - name: external_envs_nonprod
+  - name: external_envs
     type: boolean
     default: true
-    displayName: External Environments (dev, sandbox, int)
-  - name: prod
-    type: boolean
-    default: true
-    displayName: Production Environment (prod - requires manual approval)
+    displayName: External Environments (dev, sandbox, int, prod)
   - name: selection
     type: string
     default: diff
@@ -46,7 +42,6 @@ extends:
   template: ./components/deploy-jwks.yml
   parameters:
     internal_envs: ${{ parameters.internal_envs }}
-    external_envs_nonprod: ${{ parameters.external_envs_nonprod }}
-    prod: ${{ parameters.prod }}
+    external_envs: ${{ parameters.external_envs }}
     selection: ${{ parameters.selection }}
     check_mode: ${{ parameters.check_mode }}

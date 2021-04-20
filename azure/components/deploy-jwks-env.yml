@@ -3,8 +3,7 @@ parameters:
   - name: stage_name
     values:
       - internal_envs
-      - external_envs_nonprod
-      - prod
+      - external_envs
   - name: apigee_environments
     type: object
   - name: apigee_organization
@@ -58,30 +57,9 @@ stages:
         displayName: Any environments?
         name: any
 
-  - ${{ if and(eq(parameters.stage_name, 'prod'), eq(parameters.check_mode,0)) }}:
-    - stage: manual_approval
-      condition: eq(dependencies.check_${{ parameters.stage_name }}.outputs['check.any.apps'], 'true')
-      dependsOn:
-        - check_${{ parameters.stage_name }}
-      jobs:
-        - deployment: approval
-          pool:
-            name: "AWS-ECS"
-          environment: "manual-approval"
-          strategy:
-            runOnce:
-              deploy:
-                steps:
-                  - download: none
-                  - bash: |
-                      echo Approved
-                    displayName: "approve prod changes"
-
   - stage: ${{ parameters.stage_name }}
     dependsOn:
       - check_${{ parameters.stage_name }}
-      - ${{ if and(eq(parameters.stage_name, 'prod'), eq(parameters.check_mode,0)) }}:
-          - manual_approval
     condition: eq(dependencies.check_${{ parameters.stage_name }}.outputs['check.any.apps'], 'true')
     variables:
       ${{ each apigee_environment in parameters.apigee_environments }}:

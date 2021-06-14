@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "1N1qK5cTBr3ht0V9wWUCjjCjc2H_8GGvDKYP-4iZTMC1LULcO-mhVTqT2J3llkbdpB0fY2lpgDH_88nYm2Nl-71GIKhRob2SU3N0Ujn0H_xjerf-Vo5UFoxyfuH4Utum3lnjr2rBT_Kby5GwJaEHb-UpoI6_IqNIE8RV0733ecu5FOgHCEW1VjnBfYSaPFv0Xpaj2jZ_tIFzVqJH3qm50YITySFflj441c0Oa-Qivx96A9Yyj7Wmv3_p128-ytdNcsWACSLZiyZyXEKKoH2L7wClMVe6o9lU4lND1Qp_12wzEbU79pJJ2o1TDaKrlq0IiQYJoowu2K789XRrbo2K-UgAbagD-E9vNFcffyD1cxRMbWxwS5tCDGwCdcNG1TnkLPlhiHdDwuCuLC48-BSiVsWtyrUoTGSn3pmBMvKyXfxqBOr4pO-ItqLQ8P2vuE1r00X196zpzY6Pfy_NMI1PDGuFLqh5kac62jNaUAE1QS4R67rieHeGbtSqW4oZv4LVq4_1gBkpECDz6cmdVmmkpp40Zb6MWUA5P0R6sfsBoOdkpUlsFOfYdmVWF48LL2-dugEIg65-LhfZ3UdKx4zOLQcM55mbaV2TC-zlVtyVu_Ve-wVpYaoT1B0Y6pS3a8q0W30QdiWD2J_WouQafGMZEOnJjI8z6jY2NxHFfQi9y00",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "pds-adaptor-test-1",
+      "use": "sig"
+    }
+  ]
+}

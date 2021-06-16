@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "t9yIOssFlaHVPOcmpWznvzvssjvPCSD5PhjF4kaga5MtfVhqRJycFEm8uzi-Nu1E5V1eqWO4EYxxY-FTdujqncoo02743nHUN-gMGKGN2537_TkEe1jxPneR_H_rJY3LJYVQfGnbqt1-7mrV7-Op6R2U-yjYAeembyj3h3TQ5QYgsC91smDAPTwOerDIU5BejzB3px9FdhMTP0gX1xRxCaxV87GNt8g32whd3VJfSMCj_t-verfdzok-4z-_eX5u0S97ec2EO_oynD3PT1mDF-3DjWQdo2HxFU3unVTJ6JzhpZJvKijlkhiHFvmbRFTDzeHzETv1qSKojj8CRNeGkE604tkLRyYSVCqSE-XsCMd931ceQIHKY78M5PgwDgeYza5xYYUs662Zxq4N3ukC_3iwN1_-fC_2c4b_FPi8HrONJtWjGtx6sVfwQoK6Mk2A_HgQJW13X5pM181d-pdo5y8Bd2wFdsZWcXVUoamyf2fZbfVnOV5K4qUr43RfLADjNlWBdA-PKvK2Wwsqz6VGgOZ-DGV9_Iiclk7Bp7-1ud1M1ri7oDlI9D5yofyRCfKs-bd0_crvFMo1fFtFdZfI3A1ufnvRKQkFGZgo6fT0Hrz8f4BQzxrJLV36qreQFqurldX7pai5xSIQBUjqr8dxl0E6Lo0O5XTWHwdyI0-1GPU",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "Medtech123",
+      "use": "sig"
+    }
+  ]
+}

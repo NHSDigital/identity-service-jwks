@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "x2b4YJi_cSLgP4k6hKcVKyrk1-r9cz44Pn15FUQnx33XL4MiQUh9sASAhHiQlqCVvL2YTP7Pxz4KIFDnejYpyVt6Xo9fTREJs_092ito4MmI1MzWV02bWEWOrMYwRDCGUY0-Wgxnkktv-Ltllu9h5C6Zc5U7ozT01Xu-HityXc5mSI-RXN-HnIRqoPFc_NYpf2SELA7W4LFOUIFyi6loHLfOeg8WzWL93eujIu9HbvxgbmnfcgJ801hSOCb77O4BKZi3zr2esm9tt1IIJOafnaL-13hb5XUEKThA0Q7Ky8wpRx8vmHXCUK2-PuDCwjxT02z7lVArXkMHV23NZMJewNyqTFzD1gW49EPQLTtYlf4SlLTxZjuoUPmWZ5IZ38U51Vl1o0qzyoFd4AGqv2FPjMrvDmexU5TcX-qMf9o_jMFTrV4fQjIuz7500HHH-cea3cg-SzzO2RhNY88Vd6DfWpP1wdyyPfsK8N-4yjX5iVcJk6-QTgKwslkaZ_yhElFw53BnydQfD22EUIhu9IBmXuSIYfPAMtMPgc4YZk9IhIR4wVJV23trDnYw5xQOzlRc_8I3RkU5E7t1YhWwTnsJvW0X4sJxFlkGio-1c8UGIOaNC1gRFD6IoNR0-DKttgSD-C2-OSD4Xh3ek6Cy1QlNGRLgBAhQ6gmqZv3IVexZZt0",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "Apotec-test-1",
+      "use": "sig"
+    }
+  ]
+}

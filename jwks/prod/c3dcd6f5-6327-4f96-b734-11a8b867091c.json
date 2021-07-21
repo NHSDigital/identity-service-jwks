@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "1dA6ns5DwIvxJKTBTRZQA-hMqLneKyJRBzDExrzcCIF0ct5FzHdBjy8tB0dSCE5v8vkseBLEtnjHA5ik9UzXvmianwSd5vFiQ9Uu36sfge6HbkgKWDs-5Ua8VgIBqcbyVBkwNgc7KifAIhbZfydZY-7zWCi2wM9JkHEHzfNWRugYvZP-Jzknsbs1-xi3zXZmVZMHcplOyQuCL2YX_ob3_P-wRdRFyWSO1mMMO3unWpfQPS9O6v0jUMFW4mH1RiRdwM7Z-rx3Lz2AhiOobHUmYnx6XymSGB8nzS5bCOkeftISCho3lPlByUzxlBvPQdjVBqP1F5Akli_SpaQm-1_2pvV1j4HISS-vJBUdQqnbek9YhTC2pWj1ie8L8dlQ--EbCRt43522xLXMY6lmr96PUOHGTjJUEaWg6_nnJIJaf70RYwwnk8Pxhfp476XrsOetC6jqHjzxHBcGcq_vFSUvCAp9M2X8-KBeeM8YPflXbRcGbn5z_zPQiKeZgjbY1HTYnnNaYZnCddNjwZYJ3A24FfREMJSzptXy4RKNnVAl7B87t0drCytfSLQ6TUqk-yUlEL54XRUzOh3z14-Pd03bAvYcYI1t7U0fZyTuhwgIx6br5hxnweVQokH0_LC8pXw0mfqfCRbNcLXAupGaMSjxQelziYD-o6Bk_sr9Pswaf6U",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "wmas_prod",
+      "use": "sig"
+    }
+  ]
+}

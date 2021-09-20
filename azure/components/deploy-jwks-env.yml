@@ -134,6 +134,7 @@ stages:
         parameters:
           apigee_username: $(APIGEE_USERNAME)
           apigee_password: $(APIGEE_PASSWORD)
+          apigee_organization: ${{ parameters.apigee_organization }}
 
       - ${{ each apigee_environment in parameters.apigee_environments }}:
         - bash: |

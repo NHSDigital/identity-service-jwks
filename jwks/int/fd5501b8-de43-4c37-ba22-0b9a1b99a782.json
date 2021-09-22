@@ -6,6 +6,13 @@
       "kty": "RSA",
       "kid": "pds-adaptor-pre-prod-1",
       "use": "sig"
+    },
+    {
+      "n": "sFi1GTY4sHTcaJ8aT11FwjXYyiSHBwRfIb6yO8ruKK7NGiiy78tXsufWXd1UT-pCWSm7U-VGISewFb0i3JO4MHVphOq4MefipzmOHYyFt-fMy6x2jIQ9SoU_FinPnKzJPsvgfsSf5Izw-MRJCWPI47E7bVQRIKZll7lkfo_lG56QMRRcb0HklgJwR95BeIddZf1lxjIBQ4dcaCCTrofRwuzBd0PuwRzOkS0jVsWz65hGp5v-dIAvgZkR-iZrapkjLyMotdqIX6Py9MVEeMTpZaZeoNNErrax4GXJjCujQ6qZlUZPlaxOLfAssG2sMxPMbvIoxmAWZvsdmudsQa-DxrL7sJdA7I_2zlYPhP81Hog6mFk-niAUb0TO1hagRI9uDh0AghZHt89mMhGetaxJyixXsnvHyxE3w8xXeMu-sRcPAcAoroIq8t71l0uItR7M40KvG2BHMRBiTVp8nz_-tHUVcmbkboxR84Ex7nVoTSNfdAqFWLGKzK2AQ04L2h6yn5lsdSQllK91jA6q-EaNBXaJjnpttp_rnSZrO4EujZBZrwAxqx90aNnsjBfL0qIbv5-vjzTw01yZbaI8-wyF9cuPuvkFfW4qXukBLSPoQe_9Y0fFY-LSPfxDiBZts2rUY7c27tAgk_lAECiiwJBEX_45XtJoHLXE7pHECST6biM",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "pds-adaptor-pre-prod-2",
+      "use": "sig"
     }
   ]
 }

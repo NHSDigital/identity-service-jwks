@@ -94,19 +94,19 @@ stages:
       - bash: pip install --upgrade pip && pip install poetry
         displayName: install pip/poetry
 
-      # - task: s3-cache-action@1
-      #   inputs:
-      #     key: poetry | $(System.DefaultWorkingDirectory) | identity-service-jwks/utils/poetry.lock
-      #     location: "utils/.venv"
-      #     debug: true
-      #     alias: 'Utils'
-      #   displayName: cache utils dependencies
+      - task: s3-cache-action@1
+        inputs:
+          key: poetry | $(System.DefaultWorkingDirectory) | identity-service-jwks/utils/poetry.lock
+          location: "utils/.venv"
+          debug: true
+          alias: 'Utils'
+        displayName: cache utils dependencies
 
       - bash: |
           set -e
           make install
           sleep 5
-        # condition: and(succeeded(), ne(variables['CacheRestored-Utils'], 'true'))
+        condition: and(succeeded(), ne(variables['CacheRestored-Utils'], 'true'))
         workingDirectory: utils
         displayName: "Install utils"
 

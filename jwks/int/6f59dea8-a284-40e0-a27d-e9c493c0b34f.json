@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "hHsm4eDd2Z5n_eMNSfoefPWRqB6ikTZfoloQoBTJuUmbqRoXGEm7rt3K8h8ZMply-Q2tMrM-YCdZeG9Ymh8JuK1VaWQRsGC0xUcp7uGSshMY9RTsTZ5xQfFrKKnXkqSlzmoEDQ-Xr30DoRYKGPCU31W3d38FU5JaSwwsendIOiFGaNX5DN2YFWBY9DSkzq4XuKMl5ZuQh6km-1iiSKBckg_ghIXea-MhEBEfG9DtEYTC-8gJ9A9BCpaIThzJ-vB36j0IBu69VxJfn8iIYmPDAvJUuefgzak4y2U13yoPC6MyS-l2VKfDR8YeW0xOzYbi7ysJrW0shnA9yGapQBWz_Q",
+      "e": "JQ",
+      "kty": "RSA",
+      "kid": "BaRS-INT-1",
+      "use": "sig"
+    }
+  ]
+}

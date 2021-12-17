@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "uxK08zo0p1X6cVw7cqrzGd80M5yiqOb2Qscb41UPDTmRhg3ET6yUfZl4NyI_gyajMDIgd0jOEU1GFU0HDGUg99pTwyBUCXI7Aq6_qhRJI00KntaYi3MczEeFu45gaRzRAGqSHTR_K4CoPtinoyEQ6z82HvbbUO_Iycb5AW43oDXQ4csuATaJVItSOEuVaJnYkpsiBoo66HHp6CKttOXwWNnqN5zAkKnkoDHWkp6heXm-CrimWKEmHyRHAiG-0wOLpWR-kW9hEnCBPLJAsM-73p0T0FA5URsAmc79tvJAIHA-qs9NI817ploLMX7F2SxTtBR0LFRFNe1EAq4gGBlrdQ",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "MAITBaRSSender-INT-1",
+      "use": "sig"
+    }
+  ]
+}

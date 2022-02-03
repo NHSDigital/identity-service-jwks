@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "0UawKQ-wX3-pRDRUXBYbUJZVYfJ4RuPJnk2jfpgW3_JIZXxZNgZV4uXXJGvd3ecLXyrEaJbDPZ2CpLrs-nB8EdpoR7_mJkV2iSe7kzTyb-g-Ura5Ui1gE5ofmxDwx176cHlJ7H_XWjXtF6i9sXvOJuljlfmHwLegxKbkiYorPixiuclEZEUUu050S9Fq0AzHYyQlIklk45WSP7UnJnD-3azEyoj1hHEXmUV72oTu31SL-C5LRVF_OoDbGk7bwsKVmQH_kMyU7I-FhYCHVoZdVvw7MoFwEPuHLWmRL6kQTNUb-4RhsprZpss7wznCLqK8oi-xhA0oxzwQRnr_PLtsv6w95ttd3HUgECQ4Gp_ZGbjFMAbjOeOHWHUpz8NKRqdVo80oscSUoNbuZEaCXmqg_LjhhnVoTSP0B7fvgRLe27soEBN7Zx_fTlwxMIgMI9vjpwrj0noNs9UCAE8Oacyx_HmRDcReR1t_dxhaCc8pip7-MlMWV7-pcBJtCok0DSx7z8NauWslr7o9NY21Yh_B0Bg_cHVYK4nt_moQtkHtEqi8zeRhDGrKUF4aUHM00gz_BxK1gQq2HY0XVtW-DEnncFpuigE9PTyafpFwP7OjRDBT_HIpv3UFqMohCB7hi2CC8DIj1BrshG_k5669YjfausDUdy7GjCc36yjV4IjND1k",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "gpc-pfs-int-fhir-pds",
+      "use": "sig"
+    }
+  ]
+}

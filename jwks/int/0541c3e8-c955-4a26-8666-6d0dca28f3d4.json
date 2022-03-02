@@ -6,13 +6,6 @@
       "kty": "RSA",
       "kid": "Adastra-INT-1",
       "use": "sig"
-    },
-    {
-      "n": "Sm66WSG-oXqumOPELJPkkF6CRYh5UpGGnFDX0hwQQ9zqITfcIwLkuUvNnL-Nij0zE1mcoQ1rO2M13hTEohoe9L3LTRhuZxPGf9JRfmCH6ps7WRL8KyRN2-47LHr4fbMSKTnbOfgXdrUIW-iGyulOlxlLEfg85KaEunjScrCK6tEwhEsCJXIgoFf4ujKEQK25uuFFm1Nga8Ytomf9qaOTrKCAVO9qAahxjcEpu8b9AGVWRRwGcI1ripqof-p2CyaTDCGS5P9c1oXSUxD3L2eTHvlD6pC4a2V3bojZS3b6fXG-QzeCmvw06Wr-n9gPrax7kw6Px0FIHvGEMzoVEHsFVGI13EQOhgX1DpRsnYfZ-ateiXGUfjEpD7wYtUgJMZzDTPLSVgvmmq24Ubxg0tgROGKgS1g3EO2b7aHe9t0705JAmkPwLmE3Xq_NafBJET23ht7h1PbFtM-IRPbGJZwJiSjzlZkFTGQipsq50C2JfuqiTWqyEaTk9qppIhwmIJaw7dpuzl5D0LuhBR9ZhCVxpTa2KOb7ltGDkuXfHxPvndmwiLj1iOvvAm64TregyaX42dzgGnh6CtquhJG8u59j8P__AJQ26LgC_o9_HnbKhE-h4FDLRyiTBuKLjWjIW7IHwt-dmRmBI3-7qviK0FEo83Tx7zTVHFWQD5rJum830a8",
-      "e": "AQAB",
-      "kty": "RSA",
-      "kid": "Adastra-INT-2",
-      "use": "sig"
     }
   ]
 }

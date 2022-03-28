@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "n-1Isy3vyhicer9_FVBr3s6lCRtoTzpLJApxMiBXTRaoV3vcKZuP-SA2aW7Z12F7alQEvOB6PrfGNwG3wR3VLwf4FIRg6m3_6VnOilB_bnAOU4YVP2T6Iu_hHGzbUo4IU4ZaKNqx253LENQ7BehzhK2B_IdzzoOGFGTjyfu7KRcxpQPw6ube-Ba3mROtJQbVjU7HD6rya18q_18gzjn2_ceiJooO0Y7MSdPjdy4Nwy2z64s7_6b8jGQX9IJr5tTiijTxt-Col06ZFxscvvOzML3YcQamlpvEIWrk19gd6rCT6N3XuCVtwXcALLmVF6NortGS3liyXU-i3hMNuQhRL6Vn0pxJqYvkgA7BHb8sGMPwU-K9r6r9BdQSA_Xg_WReGPKcpuizjuriv-Lvl94bVs7EBuvtpN8kcLQ81FmK0MP5zeQ3lrash2aP86Um9OmcV_lKdJz5tw8nvYq4eVtLBVQcBNn75PW-vQDCvi79sCkUOF-tcUv3Co6fjgtRNsaukylQrw0S_Ho6N1Kr3E3gYi-qqyp9WcGrg-e5Oc9doMl-6bkrUJ5esSuNmVKGXFsJPBN4eN0_7C5Q-ddW9jguzyldKcCOumKeMxlKXt-_NUzX_w6Hotb9NtbSc1Fr5ZPftPWOzZ-8gBcxl47gO5vHPTcxbE6Pnot0umNwUL2IGp0",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "Photia-API-KID-INT-1",
+      "use": "sig"
+    }
+  ]
+}

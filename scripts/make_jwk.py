@@ -28,6 +28,7 @@ ENVIRONMENTS = [
     "sandbox",
     "int",
     "prod",
+    "paas",
 ]
 JWKS_ROOT_DIR = pathlib.Path(__file__).absolute().parent.parent.joinpath("jwks")
 
@@ -49,11 +50,12 @@ if __name__ == "__main__":
 
     # Validate app_id
     app_id = args["APP_ID"]
-    try:
-        uuid.UUID(app_id, version=4)
-    except ValueError:
-        print(f"Invalid APP_ID: {app_id}, expecting a uuid4", file=sys.stderr)
-        sys.exit(1)
+    if env != "paas":  # Don't validate for PaaS clients
+        try:
+            uuid.UUID(app_id, version=4)
+        except ValueError:
+            print(f"Invalid APP_ID: {app_id}, expecting a uuid4", file=sys.stderr)
+            sys.exit(1)
 
     # Build the public key
     with open(pk_file) as f:

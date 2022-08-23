@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "thqrJH2mjs8EKtFfDH6glCvN-5Uib5JIr5oE0zccSh10wOJR-pjS3ELMbBEtSJT1F7F4lbzHTCN_OdPz7P6g3KOIIowzo5oaW2zPf7kJd9UanxJRViEUwPX7bH0bO3iRraBD6Qqvzy6scdvoqcRyrPF6dQRx8Q1vjnqFXAzOw30",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "Strata Health - Pathways - Integration",
+      "use": "sig"
+    }
+  ]
+}

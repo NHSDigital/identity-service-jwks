@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "pIzTniG-D84_P0fr-rd82jCsf3w6hxXVEyt0HvwqWVHBzBlEBSxjwBf0J7LHdjuGIQPKGF6jKw-3ifhC3jYgl1wjwfxxPPiHIOCfMsL-BZOzVYf_40NXPaW1kt4oYBmMnr6issmFsIoAhl2iy6Y7iDfJUTNjaRiTCkSuOi7ZFX0",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "shs-bars-dev",
+      "use": "sig"
+    }
+  ]
+}

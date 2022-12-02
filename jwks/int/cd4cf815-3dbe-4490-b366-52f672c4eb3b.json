@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "7OWyTrciBSgTS0juph8ggVV5SerSbKxyuZ9K5l23BXQ3-W0ikSh6Reso-JgDyC7CGDmZ7WM4K_XTZPR5omdqsYb6PudkNaI0jBZnNoQcfi1CoXURj3ybfQPHTnfxb1VDlRI6xCZy8UlptakpPVOrTRhPp0CMaQMnXe1CsHTCjnF_q92DxEov99r-rA_zVlTrGBPpICi_Jhba5AccPBLnqfr7tkYMg76jd-ChH-_va4gMancEWLRAmTO4F2gmIj8HS2R-55DlxfbHZa8b8XnKs2F0caJE1_uT_dFHIs1VKU3pUKViFM5JeTQnue7fFKPowy9gAYxqSv_olSJchJOEXOnYsI6spvS7uO_HvhEGLcJ_Wh2FVO-7o3BCG0_sdmNQu7hdnwJm2XAV2Q7jx_GecyK_uxtzJLpkP4SP87RtqlNOYjE47LRSpsOnCdMTx_-lLyxe1U7CQso1YQrJL03VO7yqn_mvtEhfLZ3YVpDe0k3U6cmE0ux33HeYwMFqYAz50N-BYAwcn5nF0XkrYdrvW4wv3bThCxX6WOATcdeC7mBb96K83Z50xRDb3FFeOa4qQ7OjyYYwD3CXgbqv2mupqhHzKaqkKXcF6Gn-oTqtEpZGmliS9ecTAW56CTi0m1elJC_HBNQUuXxjqUdSiXkVPucOZr-B2Nc6_grBUCyzRVE",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "Endoscope-Test-01",
+      "use": "sig"
+    }
+  ]
+}

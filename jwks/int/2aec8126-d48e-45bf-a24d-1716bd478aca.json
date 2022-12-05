@@ -6,6 +6,13 @@
       "kty": "RSA",
       "kid": "shs-bars-dev",
       "use": "sig"
+    },
+    {
+      "n": "t21kC8UW9-7IOu7ZfgLoEhpdY4TgMHaZIifPIq04tjneRnBIjfg4SjJKNKQ9_zDaQ0h7biuqPbIZdWiFVUONXVzowwR-wwNyLbHTbIU4WH1Xw6kUgUIfJJEvJC3qJZ7S1jDMD2UZT54uNsz_ITjH-MVQm4IWTM8mhcL74st3_Cox5TL9OcnN2qK7lfKoo2wWnahcNslvlpCGuapNQch1yNpKViDzOgBIgbQUtDe-NyBKWcD5UVvptC0sraycov2pgj1exip7ivuumXTRiS6BI0GKdyo8aWdsSLEBcX2KpeuH_pxlHqlJtq6u9AmVwXFg6-mzkRoA2jluO4joq8SScw",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "strata-bars-integration-dev",
+      "use": "sig"
     }
   ]
 }

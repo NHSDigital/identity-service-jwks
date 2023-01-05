@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "iHyLR0u_HstFsG_h3mvZFUJUr3LXBfFh_0oAxZbBcWLfNCcQ1apZTWL-peN-QcuqUbUjJ0ALxagKs4wptRQKPhI1hT0z9B82v0CYxjIsnCA8CK9uppXDlqC_J7kpTtco90pFQ1HJzoLcYR63iwLRJlqORnkIm5DFBDuxtAfIJ_0",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "BaRS-Prod-1",
+      "use": "sig"
+    }
+  ]
+}

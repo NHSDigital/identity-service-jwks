@@ -5,7 +5,8 @@
       "e": "AQAB",
       "kty": "RSA",
       "kid": "CIS2-Dev",
-      "use": "sig"
+      "use": "sig",
+      "alg": "RS512"
     }
   ]
 }

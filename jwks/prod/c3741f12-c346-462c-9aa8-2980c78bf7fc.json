@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "1W3id1tPwQ52iLE6jOuqS1eHXVOtjSwSqwKos2fSql1vXDSYoxhbse_B-hGK3RmvHrEpVS4kgCsKhLS9ohdEn74vxuwMPt35NIPpOccfunjlUKK0AtpoWWV3kEApTdL24XFiR-jxsY6jxJcPxUxpOjRIxCM-c5AjrGnnIba45_X7uyhw_5NcBhhg-JNxTxacSZuI3HFlXOF68UO-D5PdwUuBJjdwMkDx-RfYHj09skM80rEfN-bVSDCspKNd6XCW-2ukHMbKa3qf_ZAplO1lA7vL03amWha7vLZTK8mH4vf3qdRrsa-gRkYGERARwfUJ5cWmdSYdpR-5CDTsiCvNeRK_Je5V1d0LSPDJ-2gPB9KD_WStdl2wx1jxp5TZPYaMopa3RuIB8K2H-Pd21P_G1qRRaYuiVlui7pYtPCxKzY3vNIhLOxjiXPVbS4-eZvPX2loPinbAgtlLp8NhT9aanqoZ_a2RSblbzJG2I9JPh-7mDiEAR1R37X7V6VDdlAB4hkmdneB8SOIfoCHpF4HyGxXv91J0rfgEQr8ZSI0jY31VSaSTREv3OwF0pz-Ipu0SZPZtsiUG7Ui0y3RnHDebDw_jqk2voxzKH_AatjxgEYCDgjI5UhdThyUzaQVVRcNR2DblZMFeLzfjGk77KOV3JkXnhG9QIAoPpFXvifvFvgs",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "API access: Personal Demographics Service FHIR API - application-restricted access mode - production environment",
+      "use": "sig"
+    }
+  ]
+}

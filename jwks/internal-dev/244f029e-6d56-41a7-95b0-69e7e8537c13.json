@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "ufJroRnkn3rKOMo9SA_01Y-MG2ts7tuWcTP5VcBf9FSx7Da8uipjDnLaFuTL918pqyeeEgiF6S-5D_tuqIZbhQ",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "dev-jce",
+      "use": "sig"
+    }
+  ]
+}

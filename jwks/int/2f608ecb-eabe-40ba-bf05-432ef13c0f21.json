@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "w_fPEdkqyoyv2N-FBw0-Z6NfyVNsH5hUzTg3uu14XyMM1H3zXlwwkg-MvyO6by0s2fL8JqWN7PjlM4x2PHkGtKM-CfknSWCYWYBEIQoMhefIsOnvZ9Cw4ao0ps7VlJUNevHVvljojjOEA_qaZYMgbEaLy0VP1U3w4FiYrPEaYUiL7FY2-uIPz72pfMoTnGzbblCK56gPZQfuMIHnOMvzoL9u4veddq2YT8Z-A9GldVa6M5uHyTUNd6uw4T3nTmCnfCMmAGJMHcigrlrtNZctqL9Jevlvsejnyn8PLbsD6MLcrcXfRszaxXN9zFUXyHUUAj1JFwq2wWsxKVlRzg5jYLiuan9e7xrhGCMIKKwWWWDkRoly3ouETOfex3CwvXTr4FICrUTrgx3N71iDd23NFiPyX-7t-BUsOt760Vc8AezyHwlHg7SoBvMFSKMPI1nSSHISS5iGn874QtAwBKKbz7awKEUghgw7lSIkmRYeblfgihH0RCQzg1-FjOBtSa0BU7AOnBMhBvgMtlScdgemXT10TRAK6ET0lNf2JKXwmlYBkvzEKkQqq3lA3S3dTVoT9FfT7p3Cl7EFcUoj2Yl76xAyFPtp7vkJ5XkSubta2W9SUVJvnEgijAUkOyiiKvflcvucIg02lDKbj9-FK85VNunifO7M1JL3mrtUOinutu0",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "MQ_DEV-1",
+      "use": "sig"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "3ap0lDS3pNGGAK4JQnfSS4hvuroXsNr4TFyiFRHOXGw4kAqvQrskMeC0CCC_z25lLKzZGNQYp6byjTkxGDBH1tEGcCc6Y6jywdLE7XO9WhP-BsCQAN_9JVXCAEA1JkmgYAgZkst-_OhprmQ_YRtYE15DYdxNd5RiUocPRvUtSIVeDDuTs-DoYLuTQS31fcisfZfgyzmzkivmUFqPIGcCx0jPLXBKHGHzCinab1_KFpDCcwt3U94IgaxKgk5yadW8WOntbPWrAgbaHRpmVDrz1Ip8_ifgeO795VCe57Q3On0i5JsWSXrWHhwMylO_pQGiSK_rwQcKm-YX03gT_GsWftHjVZPeGrP78_JFVCOFI5pLEX15uv7dSzJzlp2Y5F5JsWn4JmznwM5E76SWEqpsLyMa4oKDQCoqXXMRAyl37c4rE-ZI0hdjdKLQUO33DJHI11j4ICTPXo_0br5BtIZLxxI1tLE_XPKYO6Cl0ysHq1ZKrywvF7tYN67ZXD6jr1mD0_VUK-yzFD8YwlJ7uqrMpTkrebsBjrstHyxiPMZ42LYHfI0s2WNMLEZiQYkMDuQkPhVfSZdueC6JnoTU1HGUpwJDXshnUaJGxgHVQ5j8NRWAnZbLVmuk_764ybhZDDXENXu9m6QvyGSjll67y2LTPN-M6GF8BIQukdBG1hwTb_c",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "Apotec-prod-1",
+      "use": "sig"
+    }
+  ]
+}

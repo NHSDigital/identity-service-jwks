@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "z6kYw8XdsV-ga4lk3mhJesJ0uvDtR36btBxAXLbBK80ImnJ0OBVCa9bqTEgptGAXtie2WDLXxmIHeK1Cs3dTkm-JvMNlw8efQf2XVW-kVj9gtXUk9vHrFJAMACe3ajQQ6LPdRwPbuDIQcdlBbRQz0MbOsT7vFuCzXQCZliboJRigWy4nuleSFzyBBNDdt_M03eyp5-0NezkdEc9BpywfT7LFS8g-xPXzx4pOheULK8gN4FB_h07XfXDAjKYV5zCjwwmovuYgkVx3qfc4Kc1xCjm8TklrxnHAKOzvYdmV6dC42X8vlsDCjymfFgdv_5xV3NzfjS-W_CDF5538AYoSyyxEF0LL0Z-JJee00dpbS8hjbfYe7-lbfoSHVlKkJ8QTQaty7IWZcCy7dAiZhGu5zvSHeit56p0cPofPYnCM7O-iZrwrV4cIsm9trPwRM4xPu1nMLHwPqJU7TXt44rae2wsXT0ZnP9lIcy4oSzKJQ-w-3-nEiUNwfTTqLKIkElwsA3XccRl1l8S-qYTvcqHdwpXGSe6IB3w25rT_W_RMZi__i0a7D0lH3FrpoFZPCBt8OMkpZUhK3FM7waravsAno-nqmy5BLuuiAHuGbdK1ban98H1Ry9Ib-59_fniOhbMoVtQfu0sSZLvTqtfxhVEfQ0WXaZjqRGecr-d2zXdFmzk",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "NWAS-PROD-1",
+      "use": "sig"
+    }
+  ]
+}

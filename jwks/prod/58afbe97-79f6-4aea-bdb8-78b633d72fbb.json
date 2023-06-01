@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "t2HNmgT0lalr9HW38_JS-_Yz6zd2BzwGfJBZQhNKx9nc24pMGlKab5cCKsxijHsDvB3Adw-pa-QbIx20tQDtJAxQ3KroTc2hm-tkxOMVx6OUjzFF2KE0avr2blkzIKbdRXxntoVRhK-3ongxJlBPXhv-A1g452kZv-ykXgc9eTXMRh3u1xQHjYexO-fCYfivWWApdqYQJD5R_Zxt1dy9P3PR-lM6SfGS8xrGPqmjVdaFYrWWEk3bgAU9_DzPOEPOAIwmhUzKZQjnyk2dSVH-gD8AlHjNQmJ9tXo_XdthhAReo4WoxDkXd3ERxf07NR_xQJUT5jLTfTwVdx5A-yBAwQ",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "GMA-LIVE-1",
+      "use": "sig"
+    }
+  ]
+}

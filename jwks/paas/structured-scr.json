@@ -4,7 +4,7 @@
       "n": "2q1Fcum_4ECiyWH0HfNhykpIB_7JkElZWD8sAMrNwYR6CNvF5wHp-HDfwTe-JxnpUh96O_TArO6WAnUggy09xPlzFOeEFgWcdBhUmyV4_CoglF4vN7P2MOBU3PP_l5JyTkKujOakY2Bqda401JqW3OkzfTiE9jshAWIYPY7eDp2htHdYws23_F4k-VU-RWHD-JDMDBvvsZLBjwRMwTfJRbzn3xoj6G5HIeoadR-DWvOSxsAtnsvcuqw9PqYNOjgHz_Voxb3JZYNmMQqVb22VF9q5u4V5OgAU8BKlJR832OZkU7e9_skfQge9TbBHCdd9iCgQvu8egZ22eOQgovpAYShtsJPXfbXWrsa8O5el7AmmYN_ZHsmDo7W2NK_xGafsBLq2ciYhkVBhiVyUJzymlKyms8S2wq2_tTXa0Hw1sf5XcrreMcS0e8iDhWJJnotYuJM0oplvKuNzJxfub6Dj1R5ySjrjq_Cj0hRdlcQz_i36qUVDsUkU8aXPZPegpRQy132uCDQi-xnMR6Jk9T07lGYp8cG3hTJC7NQ8_6bYDgmSJwomQqqORtIzSEWiTVBiJPBnOtN0jYClnPzekpB2Uv3Girq4BZ0BqQVuEDy6can5qVaFGmUpACQfPMGGd1tQXwQCZIzaKRKrpC0ERW7fsLqA1MhqfmQ0UAH81hva_F8",
       "e": "AQAB",
       "kty": "RSA",
-      "kid": "proxygen-cli-1",
+      "kid": "cli-1",
       "use": "sig"
     }
   ]

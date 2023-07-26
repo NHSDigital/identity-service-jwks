@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "8mdJfDOnjMx3hzce1bStPpOjI1Gf6eQf3jclvN8wLK7dsgNwzgzLdFP5O7U2QIQsB028HuWfGEQ5K0-TErwhozLpegy-RRFvr28_c4OsKy1fiMb_j6XaT2nGlqBfxDTUsjlYjx1s8TVEc3biZDWKP9aUbAFCnnrgC4xF4CkAmKkw-bSetbAeeLFVEZncrQ1FP4toMF2ukg9jcK1TCMLRMQx6m-wuytyb4082nwloSoKptCvdkeeLqhEExWCkG5PuMW-JPgTgbyzFKEPsRUBGfX1D7MvcLs7cjJhP3O19MU9LOJaoKa_QkIN4mJH5pVQN3D7swl2hGDcZEoJvPqBY1ZSN8HFOlnsHEr6bubPAOtuX8rYUFDoJ2pW5q77nj0zugK4sNkBBnOWNQtJXQW8xMjVNPIAp8va0yJ237CMm-AnAr__4j0LnEPAdakv5RkqsNZvEY1Gv5rW9E6iRd_r7wg8bvNECxqk17XDahAhQbD60R9h9r3D0HVyQEPATirJuf1OaCRHFX1UUZbJDtC4KPfUv52LnLK4F2D293zbOGyNV_hs1MuPl-pUYGd6E7WK0qb3bjbDhiOI-iBscyHcwR8zEODgoe1SfaQ0pxnclxZ2imAHhdWJJYQ1JE39fQB1rlsA-d4wRmo8sLFQKsEhBGsHS50TTfRED7ygiSgeKHPE",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "liveconsumer-key-1",
+      "use": "sig"
+    }
+  ]
+}

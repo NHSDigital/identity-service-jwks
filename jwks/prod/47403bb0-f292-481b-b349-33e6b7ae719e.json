@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "4b9JFBRUt1SZVIv8sTTzlOy0AcsKp_cMrv3xV7a3WOIZh14T9fG_lwgylVvHGknzGP_TVcbdAA4cH7ls88vvdP3Fvjj9MxZKPue2rCrslB37hnAAKZCj6g518PyHl_re97fAd-192rV4-1-ViQKJT2UcIltYJK1Uyfrl73qRGBZAwiLRwA4ED22CGi4owI_Ziw6QQjvVAawxvkhii-947hVDZEYvNu9ePt0MWrYugcPlmeEfmfci1H4edR3M8GljpdjaaKcZT72CbtL31wkOyahtnamrFTUetqNTndY5sOubWFoT_BdGBdh-HDMTPTkfSqoYVyA00rdAW0TXNbrOKP2kvFPM4zTAfzzz5kChy50r5TMANuSUdPcFL40_lxM8JWkl0DLzgWrjiVPVT4c0KlMpHt23pJV8UkzX_SxaOKhQFyrc6F7nqDEywTM6ldDgskhJtxGpGgUwZqUbidImmL8mAb-l3L3XbV5GDzkR86gl3u0J8csYmyV5PDNEh7AMGB0dflZUWvTpUfUiDVu-7dsjZXyqXF8GHnW7EGjZeSBTPWhHvWUHW465GFGDVMOB1lMx8MJFyal90QaxH-KFoiCYpZ-qdpTEX0HZUJQHthiv3_a3jXUtgDhOFTNXE5m94peYOwo9u3obJC8QFKO281FxAo9zhLAFPZb7NIAjHt0",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "pdsconnector-prod01",
+      "use": "sig"
+    }
+  ]
+}

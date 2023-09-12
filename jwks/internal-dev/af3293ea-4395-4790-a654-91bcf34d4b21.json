@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "kF7lZk6GJ4sSIvIEkWq2fuM7OIucCdsj6gdgA574kTv2CVH8NCNgjpKgzcLKU6uhcdVsSUdKV3rztYrSLvppyNnL1Ow0t8tgymjXmRCzp7fNBZnFmD0DnIgjs05cMCRci-9Dwo7aD7loivnbE8213BagfF6n65Ctk3QrLV4c4lB6SD3cBzYvzF0ag4qBFRVahqvh7LO0ZzneVTPSh4TkSKJEOJYQWFbgmlXvcI5_BNM0Sq3AeXaXPmBPJt8-Di6h3nmUMm7acXUoI4_He0oygdTyhSFfpA5TDiY6Tqxn2c208sTP-kNlaig-tvmlub7ktaXi-yehcVY2j7rdDh6yMj_hTRBbh90qCid9LOiLhDm0T2kt1MjurBq7xqCl41S2xROB1p6sJYLZHxI90GScTElUB6FpDp0sofPJU4j3FRZmxMvc82nzBesHUwLLwUK37Nw5_kyKJrT16VUH5zy2sCT2HMhisrSturULgxoOQUadp8h02naneR2aPtUW1mNdwD8lKRJeXOxZwb8C7rrWxT9Pt69pjfknCmwKx61JqxAnmmxw-SyVVpcrrGpcSUe7jlWF77Cp3PpMxWut3LHHPuObO1ONl-pJX_yaS8Muzn_i7NLrJRcC8oGZNfVl29zXQlNRaviJVYmYQ_okmJ8aV0R-NS0roK8FakaBsyyKg2c",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "spine-mns-internal-dev-1",
+      "use": "sig"
+    }
+  ]
+}

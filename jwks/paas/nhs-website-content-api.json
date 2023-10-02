@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "5xcOGvkoHcHQNzjiakRwFZPEfZNz9nOpirgepVvYGJeov5x5ofD1Tl2X_bMIPAqKpgDpfC9lCQMFXoTAT3DczvMawJioOoddm_Ur2FgjMk9xuaoiVGgfTsUP4n7mnEm53aieG-bQFIUPjSdX_AdKYL3wqxgqsbkbpirK2pXU6XHtJfhsz_2Rn9n5x61eW6t8xmHEjE1vA1mjiSW7tIabxT5VaTWY_--Ca4SyRmYfukA2yGW2VoMI0g1yAwXBGo6k2pCuCOg8XFnBCALo8Hn5rEokJwkZyBWrMqMuRTemmQ_xT04eZ0eTLvA0LK0tFYWKBAXSWrNbFD47MtyJ1SI51_O29YKZ1Ma5TEQDLOwFVcTyQ-2ePotIkeQ-XwjEbUsPfKf48JNi6JsNozWma485h10zOGVlYvTWaQjea1ESkdQbzbUWr3FRDVtMGjpzMzvrNFaF-jKmls0xqGWdI_MVEAvU2s8Q2VX9GaDwaqWdVhdk01MoLJnYykrrqu8D93P8tlOxywy1UdmMHgjPh90A8QflBPtR_su2PdyCLw8-oCimwh9_7eDQpbpJmX2YhpaHZ4FdhpbPqrifqXqHPpalKb2F1E1fLdGhXDhYhaKC4AcwBC5dG2acaS1QYijTXXlkv5rymDb2cW5rYcvBkek9txcHqcBmvSw46JecGkNbiLs",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "cli-key-1",
+      "use": "sig"
+    }
+  ]
+}

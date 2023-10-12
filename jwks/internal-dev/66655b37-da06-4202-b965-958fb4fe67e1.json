@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "oGjHLYmr0UDQDtZnsenapeo-ABjGJucGLNwRmFEn1R5rXRiHXmgJsPSfIc4Bneuq4NME_qTiDBRude9IL8vZqQzcK5ZgSpXNFnQeHfOzdvgdY_7infmfFfnwQ9gceQMv4UZsEHwHZvBagsrFzAqwm2lddfQqdPylqGYjnKew8tvmF8LQHBpLUwsXF-ewk2aa8itovJj-7aMT35lX5pnfn9lw-vJvuhB-3rAXAocdoRzl1sepTkMOnxP4WuVi64wWaHvcOwleX9lLjj6jTBNmyJJvRB68-YBQdQRiZTxcQmP_-U_qP8uHSBED45jYeY6cMuZ_BQYtvncP8ref5Kr31WR_O5HVpSMI73sE8OJCXySzb6lnBPUKc5rraPmdMIHCP_CGAmlILHNIs5z31sxpQcnh6AWbT_731w7mq4Y1nKOSaDlHCjMz24DZIAsW_XnCgZUMlZ3EXdGq0Qq7FegW_FtFPBgffTO1ISFGTro2D3TOR4UfAd6dN0RC_P6AO8O-9T2pXc3Mzn1cty3DKvSNljECUPLingHHBFrQd_CTN1Hwt3WybNAidosieDprMktLUD7KqN_EX9iC8sic38FLxnzuCdQrhAFv92K6zgZggOcE7rZoBpdfDqy-ymNOpz3fOIJP7gNOQBq3jegBzjnvjJ0fXDxCX5lTpBK8wY-Duxk",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "dev-key",
+      "use": "sig"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "uWXHiVobgNT0dXvG4tX58cs3wQhzEBgXba7O77e0OjRc7prB5Wxr8E_QfCkAEXI7NZ2xjE5dR4oaBTx9YhQdScWqumyGF82b5AJijNioM0QPseigfN7nUq6XL8JNcLaH9Crju5o-3T-JHjKWUyGZpaxNobN6UiPwnzf5JkL6B-B6QrJl1jx3qmeuPiOBpLlurSkYlG6jrNr5qg9C0VJ4wokfK_1dw87tv4qj8mwxh6rVok0rS7LQIK26OeJikTtJn9R4J2oN2SMhzWfjooKnk8A7ZKLwII4Pfs3rNglb3Z7QyY_ycIwJ-WV8dezkRuD0Eko7OnLq0sRdPJ0GqCuodLcWQdD-p0A1CaNmQ-qBXTtbWhOBaKbH09YjFog81Y0-85JastEcKsP_3ID4QVAbskfHV5eGiAWfvUpgND5YG1YdQXTIw_eey2ipfsUDh8-lNgeQZmBWLpgWVhbMLEKn5EO20BpzVjsa6MQ6mZp2Y-w76HH7euuhX3fKdcm6hM_L1PDBIM5-7WRXb_ezCE5oSUcqwX-rKBj3rFgs6ZeA3ODcI1_K2rUY9uIcmD-UYMYpugvWprszhqmvJ85mL5t5gqlqWbfTlXADMZKsuH7xNMu_x2nykVqWvANEnPvNxxlzD2pAe-lrx3DbvsPYMpJ_wHLJq_ZYjyfaSOI7Ps9TTvk",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "fgm-flag-1",
+      "use": "sig"
+    }
+  ]
+}

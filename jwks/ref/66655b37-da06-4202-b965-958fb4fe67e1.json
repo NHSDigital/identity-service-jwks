@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "x3sxPz74eXr8oCW6mUIkP5Qp5XSSbjBUQDIHvUEzr4BxpRfRoVkYPzKieVlJ54tfXRWYd3GVjivvqsC6ADDerw",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "test-1",
+      "use": "sig"
+    }
+  ]
+}

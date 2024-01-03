@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "iH0sD2fDzZvTn928rwGzkJFRdTvC2eb06s9lz4-9e-0c-7V8dAHP7oy7oN_TmhuITEbPn69OFaGO5FTCTut3bBGcc9uQQ0NjeNjT_g2SO7O_ayi9X_orE-UJXEjBXgk7ekcgggdS2_eOFuMV7uTUwnxn0373XO6kPZCp4o0bR90zDXx-nIAkCiLA3SOP-0Sq1Ve8bhEYOgQLROEhnkrTIsV7fXfnRdTIPpVZ-MbHYT3xFOSgpABcEDJnw74iDkUIUzIKEeGWo6d0KkKieF3gC8SfxjjpPItCrImh8PWyp9dbvpmQV--DPS5NZ_JFZ0KpyYRN3wU6ssn-f7iEFAL7cQ",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "WASPSoftwareLive",
+      "use": "sig"
+    }
+  ]
+}

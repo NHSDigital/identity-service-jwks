@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "uY2bmW_hO4dkNxTRejx9dbUa-DdoO17EWbrHTaX0FWY1xahh6slt_xTbP9O1xoCG5hWCTuTTaq-xSWojLql5qYLhlweihk-UhA6zpmP57yAkQwd68qYp5ddSLqoh1rECp-My8tThP9IJbKscKTXTbqv5jOwBXqFh_b6cNKKCtXRuoNCZmsm7RC5bROUaG_w4JaV8LlHWmpgOY7c45RNl7sj2If5y39qiRtaTwrJG7FBCZmKbc5yJ0ouZhj9r6RnJKfNMcMXcFI54Jw8G6PzNnUfeztl-vr8GdGxc57j_pu_iGpa1yucam3V0ZFFxJgvFQOjZeWtZZrM_vFzvH7IxnDtpty66OuytwEBGX6ld-Pn5uSaCvUU8hfHdg_1yPjc_7q6w9MKkriHQ-RL434lOsAV_v46ojlmEdHBolg7TtS2OCq7Dx5opaiBOGQUJBTEq1fWtpRO_2LtwIntlCU0FdDPncIJTzIeF6pNd-jaBJ2wPOh88S__DCOgriTVviLZh3lSDsU7Y0gp27i9QsH-4OJJnlylmdSqLAsAeVppV4ieqGPS3KW4-YjO9Rk4dKt2u6iG0fy-tys4C2t7dXVAY1hRPTs72wh46z23GE7Jj-HX1NZ6LVbevHPUgoiPvrQUYHKm1YYfa4_pMYl_432gX9R_wxU6btPBnJHg9JkFJquE",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "swast-prod-1",
+      "use": "sig"
+    }
+  ]
+}

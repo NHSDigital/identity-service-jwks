@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "5Ggss2Nw6VYKw4WMvbFN_G7XfnYinHzZetYVA6V62ptswjF_E48Rd9a2nCYdKAojxICGDb1Cb61yze0W689IEwAmBRn8n9YHZmQ1yZNDUOIuMbmF4Ed_jPcAwy9_koySL5BQdF9542Q6zH0yraXhwtvrvgj-R4aFJKmCheIY0u25VHK2BiM3ky4KfdsPppf18QFgE3K7j9CCjh2rRpVZtqY-IPpMVKdbj8kREYY3OMF-nSPzupu7x7b_sNFwEqkwapU6mpQmisCCfy_9DbyS3hk5ZaMllnEHMmkWEKV5VjRgilL3o3rw9YNQF27CjMweWbfKzgeYv1kEzPtgRjkUd2Y6RzPien0Hi2MB_Vi0qFTOG-p-yqDk43cpvbwwUuZtFAutvbHYV2HaXxxc-wsc34uEnSCjsGs19qJY9qhE8u9jJnkLnqAeaFTc1SeoG_Rpn0_j6d6J_iK0PL1bcRJ6Et1WBJc_zffTS8A97aXNgRZsI4ZkZ1ongVSVMK3sAdsFC7L5gaf2H8xGTavrWItJxfYZzTSCfzMtzaX923C3tveuGgJDIGJ67LXFdlE1y6SjMOqufCoe-ndBmIlalqoKkRYl0XODqX2MyBnKAUL4s4094xmi0_pF-SVT8-vSNLvDFrRxyPwZ4GuNNMgFqai5v9Aslfnjn-G45rxwWz5_cHs",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "connecting-party-manager--ptl",
+      "use": "sig"
+    }
+  ]
+}

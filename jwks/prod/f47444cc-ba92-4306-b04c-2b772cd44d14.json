@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "wPLbtQTdWJXQf1Df47UnGNPz51Oyht7esxdX3nLH_79-WYTz7f6XLVco5wVBw266vSxm0AnoLG8gpQkTQuuYg6QyJZidemV-tEGxk4vIFpmiYk4iWflq7y0732WQa4fBbIq3wa5orvfUJZyovTpINylKMicbPyebnB2nIuTGdlHrPeeta3Tu_4ja_OmTDrFvO1dFt2rw1qwWY2jxXB5do4mdvLsHetRfsuByMNfT3ktX5yBZaSoCqyDdnEIGWdhBAuMqNEsxbPh0ccupOCMYNGP6tUZbymJF-OfZfzW7qmkt6nwD4y11qe8KS_kwmUTU07ZGPiq1otzFfJJ4E0XD5_q35rS6yCOdwlIOy0Sq6HH8ePS_DwmC05zJUpyb3teKZdCl-0YqY9dgk30VNGO6f1jKWmth8GMsVSwbFBxCfZSjdec4w4YIO_AWjiorIUDTM7dgi-Veyw_fTQ8_44JEZvnpHk4m7rVdEBodF7o8H_u_G4kXx0Fcyr7UmhJ-RQfVWj_qcDGe6AyRMOT3m70sLz9SDxG7sIzNM_wej48kNJH8DMDd3GAkDcZ9AX08TYYNVIh7PWlzFu3JegnSyI7GG46olpIaotgSzl18ACmZqMZOoIof7lRU9buVLiz7XLR4fI-4gqFlsB0iTAWDqOjNnOmdKpdsD-noKC4uoADrWW0",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "gsportal-prod-1",
+      "use": "sig"
+    }
+  ]
+}

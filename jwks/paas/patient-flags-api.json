@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "swrdJ19mKPozvtey_sGqoRbxKbKjkkAD5UcqPvZ0Nu-tA1CoS9unz3EbBqYumfbXGpHTZ9ByeoAa9V2l9-5uuHT7EPBjInN4LCCL_1lxobOa4TrR3Al6WHbGMiKCU5u479SGgxXP2So2Fcr8p-RMLiB5WPM7i5Imd7Kba6Vam4NMfXWKFC2FQ98nu21YIJEQBf9GlvVM7qgpaIWc1s7ZGF_WDU2p8zxylIChtnyRJhulNcw_VlkNPoGLW6hIlAqeTa9Llzq5mu-4Di0u44YylcQk7iwOvYALrIMWynwrDC61rVvOFNAyZvlIfhu0qeiH6Eje3LJ3EkcAKnyIsaIU3zyBXeOymqPPlN-RwvP1Cy_6b2E3PcbuzyynKvt1r2dQWCvE8iRcKuVS2nKoPcgGiMuEcDWRM_m__q3yhNU6QF7Zmf2zWXlTBI6vQukyjcqhPG8AcbIxMH4z_61cz7ZV_DA-62B_GwtU3lOs5xgTQsNhCVfuCsHwzse1O0KFsueLGSg3BvSq_Vf7FbyMKT3MNUR06HKAa5xpdJnIt_RoOelj5VlgXTBC2Js7rVFcFcPd39dpybk-O3r64fDqHSYlEUAUjkJL6ha0Vb7U__sUQT-UFBkMJUQw8KP0CVi8VQcfBIy4JLCe8r5O2Hh_csLJKP_hmgmwP51RzLzMr3_qk3s",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "patient-flags-api-1",
+      "use": "sig"
+    }
+  ]
+}

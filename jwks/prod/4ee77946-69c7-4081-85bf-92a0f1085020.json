@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "pt41TSP6udDgtH3rwOYrQuTbZZre3FDYFnXcNCEujz9jVFCwu-W2AhsiVMfUFn4LgXlBvAgjRp5-EWLMZyrq3D8EuTzInNPxaegVAPW3vHz_pNGahQEHCwPEplyx8Azd6fiIOBk7_8KxQiwUsfoSb37U_NZKAlCyAD-NIvgx_RmV2sJRWyHF6ptFTrfBiuKhU8wHoL7Adoquk945c3LdfhpsYfK8UWQaNzpAvJcGaiz1GSTiUwrCpzJs-C0oyw5S7GkkbV0jV217gObicyLKEYFAhVUSebMSczxcXV-xhKq_cqqgwr838ZrmbW2cwUhcAPigS7W-ncjEZ8-7FmDwiQ",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "oraclehie",
+      "use": "sig"
+    }
+  ]
+}

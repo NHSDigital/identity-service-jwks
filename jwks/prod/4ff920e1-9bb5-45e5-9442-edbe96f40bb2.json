@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "lkRlHhazUxnjCHG2WJn3L7h_iOHuLXo0xEDuUy66zg7A2nMNIshIIyks2aJ66NY03jJ5w7VGkb5bpd8Sv0N9LKAnhvmm_cv3T6x7Q8pzr_ybyQTE1Lrt5e4Wrg_mRu5h77j0rjpUiceN_25siDXcOsHUfYhLjH0sJBWcC6c3DAqY6DYJs62ZxPrKJB95UO6YFEjI2X1V_YckaApmDbDY7CQMoWNgB1f4wW9TG6yafV04JiQ65Rkasg1DBpRkOBUE0YVGSRr1nL1uIQiWpvxde937tlXhgsj6IcEyU0VLnPxIukj-oGSICrszarZO7eARWg3k6uWeK3mAlXL3JEcmn865f7McTEVOBYZMP5h2h2Y4i_-CbwKOkCSg-p_zq8k8PO81NnXtSZDMVHJ8boPRnFeHi_JnUuP6Mrhp2hSUKEuzMARmtpxZiVg7eN5fTppaVhV7VlocnNqX2A1y9g0SWHd2PMpvAIcrE4ML_5OFJ4o3ys2j2I2IotyFQSONr51EywHFFtaWmmawiCcqbhtFSKDoXuFGABLxi1R1cw60Xu1P_MvtLD60wl66t9aV2Z1HpWJrzhWNGQaWPBWUgHaerCvi0N4GJxlzTccMLQY7ZB8Atzfeux6KkPnWB7XnR-S1KuX2OvFx1e2a-s2nFlKMrURpKRf2cAnD-HO2e0inP2c",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "prod-smoke-test",
+      "use": "sig"
+    }
+  ]
+}

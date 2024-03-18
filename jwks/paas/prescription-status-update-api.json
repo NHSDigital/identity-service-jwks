@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "mtnZbRL2TmjJSR0VjeRP5y81Ztz21pzDCLZeRLnkWW56HR2-xDBUxly_ldjPnsFXl06eaRx91LeKoibJwGxN5SvWTpT2qEkej4ljh3363Yos_f20aDF5J4Q349K6ZGvZBVPR3yRS9v9Vg_KUFmA7h9mF_gr9cy1SM5SyEsxOorV1SBqv9Sfuq5ngsYCW63IuWVBNXNjSSu30x9vt8GiA2dYU2NiDW59LL5xnCuLnkq39Z_fH5eUsAXvy4Uuowx6Uf4XoJuJ35eqMjFFMPAEIkzwyFYCQldm0xUlCRIIaHNqrhxT1i0CiUp1mW23bR9JgBbcsGmQWa3xrxYBvLFLCp-LcJHB_KDrgDRLH7v4ZetY3EKdzbvIeky_51cEj55HN3hWYAsH3ui0KY5Xc-bHTPD98QsR2s7VI5M2WUPrde2I20Eh8F1l0_hFZ1vcFM8kBH-uzi3JL7wMPbe5jeO34VVc2hWePF81W9VvVk_iP54GEDstzN0SOuUGtQufTR9KZ7GwIYhS8ma2E8XATiCZbXH3Vegi45s_Z_hgNjeHYW0nxmOBDuXVnyoZqe0eDjyWHorS3XtyMj9exACVfwKzIeioDI97ejQgU2Ti3SFV6UkEYZKpwY8bgwqCPSuUYALc4ZHcwfnN28ua_XfOsjzRVXpPQE8fMnEH27G5eG9NGJM8",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "eps-cli-key-1",
+      "use": "sig"
+    }
+  ]
+}

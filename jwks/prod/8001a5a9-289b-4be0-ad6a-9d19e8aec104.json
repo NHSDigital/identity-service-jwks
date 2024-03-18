@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "8kDUyVxuQzEdXKE-9J4I8MJ76lMHkvc7oyPsOXEiCXOxxLK0gMyiW1Q3pVV2flUJswl-BvOy-gKKR-VdhruLSXxPHt93eHcLuyeHgMLv9Y-T-Ifo45RIzNkqWiPHmUdWy9iCbvdwbApQEOQKhXLQvtuPFbzAr3DyiYjiJIOfE2wjFTKxTxcu2bTzRm308TsBwfaWiF8OYvcGSiiZn05bf3bAnmY37AizcmUudo7nSZ_So1R6S6KGMxxk2dx9-5aKCmqJRz9UBeVmSiINSwfauYk8cTq0q_-T8re5mGH_uPK0NhTTNbcweYQRv4MeAopuwN-7DNHw5O1AcS7c2Ip4OF7-aM42EQR0rdO_qIjwk_aibDNfuuv_0NR5IYEtQY6VUvDZGtlGGtHKBx-KxhiwayqDipSR-IJ6iQq4JttXDFWRfDPlSqKmkAKxV13SG8SfpL99hCFiP9TGFyEzbZscKhYIo_OGahGcWiQRot0A5GrwVLVPcB8MlX4vgmeUZI63irDh0cacUAHvtCd4kmCyU7ToeIlXBcPvXkifFg7gL46c8j2vXAYoCVn-A5OJw5UZ5SdGw1fGLM8o7o4WHmsYneMHZRlv_aVnBt-LpbYeMoqayKOXIdp5KqXBQ7gtuwDg0SVz6GkYjpLMLBaoP6pf9jIkVOcgGasG-FxaHBzaOTE",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "spineapi",
+      "use": "sig"
+    }
+  ]
+}

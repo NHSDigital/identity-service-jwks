@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "ocQ7t6pNSGIBtDYu_tCiuCezrQN_zqAQIiVwjdka4H7aIGEM3aX8LVXEQIHr41gAK-5ikxlGf7Hvx3C6TRTezQ",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "medicus-test",
+      "use": "sig"
+    }
+  ]
+}

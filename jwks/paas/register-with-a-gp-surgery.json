@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "x_YJWyOukn7LCb9CRMtNEh53Vw7ubiNx5EZBVEE9V5TVC9Mt7Yr-Le10k8d7SWhfrn0PlUC8QbJf5QJiwvQf7hMHZw8ytEsb-8XbFm7TK_P3rfRJm3WOYB1JHeiU4Yk1FGJpTY1iKLCo-iAxTHkgqBlbDeur3f7RoDvmsbpeYnOoTrv7cAjDoaYYL0OWEe75xAJ0ZfnOakrIGzCXoJhMUChcA0La_pqHmAOZWjkJ7mMh_bhpoAVL2dmaAVdNPfk6mAs1xu_MiEDwxsTljFipeeyZJDIpHfLdPB7TmE4bslr9_8S_k-LYg2alQ_aU2Yi1YCXQYznAyELyYfpnSjRdulhploUoVerAt6tg9jPnIMHtjwJezNQei5QpnJ75SgVQI2IgOJ_vPr3H2oU38Rk_HNlcK01bdJMwRgpBvHDbjoQ4NeE6rM-YpVX60LMg525veMdrh3bHkUYUIMxFbwpsMKQRfd28cfoB3p3QOz4wmlqShHR0K1qIrEZXQGkFCJBKqdbdGN94ow0Jkj1oBovYt0jR1UFcXC9NeNlqtZxTK2i7qgm_R0bhlE94kHwa__WmA7EhSUtfpBkQkRZHFQ325M5gSIVohCv_zt6GKVMhnl85Y52DqluY4SGt8of2_Y07oVMZx363sAO0wtbjfcahgY5zv_oDINYyfl7eXA0ZR1E",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "register_with_a_gp_surgery_key_1",
+      "use": "sig"
+    }
+  ]
+}

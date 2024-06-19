@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "wFrJlCSaIZODJqOZjjfNuVyKHcOgdXip8GLJN_sCDFIsF4HU9NaSnFhceZ-33tJjB_VaBUjhVrViVo9g6NunKMSq3eNtiASHxLSOvHsbY-MTyt-yA1TbegqVWFqCwEn4AdZCRiRbxkYXaZYplouSrkCti8fcC_fiak7vNphqi0g59AlGnuDSV3eCBzsgKmwCvzHXiZzw0tEnPeAFQmuHyQWn5oXWF5sfQztTMjZG58inElJhWutVzp-HWHRack5OtedbryTOH-XJ79iRAYeo7KjVyE-5bX7BzwFr9Jbf0p9UWcEwwluEx3_smXBlGeh8XmK0h_JIhUEuGPm6O7DaCUZ_fj-uZOr2XLlqCdueqx7vrohGy-DMYWdFgZn_TWfk8oLfdLIdFb5kQX90pmaXCDg5FB5MbjIakFAJx0JjWx7fluAtdqpbrA24OtflH-Lz3MYtoBDGPoX2aBu8PBnXJQBTFfJfYnG6jsH33ClXdgDwfqvm3P9CM5skIVcnWnUF2NEKn0Tg6HLZa-LrK08oAAXTHFau0BhmRtTrnhSlxg1Sr_9bbpiras9hBh2_QKEZPxtUhiZOC8wYErhayI5yYUNrpkNMJxYSnsbiTOrAMn88U4tMIBR6oDtqMYGEKArAgjRJqgGzJjGcigcsCKmJXpu6VMmFNlPPN38y4rS_vy0",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "eps-cli-key-cpsu-1",
+      "use": "sig"
+    }
+  ]
+}

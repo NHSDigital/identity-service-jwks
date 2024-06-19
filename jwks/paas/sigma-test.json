@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "023C0qPesn6-kotvjwyXwh7ty9In4PD2_-5271xHzoVCMavWIAcs54aOg97YYJqY5C1sURfpwa_pUANxD475fTjf0GWqXwv_qiF2fRsPvXp-Bep2Tiajes3LZ57U5t_b_hIuBDqK-oX1WdtEfzr1qDvYgcYDo0Jq6SK2wQaT6LHGPbr0vpuv9pyx5kC-OqESLZ_-wMcBLcirUWiQf6-pnS940VyHLvx65udOSGPx5815uA0BoTXRw8rDlu5T1ZEq929vB946Y4CbkzNMq8jUrms_RccIykEeRIm2JHJ-WMlZFL1c-KONHzIzqAmo0qbW1nUSxlp3q7hYduZKIYF9_6dM5XAUtJl-10Eejin0r5PpcoNnNibQZJf7BbX_AGLw7tK24ZYHvbRit-AwrELHdzDAoMfCQQbx7HbMsWHPthvk9jLDW_I-jM_LhNOa7g3Zl-O99cQVVFPOv5jU-PCJ8uHm8BjLx8vt5d7aSsFFSrc4OmsctSV42w2JR5HqskloQyofkgvK7vHe2OlevSEounnWoe_tKZNJ2zMjayMxbBAB1XeSdoawgwmJ-Ay5ZQp6_sFbH1fuRoLBp3FFRvfmDNaj-Mz8guN6HRszYegHWoQ3ZXRs8T6FYYc4II8y3QNtryuW-sPLKBpyR4glLpKloduN2avUjVPpHazR7CtLqXU",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "sigma-test-cli-1",
+      "use": "sig"
+    }
+  ]
+}

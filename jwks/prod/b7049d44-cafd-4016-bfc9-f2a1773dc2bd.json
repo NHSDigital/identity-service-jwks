@@ -4,6 +4,13 @@
       "n": "0EN7yOkFD8L4nj7HupPIfFuuyTFON84cWiCi1XUJbo-ccGnqq_1SmzRipohmdQizEC5qvF0Q2yhIVl_2uS9IUAixvE3XtzxpV4hpTzkHj-R9xqU7ndIlLPo6ypnnsnwffzpgf5p2bVtwnFcsNvQ1Yi-tIgYF-WYkMxbSyviKItoZlEj-5XooSh51b1lKSx2jv4IhvY8J7TPh0WoKpiqjCPgNCeH89oEIDrgAn5UizdIDNek-cZWcgIlZrso8A55LuECOk5lalzJHLI7U2XSzjQv9gEhF6IPptbuAsFM-ZyEWaLidE_43wXhaBaWaFpCepFthjoiyaCcs9l99v1Ij68PXADvdLAlZmDgS-1aegWdg7wFcBYyYdcTZs0Q2nf-v9Xs_g_J-nRHh7XmZGTHYK9orhBvf3GOZkK_9313hTEnMDipPV50373H4X-bdKLG1Wi_KWLt0EhoGJHmH_DfCo37EE93KVB_s1DR66qXZR6pZBNMzlpzJaCNCH0GTHAaQJF4zDP7w_DTLl-68_2z0CMISPmesyWtNMdEpjDHRiaNUSsTSVCbLVOpahYdE0ZLmCtjL1ezMFbD3IGgkWRXGvcI-DfStmORcFYnOT8rVS951p3R7hvyo4E27J278Lz0s63VeTmr-fU2qe0KR7i-gVIcptsBoDElknNQJUJCtr5M",
       "e": "AQAB",
       "kty": "RSA",
+      "kid": "NHSE-EDS-BARS-PROD-1",
+      "use": "sig"
+    },
+    {
+      "n": "0EN7yOkFD8L4nj7HupPIfFuuyTFON84cWiCi1XUJbo-ccGnqq_1SmzRipohmdQizEC5qvF0Q2yhIVl_2uS9IUAixvE3XtzxpV4hpTzkHj-R9xqU7ndIlLPo6ypnnsnwffzpgf5p2bVtwnFcsNvQ1Yi-tIgYF-WYkMxbSyviKItoZlEj-5XooSh51b1lKSx2jv4IhvY8J7TPh0WoKpiqjCPgNCeH89oEIDrgAn5UizdIDNek-cZWcgIlZrso8A55LuECOk5lalzJHLI7U2XSzjQv9gEhF6IPptbuAsFM-ZyEWaLidE_43wXhaBaWaFpCepFthjoiyaCcs9l99v1Ij68PXADvdLAlZmDgS-1aegWdg7wFcBYyYdcTZs0Q2nf-v9Xs_g_J-nRHh7XmZGTHYK9orhBvf3GOZkK_9313hTEnMDipPV50373H4X-bdKLG1Wi_KWLt0EhoGJHmH_DfCo37EE93KVB_s1DR66qXZR6pZBNMzlpzJaCNCH0GTHAaQJF4zDP7w_DTLl-68_2z0CMISPmesyWtNMdEpjDHRiaNUSsTSVCbLVOpahYdE0ZLmCtjL1ezMFbD3IGgkWRXGvcI-DfStmORcFYnOT8rVS951p3R7hvyo4E27J278Lz0s63VeTmr-fU2qe0KR7i-gVIcptsBoDElknNQJUJCtr5M",
+      "e": "AQAB",
+      "kty": "RSA",
       "kid": "NHSE-EDS-PDS-PROD-1",
       "use": "sig"
     }

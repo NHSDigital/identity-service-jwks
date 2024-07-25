@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "2ZVzRvCAjAJ9npUUCcOODnQ0X6pdKbXb4ow-soYKyKHvJW2uluwo5rfmWRcR0BPn7vINHHAGzw8D2yrwSm_lkdWNwoZry2ZRr9dvJhT4P-RayHLJr3_I5YujF5PAk8ZhHhPpO1AotiTaP-AMjbXnrqNNRE_PRIXluK8spng7E4FSpuojCOppixU-udRWT7IDE06prUCDbiBENYThaVRNj5nlaG_i_d10i-oVyiJGhTJHDWYOlgXIlsJSiwXNUJiFSQgkPn7ZuiBzsGCoBOsrm6wcB48IpL0qhvCSSG_VohX7ivCKZa0-JNytSrp_Fs9-rHsMBm8NxLXfatF2gkD-xkkMvg3mONn7UW_DZWkPY3mdJmfiA1kifpndZwHHRqqvvA5-K-mWb7BEGzC2NeL0wO6HQ8rnCSNNes0Nzsz9D0SFrZ3TSPqRwitywz6HUWQ4TEtJ6MzVNPZ-S4I5-hZkx1n6lbyD1YXNukcFN3q1gpYxB67yMGQTxmsxNUMVv67lsoG4JQxD0izkE-jGTKFknOplv1ZVdU5paU8uXp6g-F2Ok21_zlGMZxnptYc3qimTsDL904NyzbHZqxRUYtKTZLBBJj3DMUu6_pN2ah3tZIvdvY8SXFgqI-8BfrEj8m4f2VZjqK7JlwiciwMQ0VJSTZDPvM9flX0uQICbRd1sV1M",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "proxy-key-1",
+      "use": "sig"
+    }
+  ]
+}

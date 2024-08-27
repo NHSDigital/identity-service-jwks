@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "tObwRthBXyUW8VVKjPtOzkWCR4--xU1JkLwrfyTfbGZwWoLabFYV6N6Xwj0SNwNcel3RCUSYok26DVydHeo-GKsLHj5PXNquaxtNYkyDjg3SpSXUUI4J-FETwaV9OQr_R5JWGuITLWGLdMbiHGid5pBRu8Lq7WXmPalwQLtLFFu9So7PGbt6uZ8uUlwxZssQZ6ODtb7dPVuK4TiAlCDUMoamldluJiACFT9M7t6_YkLrGJOVO17PmgmicfX3qek5s80SogdB5KTmMepwsT5o7665W5ShvoW87AWmjysDBsT_T8WAdtvxOxzYn7mYmQTw1QmxerlJWRc5caCG9f5z6DC4tY8uEqu504NKVSVk4St_AlkOGPd_DJavg0YRiMQPNdP5dUMCzTKU0cYBthXL00gGvBDs_vhEaZm8Jvg7nf2Tu9jtH1QWpfsvw8mhvCxERWDAfAdRvdJFmvw9t31OjBSTFKR6KM8ht8lF-n2bkK-sMURjlgzjMKiToIFzFHxaZZUz9TaB__llqFUzK_EK4O9nerMHUpK8AnmY7CfrMT_m47wngHsLVrvTXDLfZyirou_kizLYeziltdeXfHuyoXTWouv11iu8oouzgarTajzjFxaaYo-DuTTTP2CZ1FEaV3-1ET1SzB-l0x1LioLlMMbctwkhsk7NfW4sjVQ1D98",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "prod-1",
+      "use": "sig"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "2nPo0ArM_zp2G3lzB9JuTXPvr9KwaV3h39WT1X2_uyGy8UQh1k_Tl6bI1EJvfmYKbq_lFTwdjE0HEmzYyI8ZSzqQ20MwffLoC5kOOgn950BKVXiBkeUPUAcEBkUkV4V8kDV80InjpGcfotmeXxktf3BuKUiJo_XG1GyWdCPwCDIgAJmcwIKisRtWEzNsHysmU1m0zveEk91pBQzQXlodDd2pgk7E9czdbFjGT-xYYfy5BseyiIJ0f_7L51sGLbzPZdzCjYxuX_1VlyJ9lfdgiRGHwrXlPsOs6rjVHOXoXYd9hm_QR20klnr5ildj_vGlQTAou2wLkWnsHDtq1U_ayCwaP_ZwLWe33tPqqkc4EpsTdzLsdkoq3j7uJFMOZglqSfS1YVoEYemn2xujJ1rGCh5k2Va5cKuGVHtGF5VWfeRj9jzmpYz7zyC80OmgOyuj1BcmPW1XcySpGm1QQ7jTVhacGcAQM28s-1SW0NChhi06SeL7QAz7gq1PHh3VEfi5AUO6Z6H9qGRrokVcM9Pp6lZ840coiyF5HH1HmfuCfqxoCxfgcAWobKlx92XkWuXtjiQ75V5uU2HtP1WvwrXnkNvhs3cjgiyRXsf17pKJVNGrNUVtW937s_g7b3DX1HYyGByZ3QCDgRetayFFcIbPg3f12JiJ2TSjNxopbqFMS0E",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "hello-world-api-docker-test-key",
+      "use": "sig"
+    }
+  ]
+}

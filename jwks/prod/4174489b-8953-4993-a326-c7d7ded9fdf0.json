@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "nbJptzPwW8v_rsDbcVYuHyQ61F9A98nGmkvSm4W9H7BngW9IsBx8AYJVtqvVGIUIM28qJoqcb-jynAkVzI47bGEB0Up6fpDLSD7dEJP671TVPIp3F3o9p5LHbLrnSyywqu-RqJDGCxYTbBEIGIny0FiH-IlXCrcenrIrFBEJSGsu1pK6iXgCZp6dEkOr5W4JhyoOApvxoTRvW8lZmt6ikIfoAPJYHf8gcfoKKrCe_w91ITVbp1k5eG2cVzfl5TLzmk4H9csGhCO0OobcDIWUq97utq61TZCInPCgaCB4517gkfK-bYAfd8vp1YQH0FD9mANz11PNmEnAA29eTZP827_GcyIbrQiQIPvk862RphSKcw6dgeZviDvVUx15EhYS1eU0egife0fkI_M8b68AM95-5YESZOb9kKnA3DwJCD5a-50-GX2etGesi-HwtVkuIKLpRCq0m8OMoL6InZBFDJtrV7CqgjE2pNQXGhg6vj-AuDh4DJNvTspjvq2ltwBma5zqeCTRboCYx_iWpfwRJlMBcS46bqGxqI95Le4MoEcpo8ZEv4cX5BzZ02eA9RKbOvGv2fLeTkexdDDNWLIg1lEjOPArBqba_J8KaRfuzC_2vYZh3IuR6YV83Yuu-2pz-XPa1nNufSv1KJs78N_TH1QiwAHd-d4RjoN0iplXX6M",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "gpc-pds-prod-1",
+      "use": "sig"
+    }
+  ]
+}

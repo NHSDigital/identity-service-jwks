@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "pQEmShTCitf-xGpCYtncbG3A8UhzUlSJwZeiztVOwSUDTlT5FnwiPV6GWZK255Wpi8EdVFQQkEVNC3fvhIyeG0TSW_VHyfvi2UZE1eoH4-aW6gZnIZvMv9xwl0g1wOBhpP9MgIZN1gUWWkSU1oYxyfqwvcTHsboKjB_D7QlAbJw_VtirBT6g0IskERfWp37rer41UGN-nYQSpHKZqoFvzBrOD_FmPLjtK-LAy2xV8Ma4f8glwYocIeSfcnG_f0zq-CPTjsMI7ovVjQ4PNH0mndpx4IaL-Twk8NaMg_wFGdFgNxv5yyVySiQSNHDaKwSv8K4-zV2J1aYVhT21l12Oh943npJqNLmcgIjsRkNVRSvih8gNn3pzDAKfl01apKm88W7lale3JJilnnGgT0Rl281NdyK8Okvf0FCG5HYnsUkdi1llpqSsbzVwJRw9fL5EdhGM25i_L9nS674Rj7l_6uR9YIWJ_l0AC9CtmBq5CWu1JcGsvEtjRrHqxYIW51j0f72uTg4YL7UywvT6ETHyVv0Mehznov2vECBn0_STa34X5SOQ5qh1zaISEowHKFrDXQLzFaEOqgHrzth2TE7Fp26SX_QC-U9md4BrseELsdkpLQupTLNdKcny0iXUF_Y1g9_AcdXY5QFiGl7Yu7lT3KHT2geElwcWD-JkZWhAmgM",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "medicus-prod",
+      "use": "sig"
+    }
+  ]
+}

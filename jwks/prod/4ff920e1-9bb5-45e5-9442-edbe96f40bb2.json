@@ -6,6 +6,13 @@
       "kty": "RSA",
       "kid": "prod-smoke-test",
       "use": "sig"
+    },
+    {
+      "n": "386aDST-63mCXbDRBcIFqLL17lsXMWy1C--m6hggIysxHUIBCyExHKoj-VIDv5-t8He8yziCGScK0PpsOkwj3kO0J8VW5sJdghdmaUbiE5FqdDpQWDtN4xSMvQ-Pi8CmVSqxMw9WKTYe4Gl2OIolAxvayJNLSIQjyKd5slGvcJSG5Wx0DsoQ-XUMKX_Gkcp7iNVWbYBdmWLnwfqIhhALOlCQD8Ir_t0kA83pKt4iOQxhOWM1mp6FJTLHm0CWFZXcOa-mqjAeirfZ5vixkuagyWYMGBYzJ1iRbuvmSBpgsHcrZUbPXsBQ2YWXOh05Cq5oA6SFOP03_WS5be2pBpJmMwrnm8CkIPDBpayxElqUOOOEmqY0pDHlBI-4N4_o9AcTk_Box7QqtYHVIbluSIp7a29oLXDSLaV26PXsW2wlLXPQpjVWnjWARh8FqYreBTyhgeB7tWIRo-GziYWXlH035KcFgvfB7ReWgp1sA2PC_cLyyP3Amyu8R_9OOipJ_3ceuISlyLb6VkGb1SXCD6WHJv5_fJQVoaC4FnZ205h_q747MQrwm5N--ixa-i2b16Oe9f0KHxJixeR1HzmSgGhilKptF6Cw-MrR4qN3DeiCBQO3nTklOvtaA75ETzXiToZPjwzYrfddjGpTs8iVC1AA5M6a2adI9y64Y91cYNVT8wc",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "prod-smoke-test-2",
+      "use": "sig"
     }
   ]
 }

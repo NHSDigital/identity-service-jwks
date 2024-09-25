@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "3JOxgzGmdXXspJubRe0PuFsUHPmmfg6IEB_3f15C7OG2ryJeAyKPnQ0dbpvq3xnnPaV4gd_trubTRaDaIBcpckM5lJCGFv5iYEOdGNIDOul5o2xyfTP20dLfTsUykDStIcFDGYISGLCEYKdH6Wpbyd929SCMb_SWAlbnKjSexmxTQBSNm1kkAAdS0LDG2nxwv5XQLqR1QyJfrrB3Sd0N6SxQv8H20QJ79B3oquD011IPzKoaUqEE79lqmnxnHy5-GRI37Hz1fC0lWcH4Kq8nETmQ-jk1miscBFv0vB2fqW3kJFeQ834KxxiBoUDhBmq_ivukrqi2QRoJW_chaUYU2dJBHMS9uvxKp26k7Im6LAYH-sJz9bKJ0dgHLS_gaJV2U_B_NL7ylUMeSC_4vrO9s9d1QftJn6EWhRTqALyQEkQXml8XmTia_da8XuDb7yX0LZaX9dmnoCuYAoEEFRg6gxqfIrCTYaMFoY18Zno6zj4EXicVrw4UPp_XNxCUks_i1hJ2XTWW1q5okO1pp0jrrAgolEjt-f0ATh9rTDCoHyysBqhLVDhkXUdMBQrwYRV30Zt0wFFv1-A63uHpO64Bc7_NwvblpmyHjhS6q7az2yUt1Ft61VPb8iDZkIG-xDlkkpdxhOH7mtgEkbmY5hElMi5gAmOICsKihwZnNdlmpPs",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "dwa-key-1",
+      "use": "sig"
+    }
+  ]
+}

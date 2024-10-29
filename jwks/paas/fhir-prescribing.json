@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "yS1bLeSSAw1nomVMyaCqAgPFWtet5vm5wl8LXznQJLqBckCwoxcgX4fMKh7ETW2e1U58wuITBQegbJFTPxFuOJZk8QjtBC4bLfrlrHerOI8x6v1GExOCzlcb77fYNerkAtzd8m0Cixe_-aQXD5uZElkyy74n6QdkfDajy1S2-YXn0oFxflzc_pF37lIMV7pZibPO1siClkY0F-ank2bFx4XIv5QHQmKcSTiXwNPYB6P_FfxclWt6X6jsGdMbMfgl7zUa5fas6DYdwGuguiKhdx9s-xiKPR2kLXijTZKbSnDjSzJ1QNK2U-mp3bb7OZaf1mBiWPJ-TyX_sHt32d72EytX1mnja4tjS8MkCudxnW_20X-ExZ55Gx52I5WM9jm3cDrd-CpzR1iwTDydEHEu5ROPhusHJFOZ-2WjCPJ49ZcvNIXhkuHUKrzIQy9bv2xjwsPWdmwN14CT8sFaED0vadtJ-TWy3VjC2t5_K7vd_QAiR0BdcneO3pobbKkytTgG8VH2nsSmaPYlvP9_D9eewU8T0KKJfzRhJ0VxpOghQIHtVFfmEKFeYBEjvjMqdttvVUBENiNS7WO43_rmFAVZ_H9OiC7QGMOb46I619r5drzu7Odc2kz30oTZvkSM6bbKmuEheA1TkDtTTJZ-E4oGz1a1YSCk8IoC2B17qG2Dp58",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "fhir-prescribing",
+      "use": "sig"
+    }
+  ]
+}

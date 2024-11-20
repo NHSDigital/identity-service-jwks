@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "v_8PSp9CgWEdTvMcJVzQR5l5LwT-SByhRN_6lZ0HOrgk34253sy62BlTKCWLhsv1Jh1FQjaZb06Cd38HrCeYN26aaM2IUMp0HL-AaN79zkG6jR4gBFq8SwoioBRV8sIoDN75S_lujrSPb4_yxwcyeOY-0JS9Edl-VrN3lpUujJ0jn04Kbl8lNgpaiaa1Zkgo33riTS2seq2YNhHh_l_8dVOQjNMdj6zLjksYSp5e6GUtY6H6PiPTd7zM3R1vSBgrUlibOt8umHrRmZygvoMJT6z-ylSXirEtVxiZ9z8m1mFDf7H-hlPtqaAo8Dhhn_Za2lKyKstxpPNBNlb9Oa5UKS87lDt4Vuh5oKJOlsjDIkwXYJ12aHi45zserh2R04DlzIWI1MbD52DzhLPgHc3QhuIPWW0rlqBsowSoMbVlpBRoFYQ3g5DREwLe3yN_F7enkD9y2OCwQMQfWgRJQGHkHf8Om0KEANYlQLZsAPBBb1y31vSbnr3n18wMzrpoZv4Wptwk4K3Lr46hQoAxCQ05S0HEYw2CQYPzU6daSeb54lyVcIJzv8lFCnWKTPdfW1DszNdE7BWYkWY4C2OWxyWfGNKHTE6ZCOfu2IRdVsbm-RSeyRPaqOwI7PueDhLC3EscFCCKx9nTSOamA4ke4aR7oa84iAAHkyIai0LN5ucvrn8",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "mns-mock-hydration-1",
+      "use": "sig"
+    }
+  ]
+}

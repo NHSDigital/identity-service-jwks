@@ -5,6 +5,7 @@
       "e": "AQAB",
       "kty": "RSA",
       "kid": "No4Ui0fcVKymxObglPG452SioxhkP9v67MYlmA1X_MI",
+      "alg": "RS512",
       "use": "sig"
     }
   ]

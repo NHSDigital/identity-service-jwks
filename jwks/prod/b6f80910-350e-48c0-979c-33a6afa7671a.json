@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "j8CRrkg9ZGZzXBempHD2BNFh0tm_qdUgRz0ywb6LqbhTyniebJW8CWZiYQbAPcHbEnwVj3lP5mymu2NCqBmJ3lLFI6onv3v3Hvo93gonKLCkvWks-VJOxC17J1o-T474GWTLByXlmNnb1tVSSJhGaCpU-ibVPW1KJeVZRueFK7v_ua75dIqxURCyV1QZUfO5zcfB22A39Pp0LpFVDpl5gS_oq6fXy2PO44JTFzBknIjpMUAF92HvSR5GLYijwW4QYojHPW3tNDu6H1YS4D21vWEt00uEcgwIfogZIT67v0Q47UXayPB4IafwRTdvuQ3vTCRk20HMxqyIZ6qcfegEnKDAVHHHKYM-nsg3DjcAOzhSJcCAwjtGrHmCTYHYhrl5ZZ4_49bV-USMsJwoDvXwjJxkj6lGSX1FLeVudnBmMEUnhaQCuYfyaqlC_5xf9toQIVUt1yMTCwNea-Ikr2ztTabzBLm0NCux8QKd8UJi7jf-Wzhv0c-X0ZoWfK8uXaz-lWP_TNBuYTC4mmVHEOH0I3PgSGnnRGRj51NjN3r1krvLEsjUOr_pQVr-QQHd1NpZOdJr4vqEcu88t0Ahxsrlz4OPXQ8M0kjjsDC1FttljVsJeLzjjzqy4Hjnjp_nTi0hTzLqjSL8e0zyNoL2kHfhdUQaZ5GR4z4u1uNsZz8tI2E",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "WASPSoftwareLiveRAL",
+      "use": "sig"
+    }
+  ]
+}

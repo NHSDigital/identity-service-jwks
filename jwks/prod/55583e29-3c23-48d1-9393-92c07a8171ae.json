@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "q0fhlHQ3r4mkkilol1FVgetwXBFXGZMAc2LiDDpFLwEodwKyDiChS3AETAQfoaBloM8TjuGjWIyx2Yub5_0rz4IUbdnM9itgAL34bV8gEs5Gb_c65iTQpkIAK3wFD4HqkjRnN2zcIfA0v8jtV6_f0noalpVt1v4pGZVZbgMyqwlgRj_OT3nZp4KrlgY1_PNICyMsa-BG7mnLolQXD0ltQfHwzA45HhSOF8NE_muiJaN76JtgnMcZnFsKx9ewhIlHd95oNh1aiwIViK6zq6cAZWdfjT85JnPwgkEwzBsOon92d4o19_vntPU5ykJ3NVs6oBFT_Bax0sTEkE-zOfajkPa-jfSdxKvGiX89HSDYEgn4gQwUKpbYEt0NtgtFs6Omfh_qQz-VL4CdQbNuAdjujRLxm_pjraF5LucGFedEJ8fRMu7fCk6CkIcGHAoa3ro5qA2lR_-BipFWWjTaakvvDQy528uaIMj7sBHUkOFI29wXfxSPV74se2iPYEmUIfGxayM7xQZ51m0hW_IWj8NE-1gvtNJtAvzMmaWwCwG-LHd2KzgJpZFuSmpFcDzhQoSJMZGWelNGnLnrHenxt2qkbd8noNakycAhcnQdef-O4NmAziLywWu-r8S8m7Ai_qRxHxx4kVxrs7Ff2YhPt3Q2xU0AAvXmtqctwnjpHMIL8Tk",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "cinapsis-prod-1",
+      "use": "sig"
+    }
+  ]
+}

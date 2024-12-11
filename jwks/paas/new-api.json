@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "yqVAwPYSk6ymL0rAJHpLOtr8_HM5Fw1rzf-qPZWvFN9gHn0JspJssbMiiwyAiV0LAYfX1XptliGjDdKBrb1VDbmwMFOicog5dgMYj2MNkHUZ3EeGpV_aVtl_V0oVIYV-zqcwniUdu_nYxHRa40GcskiZqrwneP19Vl-CzNkHkg68u_cl3w1KD2ZHxsidk2qrE1auWzAcuEOH8UO9Dj5YIz2FTBigAttuzZrOzG1zNeaUTOjahaCappMBJ7bM-pJa14s0neoPKQpHzMwgF0cu9IS99le4mSUN8ax4w46boOGvjIFl5GJe_NihK5vCNu4BV_tBtlvCi_ItkVOqISscjZk0f316cIr2Hlny0ccxC7wpr5oGykwjSY4OR5ReE58P0g0_A5ccsIz5zw_NaYFigXD5l8H-MVY0bYfkQo0l7oUyFs9ERLje2SsxJCAbPlTO78Syn_4EWHdLfAkTFabwQWE2q6URnp8jEtfkCOkvHQnKfMDrXsomt3jvoc5ow3VHsnLkBm5C3J6aQQ0XaTcxd-6un3SesUCzdUt2ESh_obtpXcPUeZrDKOBu9QTkRxs3fefxSz29aBkbYKhBJ4s_ekmPHXe7xEfCy2X5mzqv_QLKP4OHksQxAiFQNnX15kAcaB0fbEBwxgKkVWw-atDS0r1zGcljas6VtOGQ4raT7Bs",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "related-person-network",
+      "use": "sig"
+    }
+  ]
+}

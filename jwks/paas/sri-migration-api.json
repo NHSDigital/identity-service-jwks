@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "iA8m8L3jlxuZVXxs9UQguiXc_3TnVxdBz9C-xAiuFbd5fEjcWVI7ryorkag2rp_gSzP0qx7q1A8Booc3lL2gJfvJVI7Omt4DjyP7jCW6_simYtgsqmDPtxX8F3KSqx8V8QKKUD0---_TfgdJqb9BW4A76Z8b6Qsb7cxjq3CZf1M2KH5frfqdFAXUhZNzrDZeA2GFqjs9wb8v1TBaDelBkxdQDrsOlA7wQFVC_sV9ClQ_a2AlfgswmXQxyz7SjsjJSHEV7k7mwVuTIiK3fcMfY9kzKBLBV98YUVQdpexOtteh2R2DSnipFeDWZ9NxqKEstjqqvqWk-u6sUPrXDYjRgC-iw2ADKDbLpXZX4YaIm8QCbbXfiHsUdjQGVZb-TQIpGRcc65-SnsTUU17xK89PZqbF5kZWIVFqLT93au8bhp93a1q-C5g_I3dj4IEAPCblgTEzy2jdOlXUNcnIt2U8qA0dFHArMsQ2LnfL2oWOE3OkZKkMGnUz6sZDJ9khjo1EofQjhZ49cfaJNYeIdg6QT4w-q8TDn6aR7uo82NqmS1TABXipjR3Kh-zlNolMWY87t9L4u2eE0qElE77jp4Okerne3ROZUElZSbxa1bO4q4Io6EJ0BWrioXg8z3nzcvCU5uYUDJ0MbkSnVAwH5j16rqCVQRJwOHYneSHdm34_AZk",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "migration-key-1",
+      "use": "sig"
+    }
+  ]
+}

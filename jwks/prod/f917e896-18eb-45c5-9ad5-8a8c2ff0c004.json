@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "tI9XW6dOx2ECCDp0kWEZ56s7SxcWrOI-Sp9rgMijlPzNQNBB6R6-d9QxCLCqqXYIpXUzzwrhDRwfbl9C1Z_6gVF4uWKKLE0kiK7Wt1VWgcHHtFREyV7bybxQz7pfDcfPxbMGj2UijY-feEb4QUXL0UQ_mNK5cRsQ63gG1Gil0H29-e4axysttF44RaKXmgnxTz23ZuqSAAHSqiBD656TW1SmoIBs4vCdB2fXdhhrOxNrumDvGn1tcHbzXDvptYnTqU_Qh7dqvC_U7Xtt9xly5eYwDRDux2mf9L_NhaggiS5x87ZwaLy9kQiYd3P0SM538Rp1isTunttOQAKaAUpwXITUD0Lg4rOxXZoH92qtJ3qX8KL3vID_u3rflaafKQ0bzle2W9L-MAY5xG9frJVJtyQ_t9U1DJF9f9CdqL80G970WRj_U_wApzXSVwVzwUQWOKQarALjP4yiN1jdtvOfYxoVKJtxuEMf1nmEU2UJfKs5LHO5pQoMc4R7kykMp4Z4aGN43JRoDVvH7ywPUFxuYQrXN4d-HOh1AjxN46DtQEzipCwSjf_MMVz6L3zZqKYVmcmZ6TIYZFlrGMHw1QGdEWUFyORQEOrb6p6gGLMS0qQvheN8t-nk2bGoxW5Qef4Us_QUEoqgjKNDqxJ4f_PrYUww64-YqA6qGrWQNp4Xx9E",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "dhc_compucare8_prod_apprestricted",
+      "use": "sig"
+    }
+  ]
+}

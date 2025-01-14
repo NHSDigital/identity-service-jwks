@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "sXem6zJt8Axn8Jgolf3QsV19zDmpPQ6F4YASW3xPFVncyx0OAYQyWvH1DmC3HcFugHhV9tL4LtO_-Q1iKTl72AB2OZ9CbK7s_YG5iW64hNDY6w0fF2hYkqP_ojsNF1rI1jwVwPbcsNlunbGmwHljvAE2GeNMR-WtsiJGVBsFX84nySwlA-vk32PFynihkxEjOpCTOzZN40TUNook_vSxHWe8ffBdJmoI5loLY66TnNDnp7JRfkiJnA2Vd2HVT0wsLIJrOruiKgZ5efjviU6q6kekMJ_u71HcUXjPe9d3FDSBWumwKD6fAPItwdcA8lZBpFMMIUGYShUc2hMS_ZQU2GG5Pf4cVVuRYJ4GQrP3rUUFNQG-LQtLnjJwUu6xkI41Z58JGwNz1AFdQYuUcsyvKrLAK6U9IaQMofNpJCPcIfGad96znAp8Wkv-oDj-g3qV8c4RrzW3vaj_uOC86-b1NwX1LfwujxjfSqJSMEGuJv836T4a_DCL_er9EeEmQoEcBK-Wb7vcYsCwAVCBGwvzGJTByI8vV4SSFEGFuFtvP89qw5UIwp1m8n7KyzBiuc035pIuE3lkMBNXcUU5tNjNM5ArH4_5MIlWbaOiE5GGwYwv2sTDYrClWDatEPJgCOn2Uub-xxD_cHEWqTdBwCNi3Rl3eieNSCh9z5XBycZNEQc",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "nir-retrieval-proxy-poc",
+      "use": "sig"
+    }
+  ]
+}

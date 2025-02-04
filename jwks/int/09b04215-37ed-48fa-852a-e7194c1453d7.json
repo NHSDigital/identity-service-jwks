@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "p_Amf8p89-vhzyU-u6sxMMxfrOwyx6VNTGpqDwR0Bs80mVzPmgGR-aAQhFz6STlJW0h2pNC9mg6ieVzDM02gGAeGySXYfhUZpPljHjdqrvsjrmb18DmHL1UjBuWUk4ONOVSrF5Z0dg1g_q6SMuaYu36vjQ3i3rh3yUdcn5aVPI-ul2s6hos3OPYXigyn1IfeWJANRCLJ7MW5QAQwIAVIvJvgwgL5aE_9GPJabzmvsaKccGMFM_acp4lYq6AYEJ5juO3nmiXAVAgq5IERro3CEESbP0DtgMzOu3m-ez-HI7DXExZNqR0v8WIfJ1ohkKJOV_wonk5xtjrWUi6QMoLFnm2f8VDujPvQYOufSYthWkTToaxaSd4Zf7dMMlYFM2JUIoTzfyydsP_Hsn5ExU4684LfL7Rexfg4o2dXp14H82Agnb6UhwJPFnkyKYTR8xv7R5GI4sKZIQrvDus_PZUU_wfs6s7EphiHIynG7y81Zq0ZIQLD4mJgndduQQ2c5OTQ86vOyW7H5aMUkhTxdV2leWw5zH-h0FQ74Sy7nNpjxW_BGVdnIXheOb0fCaM5Pd4L1smOvpQI95H08t8EpARmtNZq0oA0EfAOnOglo25JfR_CwKRbvq810ISZjxxjoqxx807HanmGO_J-xeym8J74WATyL5rQScd-Utltrusrt_0",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "BarsGuide-Int-1",
+      "use": "sig"
+    }
+  ]
+}

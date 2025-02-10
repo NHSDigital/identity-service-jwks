@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "0Tvz03mrJjbkGdVOfHMIWoeqkTQ9AIIRaLituoNxeCWp4drPayUt_Zq1CAAWM0pV5ncJBm16CjQWaK-tBDy0-hMXb9aUmUMayOFj4xrmvp3vLFnnrOhZvpirT0U0gom97SYxsw4uK14KymvVTg2iCdsTVSRTj2_kz1_ZeJFtVQE5j76iuPMywfOmYMUKBp1cqvGso7VNs0zWadM9ICazPjmEuxzSXH6CoPjewDIRz2HYMhIqJpxaRZKH9PUi-EgNH20o-l-5VTJvHPp7LY0Ipvnp9RO04B4haFEXSaJj-QUyEZkUD66f_h7PJ2Ndq_Ji8r1hWEt9nlrhLk5HN1B3Kw",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "maiya-prod",
+      "use": "sig"
+    }
+  ]
+}

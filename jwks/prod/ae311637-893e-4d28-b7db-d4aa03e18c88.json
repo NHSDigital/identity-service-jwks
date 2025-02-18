@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "0KTJ5wXgYwdeGM7gdshS6wflynKVEYl7WnbyS1m2y49yt04IuSESRR1dgvhSAdaVLmsITnpUeZ9reqouZbKSwRrojCIIgGfEuKyMOSLOTv0_VXlsDCSZUO80T3jwyyv_uj0kMO-qvSkzqyZlDy6ClTYuCuEF4G71JdMojTuYKdgNt9N3uDxHAA9W4IhZiivgZXDC4J0ZL5xbu-fPeCJho1BnbMEwulqRVTUvb4lJlBnMBSm7L6fq2dDMZlnUn5JkwMeKdMhRZy9Cak1un9_bYh8eS_UxflYNskLQimvzEM9IbhYP2dlDCb_zzh49-PycrSZnvtxds_LTzDkkEdrgQ99LR5X1UcLiDcSDoLv8DL3SRpSQ02pmvlssMg9cXlotvYCsWgE1uIgmYMf53wUxv1xAAxcyaEglr2vGKFVwFHxjc61meiUMZ919qcnmemtVPj7bsB4BOZkUzyfpDmPVR9U8aoyoTd4yhChE-fW_qRAIFUeb1FBDGf0xSkK8HngUPfZNNon-k2rqbY7_XeBkgQF2nP67vj9DYjQ1Z_ptBA2K4BMdc35YXpDpWQT9xSsLqJd83eh73uimjPJYTbWqdyIhNySwiDmAQj0khMBTpbc82QBbsL3nnJV6_6d_JBJssAKLX_nw0cm8a2PvoXR5qGuHWKHGvJ84TEqP9puP2dc",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "imsmaxims-ntpf-ur-prod-1",
+      "use": "sig"
+    }
+  ]
+}

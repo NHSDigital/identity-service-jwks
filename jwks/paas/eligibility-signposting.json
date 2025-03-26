@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "mDsIQ0u9byVWxyquKEPqkHy4hsqUgOxCynJ0pB_IssqrGHwDRBzVi3aLSiYewHHvtb19tmJK3Pp66tX8kRX09u4YvD9JyLrsss8kkE_748OUof3o_rqwci7pLfACuHypCpZsmmnXkR3ywc4yurbPiEC8BNNrbzlJhSwsUPnpq2PG1blfyBgDHjkLHKLvXTyvNY7l0LQRE_NFm1e37Tmd70NgGz2byovEkPRHQeUK5XenwSj2XmNRezvWb2MuDTmntBHgt8EVwBgPVDzN97AolO_e2CJMUW-y8cJLnxYg9_4ftC8PIvIhr-9LgpGylwZ-83D_K2Ztz2wd7tuYy8rq8c4PO2UdHYymRKip2qr4k8G-_i4MYiZh8lNTnfaweEJ-Fytma1VSq0L_O3YIylNoh-tlp59grpqdizE09ki1-71n-RLo5NzPZUn5oEY64vJLX1G2T0QsyfMeuFBBYiKhcpaogkzBVO0T7Hkpq8YzLYdMZ9TsqaWKUQG3hjh5HG2be91rhK452fsefTgPy21tHMoJA5j5unUlZKCa4OWTPm6lrobgENQ_Vkc6nTv-hrmVzm2O6s2Ry9Ef9cEhL9cuMz5hRE3pzEvM6m6Adl5wK4uLMatCcrOWf-JAkeu7I0QYn4Xvm8SVT_5HLJ1bRYX28rJL9sJdiZoiz2VZ_ppNVuc",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "eligibility-signposting-api",
+      "use": "sig"
+    }
+  ]
+}

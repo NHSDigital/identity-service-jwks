@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "TTFLNKdnc202BCHJHFKRUI_oDSqS04cOkBcraaGF3MqJkhGOLgsfoH_cyNXYma0Gz088jB5et9154mCND7caXaHxvT4rYzlCYA0ODrOJdtWWc3-UparKYd22AroL8KGqjdjBIg8yc0-E0dmnmn-XeRgbbFWPgNS3mLcpatWERET2K00pV6YG1kGozsvs0AjQvYX2Nm6kSlOWwCrUJx8otjpbBydzaOnci0hNVT9_LFgfe95f-XD37M5MlAJj7VYYdrRJEL0RznAh18M59WsNnbwKUmOdE_noCPNEvEODcSnpWJofuouAajix-Uy35_kTQOWr_LoRrpNmJ74TCXJPYIHBMlhLOE5uAk_M1R_39XrjsBsPUxIb3_Vw9uETNjLpQYl8Xv4O48bbbFt2Oyw4zdlgriMXgAMK-6b4Jdm15AcqE4jMhsKMg1kMVuH_TIibpz4wzwmoa6FT6DDe7BIdB6vDKqGv20LfSJxedMrOH7BmxFSxBDfxQzLQumFCQKRVoBq2g0Mcs-s9UNo4ryajEx_Tygg3lOp6Kg6j46rSSS9AEtbX0ifQK2iqdm4Jw_NWEI9pkCVgVzNmAiL-I0qgkWQiBbI3M5gtV7UzjE9MAP8HAVX28mlG-k4BeI-Fzpsc-RV_GMn2VbLU9W9InmTWnwINdDfn5hcIMNTB5ifgN3U",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "cli-key-1",
+      "use": "sig"
+    }
+  ]
+}

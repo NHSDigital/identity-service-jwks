@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "srR8hzJBeaGgTLDqNbh69kpC0JOrv-JY-dhRE99t9gMzMzbNjhYtHin3_jSgQubBg97j23F92nJ4xq3b8V3YErkhAGVhNsgqCLLMAOIb8-s8K1C2gksA_1c63wzBectvYqqEcNi6TkdjcqDsT1RbWHJ0y9ucIMf3KImtPApEcc9HVwW5nBDmmvMxfC_iry8_THR4Mf50bQNQtREtvczMpiOtXpYemOePRvUHezvXR9DoEDJIOP4g739SBiIJ63NuNWUCGYpBuTGcQ7-_4z8oSUTSlQOQ67PJv1RL6ELsqYVBbYxQl3k4WLNOg3nFTBCEEfy9D8Xfm-b2UtjVI-dbl5asG5iXlIknko9JtDUlTMeMRp_R9H9Ene1lL_W3VpmiPIOYZpDAohXrTDbaRL5738FXeXkxFJzghppT-4yv5N-3S4EbMdHLQAnPZsaAqM8thyr-uzhmGi-TqIyZ53AlS74y-vtbhTUz71YP54ybNTUtBHW0ADParaZpWBNgmZtwDEzyshmwbC55jCKdCMEOz-Ntb4_nZNM5L0rFmOOdXqE4y59b-nBeq0G4it_JNplZSGayQ_7JqyHbSRMIimqJNuUgQVmPzCnvZjiTbC3c0XtgHggCeJ69oYccFK_TWbo4maP3dlE9DtUtdWiXNx3n4G2IZt82mlz10F-ETVmUg6s",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "proxygen-cli-key-id",
+      "use": "sig"
+    }
+  ]
+}

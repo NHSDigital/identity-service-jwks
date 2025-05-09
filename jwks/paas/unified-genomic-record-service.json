@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "tdm0dfaVOe-SbX2-rYdPOUUDRTNo0dkE4vgfiDzKLakScOrFrUtfLdAaDoslrHQkC5U9oZZouEgpFApVJEKrw3YDOc8Mbg7HD86zHHS2_Y6R7w5kTbNO962NlZ9WJ0hm3WuzP-umW16_n_VeNGO9Rd5dLYdtUWSd151qmo1QS_t6ASBOnmH9dYBfNuNyB60vOVy9vmqQN9Si61FMUjv7G9c4rD55zv71BykrcYS9S1jeikLJTsuy8rdHRqnKJP9PlKgGikQcrYY9XX7U6uOjIepCNChECF2X-luNRZsirAyXosdgev4tM2LJHY9YcPnPRH0dkL_EXlaHysPWZ8XoGcUKVz-Zrq_wIoiUFUOVFGMxi_7s6sEf1lkbfD3EZgvu-27Hu2OoGAQajPosxfd7hM9yrCyaEkVuZWw7fxzGpl2o8leUqjeegmgAImKT_NALaqodTc5gqDeSDDMh2pZ2G1cQtXld14xC8DepJPf6a8_T49RJOMNsNxTSle-iUBNODfpEFPX_uzTA49R_U05YpsNvAF0ASOrdq3prTieVfvRNBR20NlfTUibjDW94WfKCtG5fFQnBBkxmZly0isDv1xFDn8wmWd0qD5NTo2TsSUPmQA-IXgcYO6QUVEXF8NpKH5R4aLvtloK-LM7czvQxv_2ACyCrA4s2ZqgPRSJZVCs",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "unified-genomic-record-service-client-key",
+      "use": "sig"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "vn3GSaBGn_swWw6mj56moCJrfGoQjVfMXzsdTHPwylHSoHI0yWDFHGVlw9pm17U3_PXOFbzqwQTjaMVHussauKM2NqhZTfEFfVeKok44fNrTdSAhX86AUTeD39UdGGmYWWtQZZWXHUolJjdrOwSK3zkQ-CiBJZ12gEEbz6c_uFoomlHp41PVzD0YaJSqSL4p_gg9cqWkv5FgQfAP5DTwlI-MmrOcW3XbyIgHC9EalITAGi-4rbDgU__UdJAS6EFCiKKNPlTVYAHeQP1_z3W9a0BXZ_QcV_5R0HvtOkRGggZ2dhCAk8meALoAouH60YuTo3Ymiio8b-aCeXmn_rtVITB8s4dzScAEYJdpqnUILIuBHgYcRN_MRDpK5f_9tv8GZGBYWQHGqh_HAZ5zCGftaDlqo8UGVg99dWGjUTgM3pgirrJqdNio-TSRh8tgc4al-IaLGcDQvLFGArctJnAgJJINdMYMTbv_snMiEtZ9FAztibjugrAFAnz_VIYtf8uV6zthV6sIl7ec6AU-PLli5gyV20NRVRCAA4KSB2n4srlqQ6IeTqfhf15ztp2zyxZYVNc5eVk5wOvqEPQu1-EAE0g1mugiGk2-k4gp9EEr9KuD061LBg7D1vBW8WHIG5tcnm14xRh7TJ0-8VnkKsQRwYm1X5gD5ZXfaIzvhzbvuZ8",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "uec-dos-key",
+      "use": "sig"
+    }
+  ]
+}

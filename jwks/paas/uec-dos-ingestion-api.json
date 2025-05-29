@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "vCvplC75Z6FLVZfX1bk8BlYAS6WI1Doe10mVsTQ5ikrJL5zzQw-UdaEOtlHYpcrip4LxoY7Nvn4gwD10qeFlqiNht-bI6zVy79izjFhOHaQmInU_mCMgOihCyBKFgMYXKo_9qnvqButbP6ZKdqaAT2Ja5t0xawFJsbHYSg9IoAOFfT1XP5hOaN3HSmeeSmrp3PTVxZs7nL1djfI8oMHFjGuXmAzFVBMT440kGBpKD9ZLLn8HFeexWGXnvTeEF6dg1ud_AIr8jve4b_vUv3sWQBwIvzhNVXYNVutHDfNORwRePU9nXj6jQH9o97EvJCi3P4fBLJqS-VSb2zNmkzTvFjLa-LpcLjTK1_35beARYr75ZReXg8JsBJm8NNC5eIVBu4bHYzm8y1j8JeiRh_yjFV4E16LVfN17fEK5R38wZkMA_zQmZIx7n8c3glx3OZcm7VAwmNKHcci28rMCBIqnxcNYuCWe5YAW-m3le0clufJcqdaFKCjNawvyfMFDK12g82-s8d9aWf8EZ47dgd35u40TQPFErhNPomHmKIQO24og2K0inKMYD3FsSnfU8DmWUH8Yx0VOx9iO8YxgC1Swsl5CLfQr8sZxMMIKgjsNEPsufYLYOFgqSFQ6LgiGTYaFI5GWbf1NYsWtiW2pFQFjrQy7PKo8-afliNIBmebs4v8",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "uec-dos-ingestion-key",
+      "use": "sig"
+    }
+  ]
+}

@@ -1,12 +1,16 @@
 {
   "keys": [
     {
-      "n": "midyfOw3gQ93ycphd-NEq0iPNvmRIACt5gkIuHjVe-2jFHJ1Cd_AvnKB8ts0a578f3uEnNwR7euYEXsu9D1EKybAhxtjz_xmW0utSWm0Y0w6-CfVIshbXlp_8frJWy-zCF1MWehf1hN0sGYE6hC_SVkbvHIhWLGapJuhVhR6V8Ia1RbkRGpIKrR7LNfWrFQLcOsQ1I2lr2du7n7f2uSgEhG5rE93LpjZ4pBltk8N9VjeqzuJl8_P0bvENeIUZUSQpIDszi-rd319SDwol62EMme3Q0UKNu2ad1kxSgkRZkiOVIz4Ui88XI9M8bKeBGOxQhHO2p0zjE6GpnObaSYVRtM43id5xoqj1X-OlZ9gNImb5zbpq4jgym6MDtB8l0fjtgrgtjJ1nCk7B8Az-SneH0cEv2TaUu6Le1C5iJ-vGLBR0uELg4xLTs2LJSnvwK8r423dYGQ2ccloUSIMlfyY381HAIgqTxA8pZYtIctPVfY04GrBFWKGANHfBF3GqYN0KusCc0njWG_c0fFGUGFrFb-9XANPLk0122albHK9fnyJ1rwCixESCUkC4zxH7PZCeRla8MqC8B1NDnwNiiBK3fCLS7lFkYxbu8BSz3qfDYtUn7azXBIceMUbitqdzct-cdCCXhak8RNGMrgOSDTQ23KZSYafBa4cIE5QWFXuQ2M",
-      "e": "AQAB",
-      "kty": "RSA",
-      "alg": "RS512",
-      "kid": "eps-dos-proxy-gen-key-1",
-      "use": "sig"
+      "keys": [
+        {
+          "n": "tedc6-n7FB2XZycD2xhKEHE-3gLHKoYj3R4H2ZAdzCzudi_7cZgZgPmM07VCc2c9a48lmraDXQjn_56pEcnrts-_axUNNqYtJDFVZAVeyGZl0Bs6L-ZlzAFR4EYvLPGx5yzBgvfkZ5X1JF_ySBxMHm1Vez5JbshP5okJOMGn0Yq4LN7p-nSp6pC4tt6dL7na-ZVnh51ETUSjg_mnbRxUpoIZF8_k2TTwLJ7rd1_jg8berwK5KvXCGhI2y-gJQiZ4YgKnExWO33cN5_IcmAxnv8QkZlputXyWwE8DhNNmcSpgXRxLSDPh1DkAWy_uEXcvI7wG7jhYOek-ZVvMfKmswxGRznb1qrJYH-0ghJ_Z5lVn0DZ8aoHENsjHOftjwUMtpmWegrigffxv9pt7AFZEvqHqW5hezwn2kuy_x6jaClTsVaLCrAyUMGonixQ0YwL_NocdbDlP8wFRmIvkDD1CyBHqK01IMEW03qi_I_II9RFI2PvocJFwZJURZK-oEyyK5t6CG4Lclo5mXnwBF_wgSM3NFFvytL7yobf-BOksqzMEggKakbxAyFh2E3bKEa1MLQ-zpJnREBlNdLgwysn1XpQL9QHwRCuo5Oquu8pUTNDxVLjhxUk5rVkR5f6jwCoZnccef3dh76hJOW3BXayTxk6fcITJ0QEdYpy6zB-9vGk",
+          "e": "AQAB",
+          "kty": "RSA",
+          "alg": "RS512",
+          "kid": "uec-eps-dos-key",
+          "use": "sig"
+        }
+      ]
     }
   ]
 }

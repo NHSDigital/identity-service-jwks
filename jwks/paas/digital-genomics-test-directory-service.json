@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "6Te3v8sJEzHMAJT3zBsRyG-TkLHdhRM6WRRsFWCiZwA8Z_WgxpNSyPfH2irKtYMZbselbHZa3_dvzptTUII5a_IfJoqmoVzMJ2WhL4q9ZYuZWAtYZwhP-5leO55TfPuufNo_usoqzwH07Y7I8SBKqE1BvxIuNTw4dUENlvk4TuU197GIjFY-CVkrikd1h8myyxlfpGr7GG8jOAp2_-GLI4nSh4Ya0-r6idCbWWfWZY8Z7H4ddctVG6CqrKeMpRbGB7t93NENlvOrUGwD82_LmYggJL4nG4eDEAvoumltHBRhQZpFQTADQcUV2e2taOLMx3I9x899mbHCqeQj8xlLnivaQC74y66HfcLrTW9K1iC8OzR06Xox_uvbQ0HCq5NzkI7nkszu6XiV08KAriJqvKnpBatsGN9O09P6irm-2iu72qWdBNsdaiUnIHPnk0rUfBWJjg5_UOHy44nultOFcNjKLy0QThX0_mv9_LsnbfDF_h5_le5Zbn3koQbLFT1hW6_4gtnt20f8AE6ksJVBNOpSsPawmkzDFgqLiaDs-i21c2grVd8t6bfEElIQd_Kpwe18Bg86LYowE5FqM0wYogeQha_ATOPqVa2iVcsWkHO6VybK_Q9EeKDyisxS9UYEB8yXEo9xAcdZO6F4EHV_abFgT24WpM9Lpu2-dsHiGgc",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "digital-genomics-test-directory-service-client-key",
+      "use": "sig"
+    }
+  ]
+}

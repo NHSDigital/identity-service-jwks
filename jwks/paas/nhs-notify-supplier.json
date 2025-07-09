@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "z-oCohkjTiXzZfJte_ZI-H2VCUPno9GIdvhPSKo1TsCbxJCEuf2-cOn8JpNWyOHfNCDtD30R9ZjC7Tfmy240qya620o70cSq8WCCgfID4FoPevLWnkqCMcBNSBfE2X5Tz5nqGv04N3X6jfNi77vbWFD9CtqSun_poxPXR_VkS3JynmHlYUlVgRfalCGj1qW_ZxdMlBEOXWzFhCm53o0Xhxk_Zsl1rIalGIz9cNkTilQu4vbDQoscWPOBNi96SpApotKFXilz5ht3PbaSItTb3x-VyHgCumi6rcflHiB5JBCLhMM9rVrn9-s4k_YMHH-JyBCg23JqNauCF4ZUOwfxubuy6RLKTj-vp9qbBZ1kikJRNjxiiLxc4xYwecrMulWSYARUZkOfEATUTZfVQO6htv9zKt7xY7VP-r7FdARGybTLcovwy_hNcQrliHPdgRBig0Ill8ithiEPtErj0FlUrO7j96vRIoMK4tYeVXPcghNZrXFExElpqZN7KTFPSYczJgo06kf2J2UItDlXrEud0VtmEMgh6LXLkDdakvs-jvMQM3RqCn_1DfqHENQlXs0Q9qLweMVkjGiQaiAYy1BbX3Uc1a5thGnnhZ79-Xg1Z2h-AeENqL96fV5lY4Pv2yEqu2butAjypHQi0zGDOOecErd8WB8eGGQKmScAiHk7rW0",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "notify-supplier-key-1",
+      "use": "sig"
+    }
+  ]
+}

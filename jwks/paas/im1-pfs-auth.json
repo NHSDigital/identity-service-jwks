@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "2HkfW-fPepO7uw4DojGIaHMB1tBoCv1j1UmvWUte7SJ4nNEMDZDvZCbPEA8KOyrXhVgfNjhyKRDiyJDJlS-jbcby1xb7Ow-7Rb5V7HaFzuoJtoHz9eTFfg9QRLqKq0ElzAi-DATRkjTaGzhX5cuUVvU3zlsVIpGEGU10cSr-xaqqaH1IY61n-fn4wnx5p9NonSUdR95qwgUyOup81LEgFB-bt2eRBLva0RKR1wokphF00-fDlEPkqmPP5P8rtrJGj1msNvfIYIaJIL3e3aKHFNraDg6yN9r5uzeg-E-J3tMjmci_OR2UwjoL1QxWgVkj2vXpYM7RnpAOHGm6-g7-Z72F-4jVADd6tJBhsryfYioBFzfOAh6tcnaTWf9pf2IG1BHfMZvqHSs_xchry4vsvhqbIeuFDgrPO1p-IcKsyiHfE5v5vivshk5g7s9vr_QKKT3Kea9Z9YElJcPPY8T2fCwyFzZy8-rMNdMzrbC37pIY_FeXxC-4Wo9ecz8ffNTZp8kfWw28rr4SEO0a-YIOU0OVZyLKSfYFRLlHwvnbjXsfcaA4PF8QGwuIUEAyfTnJBv5ZXIUXOKfml5c2LRwx3A_XsR_WAynDI8UPKYyWE1gNbQbbuHvF2DJ5eoV1fMjF2Y5r9bx2fmkKp_JS0PwOrR7C4tT1MGqjgCCmOI29rpM",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "im1-pfs-auth-25-7-25",
+      "use": "sig"
+    }
+  ]
+}

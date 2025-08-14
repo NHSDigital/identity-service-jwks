@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "vDLX3qLzUGZyoFJKJq9wYCUEAKqE8h2seMTGx5BMIF9XilZFYA6K_YZadJJfJkrMVTXPY0nJdJcRWhMCt8RJR3TfoQjbkyjkOypSbKcXm7AtKKfvlSeM0A69Y6ncaTtYQAVsfkuQchxBq2PLc9nxcGnB6MDnMc5W1ov1hIjbSyoWRJjXEw-5FDnuuBbNrmTaVIb769F9YhUkOVUtvj1CECHloGi6mzHS7YCuBy2SWOnkjkV4I2_FRAg7OcVvgKpIRquhWu6TWzCt6LL7Lil7fWeObjSy51yObOSqwL1T0SOJHFfvtLghrY0wlpS45wtRub7HOb2YzGquN12q4BMn-pTtnOt_iCbysneGgarAotq954XTkSsYMnwlGkFjf23Zuk8gUiOUGOE4Sc8u_nid_7cCv0zrxTbAX-IgPIXQwkWwPNdU5qrSff5VHTEz3eax1Kuy37ErMe86BLZpK06LquKkbNrWSER5iYU8eVgEmVcOKlBmYX_Ko-uuBoxTAPT59r8HWVp9-HVM6J_p_KAmhdM8Et0AC01fdAzmzV4INAL5sMNPcfIkNSlkSUu5qA4FEByKQTnrkx-AHl-JOy0dO98QbrvzQ-UOSqkH8gw-USahqExpL5H9hkf3nNXE2RlK46tJ20Qce6lX0A54oBYjzuJBCaUApeMM3RfCd-hiroc",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "apim-1",
+      "use": "sig"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "zga1pSd0-ikjGsIq_6ZtwaO6xWK8pw4gRId1ZOSvH_G3IEZ8EypIaE821oG81Hc1YLVdJAxBVEuiitMwN1h9VsmMHePGHXhjolMMk1u-U03dy-sM3NwUb0_P7uqzweuSSAxf1jru9j1mm7K_JlQJ4vVKu6gUpclCHhoD5oNSsBSxNnFxiZlTYRuZwB_lmIOUU5viRNHdAvB-Sw_Id9a_6Hu_D6OuhRJcTTfjfzw_yKRjLb7hPrbUlHEPCe9tGIpyfF0ju-SDJ5rsthVMO7D9BJuOKKfu7HycbadbNuYtPw24TtNlWVvhmM4aN2Ihyt9-j0fnVmEt23-tGtNw7-4u7D7FbM6o6WeCQrfyQCxI6P73oKL0Y13zw4VWF4avsPeGwQ7Lv46glYnJpLQ22uPAdabS4OgokNHvl4QbNCah6YD0vO0NOZvHG_6OOKNx8LjoyP01G_JvE-uYrlnQH_hSJeMo1t6pxe3o4Wvkx0wj7KeakjjwIQlSZy0ST2JLjnH_hxaP-dx80YpWqiL7kmIU8z1r0KtfvjrcCNgTEk5RDu2E2Un4gsW2_QWkwFpdUaiAGNKQ8kO_xVCyX9SBThNfRlSIdHSMnJeaNPhcBSJfde2K3NEUNtEoAKyuAZQm665oSGDK1n8PCdEs5M3qLVnjWGfIDOwXWBTwtlJTXutw1xs",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "charac-production-env",
+      "use": "sig"
+    }
+  ]
+}

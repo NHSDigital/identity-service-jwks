@@ -4,13 +4,6 @@
       "n": "nE9cF4eHF2ul3_uWH4SR420Ym8cYxycp72PLXCcdqY8GpXJz3iONxylUHxgIop2nzt5HH5qxxveS58tC56SsnXV6CFuq7AL0JVXerAh5eXqKR6TSUoLZ6ZazXriWBG-SNRt3zVaVYjC0lNaQnudSE6YKGIxlHh5A61JwWvoD164-eJ6tj756NNcX7XY6Yt6NR8-N0clQ8P0PKHbGeM4hiyVTjjHscrlQoCUltvtp7QNXrNCfCnzyMhWHt9QtdLBI0kh8nTmfw6ICPHN7hwocDBWp7xQvTTit05thC3aqV-XdIBL2vS3m3s9eZO0Bbi_s0EhilGieKVPJ1BL4JII6Ak0AxwaCMhKzWQVzA7GTn9POe6Y8xAG_rv8xm0ICTT9Zp_XwleyjB7alBN3iyA6ELVs6eCZobWrgPhexMXUK3VWK6LeP8w0uWra7v2L3t5sdYpBI5DPcr2NIkTf0SkSgcd73ondWn9klmKOa6Iz6Exqtm8svczDkeo_QFwAhRB-zxK3qmwK1hfDxyNyGm-v1A0N4_jPShA44iOAchyGLSDxdQCjBdY1T5wSa1Qs4B-qw4E0zTrsxfDfFlQxYa1_b1VVEPdJcTof8CHJYAVbKMIN5p8KFqs9wIJNvqlcJukdRyNO4rGlYWi-z6pVmcTcISwKORUHYbtG6Z1eK23wMoJk",
       "e": "AQAB",
       "kty": "RSA",
-      "kid": "foscote_compucare8_prod_apprestricted",
-      "use": "sig"
-    },
-    {
-      "n": "nE9cF4eHF2ul3_uWH4SR420Ym8cYxycp72PLXCcdqY8GpXJz3iONxylUHxgIop2nzt5HH5qxxveS58tC56SsnXV6CFuq7AL0JVXerAh5eXqKR6TSUoLZ6ZazXriWBG-SNRt3zVaVYjC0lNaQnudSE6YKGIxlHh5A61JwWvoD164-eJ6tj756NNcX7XY6Yt6NR8-N0clQ8P0PKHbGeM4hiyVTjjHscrlQoCUltvtp7QNXrNCfCnzyMhWHt9QtdLBI0kh8nTmfw6ICPHN7hwocDBWp7xQvTTit05thC3aqV-XdIBL2vS3m3s9eZO0Bbi_s0EhilGieKVPJ1BL4JII6Ak0AxwaCMhKzWQVzA7GTn9POe6Y8xAG_rv8xm0ICTT9Zp_XwleyjB7alBN3iyA6ELVs6eCZobWrgPhexMXUK3VWK6LeP8w0uWra7v2L3t5sdYpBI5DPcr2NIkTf0SkSgcd73ondWn9klmKOa6Iz6Exqtm8svczDkeo_QFwAhRB-zxK3qmwK1hfDxyNyGm-v1A0N4_jPShA44iOAchyGLSDxdQCjBdY1T5wSa1Qs4B-qw4E0zTrsxfDfFlQxYa1_b1VVEPdJcTof8CHJYAVbKMIN5p8KFqs9wIJNvqlcJukdRyNO4rGlYWi-z6pVmcTcISwKORUHYbtG6Z1eK23wMoJk",
-      "e": "AQAB",
-      "kty": "RSA",
       "kid": "foscote_compucare8_prod_apprestricted_2",
       "use": "sig"
     }

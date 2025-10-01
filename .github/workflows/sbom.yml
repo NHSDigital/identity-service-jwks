@@ -56,7 +56,7 @@ jobs:
           chmod +x syft
 
           # Add to PATH for subsequent steps
-          echo "$(pwd)" >> $GITHUB_PATH
+          echo "$(pwd)" >> $GITHUB_PATH       
 
       - name: Create SBOM
         run: bash scripts/create-sbom.sh terraform python tflint
@@ -96,3 +96,15 @@ jobs:
         with:
           name: grype-report
           path: grype-report-${{ github.event.repository.name }}.csv
+
+      - name: Generate Package Inventory CSV
+        run: |
+          pip install --upgrade pip
+          REPO_NAME=$(basename $GITHUB_REPOSITORY)
+          python .github/scripts/sbom_packages_to_csv.py sbom.json $REPO_NAME
+
+      - name: Upload Package Inventory CSV
+        uses: actions/upload-artifact@v4
+        with:
+          name: sbom-packages
+          path: sbom-packages-${{ github.event.repository.name }}.csv

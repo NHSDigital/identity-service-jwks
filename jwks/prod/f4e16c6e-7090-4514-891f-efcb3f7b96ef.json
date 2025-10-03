@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "6wodbs-Js9CqHbxsDef-lrK4ThurTmHzlvxaC85XvtNz_1F3ZgK1_TC1REJqsfmdLxFSpDBeeEzZZWl7A1EPpZB32_3pRcJQUhY4av12AXVdjGeJOdxz7hhl_hLagoQGtNAhkzGLiUhAxDxuYNDW3W39eEwdxx5ngXd8rzpySX3m9o4llcBMSby0kMseJNmjy12R0gq0kTIEJm91VcTmfY-D1j9Ogz1nL_Ugcz8edS_3AR3ejN3SnBcxdRSDMBvenyZ_OMnY9OF1NmCH9sssRRvCl1cdPxXs6tQjFXW1TrEMO-hFgwRD2g8VMo32_89AgS1_jYwEtCj-XIjEEHFf9tUlIOyoEoWXbRzsACWEsjgBmpjUZ35-jjtgjQ_p-4N6mSXdiKD0azRSY4HzBRFSQLEGw_Zv0KqYnTaVWER_SSuUSluZ2J1nNVGr41xPajkrGWvLQFMmsc4h5_W3qYZao3UvPGSc8uMcqyHAlfJ71YPIG_FTizg6l3cWxJPH1YK9p9-ebuZ5Xg2GR8pScGoM0Ykiwq8LkA353VejpaST_NE6mM4uU0BwW-vVVXjLmyDwe1SpGFMaG0PGDGRFU6L9CPbsu1Et7K4o7PlTw2eDOQmkKG6u7E9ePHlJNgAWfC2vqOz3SlcAtyfwNhdjodcTmijnPZvvrG21w1e6eggUltE",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "ThurrockHealth_compucare8_prod_apprestricted",
+      "use": "sig"
+    }
+  ]
+}

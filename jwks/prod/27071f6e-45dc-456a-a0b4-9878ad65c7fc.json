@@ -6,6 +6,14 @@
       "kty": "RSA",
       "kid": "prod-1",
       "use": "sig"
+    },
+    {
+      "kty": "RSA",
+      "n": "78hGgwrFcV2xvBhF3kME0q9yGaFeNkoauuPEA84Bwx-TgvFI5iu-bbG1mVd_pBOgETgFHJ_4COoRy7EuDdAo6AaTPYF4y0Ss7ElarDC79nx1O0jFqdC0j81lAui2OiIZ6WTiP1LQwP4BHxvnqNYX4jR54ujYaoEVHpYpTrpMsApzLsCRDFu1NGy0Xg4eTh-d6GgcUjZERL9HaJinGMmUhZfEwLpHO_mz1RaNszyV95UnXPX3h6_1yIuiAIC1wkfd-ILuTragjYP21aQbpewTb0TMpFmgn03I6dVFyRzsxBLFkgDjD5DI_59fPyM6qzz2PjmfFh9z8Whz_KHB3RkLkJGdS085nCHhjgC4MbFuBaEw4TYzHV3s6Lh12dRvHj1mTIcmfVoUxjD65GJLGTsGoACz_X0-CgOwiXO4n47ASiVMk5Qm0PjFiE9r0QEjLyvoq04eye5pTZI9-uGJgu9LuejCGv7T09XI1VmvQ81Vj13OC2UJ5aSeORdVNJs5aSt27BwcI68nQvuiOb_nQWE0XH9WjBLdDzGg4B2a5pRNrGHgy9ZqG4Zyu66IDLJe9OttzNVRoRULMpWpsohXz9U4f1kTyRc5ee5W5WeqWPhTLgEcfVPjm84Apnslc1wYgphX98fuf-wiJ_orrQpy7SgjFDqigVtkb3CpUH0V1ovugoE",
+      "e": "AQAB",
+      "alg": "RS512",
+      "kid": "prod-2",
+      "use": "sig"
     }
   ]
 }

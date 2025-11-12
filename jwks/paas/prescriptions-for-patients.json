@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "tl3o8ARUdYlZhM-42cbU0TA5m8POy8qKggtJ2hMgkaE8QcUXtoWdbtrR8YoOuEYjryq3uKq7pWrTMpksNsNXFicXQnB7JAgz-3qCluTkkPt-u-Tq2YnT1vPcrNCq_nLZZdkL0dk6RUF92XdsxkV1A0YEhljR1jvOMT3wwCAWOl7dj1F_WilfntBXFyqvtFsB-7e_D8rFglAr3ZmGgNvyYGGdHDn94s9HApLRCyTgEwDZratr7-RGdy1Y20SxrH2aqc0JwEAde3pNIJqP7xEOxBloZZtkGOgilMb-NpHtGnl-qPlnZLEueyw3MXnJs0oN2rGn4L16KNWtFoxct8dNqAwyX0hUxIzgogBXqeD2cciiuUoJiIbcTcR-7WveioUtiuPiHM5zDIf9tvJPbPOBWfjiY_13-zmU5MCZplDZwjs7VbQnevmzSFZHvFpWk2YgWQcKnCVeVkmkuNLTkwI7_dZYPkTkfLhtUa5KUbCpOoJvB7tuETWEdfNfWfsWxGNlLSLMh64QmbmmYZteOkuajlGLahSFPn7AP3tMdt7NkxINrxifZyUCEhoH_SiQA3nYp4xe-w4SGxkMjex9athFDF_tNs50jM4T_ihARyHBwD14fCuqU3cH74XMZcXpFxGY4Zg0DH03gXfk9g9FdLGWFLybHW485RF8yrKapBVtf58",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "prescriptions-for-patients",
+      "use": "sig"
+    }
+  ]
+}

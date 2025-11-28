@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "y0ni1rNBN0tNmsvwUp-0U9tb2T6YiHF0x8U8DY4tIdqeGKkWmI6oSBvShYwLtrAk45LWcXibfIW1FnmUQRkDYHhQVsq0-3FWbc65pC0-3J-xtVA2J_rk7UlOyD6JjY0pl6SngSeKTFoTqtJqTg-q2WPcHxHePfH-jgz72wCtRLfxXoLmObeZJdhfdEtr9mAQsG7Yi567oTxmpwmi5XmCjo_87GDDiT9A8htPG6gjdRWzk1mCjN5K7Y2slG7b_GTnc1ba4klHVwH1894g2KH2ddO9KBonv66Huz9-uq0k2LpHfojJKLQlcSVdg2ZWgNvSyFNIS-z4KiasP-lnTjoS51DTKlcF1zEz4zCAry_4wlgMom63LiP5qU6nvIFRT0Aqi34VYEp9KecLSoZETZqgjRQgfdnU37bA-C99fdgqlpeJb8_hXZunGDNEl2BVBZC53AJ09P5WWXIm_kyXRKH8BTJd8roMvOJDkDn_xfUQiUWN5xdwygjcNF-pJHBG1QWngWDzoqEpLwB0ipptmXThH5sQtZf4R_-aM_DYLz3JX_xN5uvNGv0PoBY0XzHh3HWHI285zvy5QRQeO-BAzRndnF50A8n6TstnlT2OtsjklXj5hAmhNfzLiwR892ZxUs4PyyJ8o17XnFWJNsWMWqSPNEnioRpX8f3-uNu4UTyXkLc",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "poc-cli-key-1",
+      "use": "sig"
+    }
+  ]
+}

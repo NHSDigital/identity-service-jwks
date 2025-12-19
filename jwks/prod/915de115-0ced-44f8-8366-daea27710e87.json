@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "vg_2nIc2FnnaLqzbRADNoxW4F9zvxbthq3pyO83qI5Ogyyzr5RJ9MF3xK6ATuYVgLQkU-luXf5msPjYR60Mpjd2AHb-KcZiz2RyHSV7BAB0nHTMhfEcjWOO2KkLp8uMTmT7cPU-XGM5WhAvSiK6M7nw4gG88CLauUi9OuDjb7YAYYQVgtesyN1l61ViKjiVnjBm4C0eOICp0HcnNH-7GR0jOGSn0NwSU2Izkw0PoBf2xAG2s1NHiOwpeePYP3XKgTVQql05YiWNckFxsIFBzf3v56xM2dxWd8hT9R5h7xG0zhMgJei5WSsoBUy820qjeonOqILTrnlCjw0dfy6bKE6nvqwd-97caWDEW8Gk7ccchhar3pk6z10v-4rZ0VuGnM6QQs3VM0SYZgV3vvuz0z5NrApjJsPKUaRYwn3VZtNOu9rZDfDqnwJHcW725810BfSQhut7BDAmlQj3jwmVWmvFAPGf0zIELBOgmfjh-MvgvHbamSJJXf0_gn5Qm2TmTnUgikJAucy9kKk8eOQagMHylRmcEmCW7sdObG95vzOHyVNImOP7TC3OGy6bHGq5dxpfa8uqFEOBacVRtOPdvrcdZFItiTt8NtA4KhqkSLIzgKaGChFtKtVOdH3kgHbygsusLokMWXqArRvl7CEYP2Gq0tKiOeU_QoOK3i8Uszqc",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "intouchnow-prod",
+      "use": "sig"
+    }
+  ]
+}

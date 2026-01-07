@@ -6,13 +6,6 @@
       "kty": "RSA",
       "kid": "OXDH-Prod-2026",
       "use": "sig"
-    },
-    {
-      "n": "qVd26wrkT-ugkxSAmMV0SjCGPx1p_NdSOq7I7KLlg7Lkz8SczsOtFKkr_pf_F5ikKliUXn6rX1KO5dKL5cgkUoAyD5kJ8iXMjKo_aN1sBx0P6lUOn7Rz15-GxG4IvojgSkOk-xjFVxv95CnpCay3AkkEoAFFQKArh1WC2j4lgrAdJXJxt8exBhWOUfXxOnXv6rAyF5BAUuWHSGtBn3UCa1nFFVrH2A3My6sEqfro4K8fSczb73ErZ0O-gw4_-OIinNYUaltoLX9_wVQImAd5AJ8h3QD2P-d5-33r2-Z_NkObs53JzHBG2TsJnENqmNx5hkwhStaX1GepvKv28t1vBoffadshT6rsQcJmNdY2e7Ew85UaVwmmjNLkCfGlLxiM_mk0GKTdByg1tptwlmwG6QENiihcmT8pT9XOWG0zWemRuEx8l0-cUw30D7oAYYqectzUoB7li6dK48fo9iVKshWrICajVaMURP6UZYlJBEyEhXLMNx3Skgp1d5Omb67zI8loWjRElTowvpjurFEpOsySS_pX6il6PUvRArSBHs_giMW5agjr2JyJyGIFG1N_srhb8evANuOJNAHz1VH5NYnNzI8mqwW3iF2WKhvGdJo7vOrUu5vont0gCAMRY_iQ-TXyHvZAAfNLYBO_BmWX5N577sdiVKERR1nTH69Sqy0",
-      "e": "AQAB",
-      "kty": "RSA",
-      "kid": "Prod-OXDH",
-      "use": "sig"
     }
   ]
 }

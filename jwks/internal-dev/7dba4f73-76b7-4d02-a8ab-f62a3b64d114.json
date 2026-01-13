@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "wKnQXgAZUHLL5iBNm75H7Bu7E-oxlfX--FOU22bOxxxb0mVzUe4Q0AZrjMuepFNz1RKu1H_-un0rMf2MSn7DdbpRIT1R_90upM9xv7n4v2xLFzFod_KpUBDf0rBUKzOrf2nFQB4CMUErFW6_xSukDdq22lkuhdY0TPm6UN24Q3ae9pvnFDmSCOxkW6DVhikDPWdmNogwaGVlo2DLkNE_s_GZdw9KcvgDxQD4D9dOlhZMiN3FBzCB21jaEuiEwzgNljQFWHedJSigxcspv3t_yN7j2QUJye_qLCYI09hVvOZQ5UnC28QxMBsArMoFrWbi6_SeTRdnsWQz6YqJR-flh3igF3CQIiO8I1kNYfd6dFKXkI7BPXEIHSEXxbqnBKjv6YP0bpp12hWZo62sGEp5w3lO6s7aIFj2yuK7_1KMhmprr68HLeht0VehAM1LdYXUkFBAePWBONVN8KbKvXoLhNdcRGH1SYybeo2LEQptP4NqVmQYUZh02WoBVm84zdBCUDEvYgOZaJh-i-YWE7dozPUDy_Q8KGlBF030iVf9degsX5phD3I8Y-pjSA_KLJIZ7KrBXWAdBKGw4H0h_3-yb6Hz4_yymxmqozKw2jDQzAIzP4lDV2Ghi8kNr4b73w3cDcHLonoMI33xS5K2KeNqN9FPsE_3XIsaUN-r5ADh510",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "test-1",
+      "use": "sig"
+    }
+  ]
+}

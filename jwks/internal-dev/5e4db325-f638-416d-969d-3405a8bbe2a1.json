@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "qVQJi6yZ12juWsZO0VLJZFqjPsdzQfVlVWJHEPidR6HAEwdQRS0raGND8Mne9ID5jItae3vI-xsPTwCWk2pFbKBaI0JdysYJo-KUAYhVeJosN-wgGyAvmMdoHBU2EJ6cBgbETeSWEUjBeH5QfkoYVJo4BMUjoNdPKM7Ccp0VwVp-7KmaYxdR7KFdd9fABNhZ_GasniHrzvnUW_L21o-g37IOEINigyVH_l-I_DHeKA_k-EREoy8NK4QnW1h450UdrCV5MuS_eje3hEUteUqBWmZ01q5QREf6qd8UbaJTj54M4Op5HweZ5jsBjeTh9mVW_SI3cmVciG3wN2hcW0q7mbWrpUhqSw-R5OgyHbyf8oRToAbgFG-BzegDNAzIYbfd4N2acJP57gfT6n701RoDhmEYOc_11serCRFJaeFJhwp8PTso9IGEUlCNWzSMzr8vIMyDLg1glmmrmIyp0v6wAIiDlbFOWO98IXJXoVUuxOy1HH-1JjippmrjLc2tJmKJt-zxiMqLJ3xyAv42AZu1abCfls7VcKHM4BR1U3YvtPUIg8GIXxa4hlFJZUHRbvZkxx1X44BEHDHbZR5UR0VGPD3uGBld29mbHKikXMu-dwaVlPK09Gv-mWA_MeAX5uUyecrkcdLROr8mtLbvyUccKDtP4IBBE5FlfxyuNxKK86c",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "test-ptl-key1",
+      "use": "sig"
+    }
+  ]
+}

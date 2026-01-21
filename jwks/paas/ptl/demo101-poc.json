@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "xKg7lw4KmaPootkTH3L0_mRZ0GUrg2GklApoRcAvauH17ShNWvAA3WDYj5ai9do0BgiIC7iLT93GTatBRY3TF76RsQzjhYDJY2cTBaEM-IwfRQaAO1Kbys5s2gai8EEWdW-i7HiIIumOQ5eA7kOCkdxQkUwqn35y9qqU-3aRvbGeMioVwu5sY1dPyhaK_unx-1JsAI7ZfokRObzdSUqLuqyctTl0Bdfvt5beAkZO6yvXfSfPlevH5RUijO2tZBxoamLOLwt9QO8VQhmn0dg4SrZ4zy_UfiL4MEAZ-A5FN9u8unx2jNNasM41KXgkrfMEkJ2PxWMnkzFpI_zzVJcZh_1P_sfNvE3Pu3bvW70mCBDWcURxgHTQ9p1bVMV6AxRKATuKuVeF0kVX_yV_yM_op_M7XPtYp66eR238stCPcgDuBP0DhUQLtt7CuvEXhi1QJsSTopFD8xceziX2w1mQuSSnTpC5voMDnowzbBa1Ph9docaj06W5onU79IpowscWWo3595sG9-eaHjGSEpxrwhrboj1PVxx4xz0eMtYy6JCxiHs-35G-48rh58k1tznKIEfYjZNYLHA14Fcg5SztEsJwe6oMLOwMpBp1wf93zEE9vkY3-ayJwh_S-JIm8FACdfyey1zvDnISFx-D_gnOPWZDpFOC0BIoVvBgC-yjKrM",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-01-15-PTL-demo101-poc",
+      "use": "sig"
+    }
+  ]
+}

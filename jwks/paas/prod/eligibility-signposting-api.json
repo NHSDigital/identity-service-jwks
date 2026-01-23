@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "9-JNIhE-BRJM50lNB4rfAtOHUISUUeD-oAR3IMUIftrzMtRwy9u6BW1GIBtmkoNddd1hvm6AoiofpbVzp-EUCVfjaAwD6DYoyuRK1ANneIKVc-TzZ-28n0DaFBUTqunZjbqQgPxn3WMBCiFx0jQeG7AYgqnuZgjw6TTvDYgejvWfkXiER6iIzDAIQv01HZg96aSQvm3hgtrKsqTqIq3RPpEgwzOeb1aedzZ42kea-QVhSyIxjnfPROE46BLPtEQtsmDPCvfMmjUU3-2rJE9eyUdi6YJNpt9q_qSRbuHTYg8IJzam7fLh9BuPlJyUfpxRSdH-EeKXq1QZpWJgQ-i5T5KBHie41KtJmPp78xz3tvUBXVtDcotvLYtuXOpFzw2G0fYtL0Wx2rcToZNLAoEvnyHOTtS7iHdwZpr1rZd-iw43FcOMD5Cg5fMOX4ap3phbeJMidpvvMmlub3XezmPwhA0CGGb6fmpVu7I3spSkU3RTk-0lZKaeijt0_sfmCzvGuvosWniqc66Pa95vzj-X8k_oaXDtMt4L7TJfqYbtc9Ao2J-aJH5SB92mk3AEbd9v4LPWVGclkDN9DwtH-gXgizq9ufPfNTUetoX10Pjo_0fXhH0L3Q-rvTv-w77uUtx2nZbyukOj7na8wp2Tcf3IqIWU07LuxXSP3c2myZSR9yU",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-01-21-Prod-eligibility-signposting-api",
+      "use": "sig"
+    }
+  ]
+}

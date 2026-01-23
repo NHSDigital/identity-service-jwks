@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "qgqcM5GuxpgG_SXHNMFltsrVYystyrHiEIjisMfdzcaBe8BtILdP9pQwOnHjfFtuDLuXT5lakVX01vmExA3HIxcqliwskobr-xkRBd3n53yvoVbVaQgoKRZ0Ygrj-Aeh9HoA_fcI5NBnkvK9Pf72J8Sa2AfiDIe8Mr8s2ZXzWf78wQ8hNB4UbS-GrLlIvMwD2Iumx17oLzJeO7EqGx4TopqOYB1LinanyO_lHAVTIy150dexdE4wrzaF6-ujwjIfORFSNRCHbAEdfdGz8BBH4oclWE2q5FMjWjAAfbWpHxmcl6D_A20-ylA5t88EYWQ5mUY7sYSfzLzCI9dT7wMkUSre5AzJHft3Dr4pK3tUfgZiHr_zVd2vWCB7EWluGZ8QcNh8yuLQUga_yn1YHxlNr0nJtiqaf7d8CXVDyndB6uo7oX6kzWdjrsV2hKS7DMTQH3Ik426EW_p6XkYPUb69nV29t8PD64tm-FolBu2w2X_Yj85CvLdcA-D-VesVlnrdkvWl_HQGdGnocZSqWZfJ4jwU-e1u7jTvFYzQ32Qngtch9lER6oxJTxHENRYSEyWIQAkKAwsgrGR7s3EThKeckQzmhAEo-_clGm9wIl0R3GbRaICyNxoMliADgQz9hmdwQ9szwQ1nqypgVjFzyK0XWazZilSNsvppO0dtkw9p0fU",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2026-01-22-PROD-prescriptions-for-patients-v2",
+      "use": "sig"
+    }
+  ]
+}

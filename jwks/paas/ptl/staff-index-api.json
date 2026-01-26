@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "v1lpgG9igwpix2bwNTu3VHa8iI0qzw_YN7f1kW9so7J_lsIj7T1p2y9h1p1UQA1L3uEXK9z0zAvAA_3t1sEwPXQrWQ9TV_aOzbJlZUUuZkOY5NynSCPDGcYNj9ymrDcwNciFvfAL5fmV30E0Hp8-Pbw16ren_dISLBtytVRo9GpiEvtZziyMsQtZXmydlNpVgtrWMXG8_fZ_-dY07GCDR_-UBymzumbp1bgfdLdxvSpc2tDrUyzUFlH8FbFyVU_L6ISk3ifW7fjNvOG_0SYv4A6AEzvJzUv9q6eMvnQRJat9sVTbHdvL-Is3NPh-P5Wvtmfz1MGsmtWz_BdvuSjEIlDIivkJVvOboCMAeSvINLC06Rvz4kvZ9oRzzQvOdD3FqbtIEJY_DRP0DZbn2YzdFowd7tnIMqrWmwlESmzlVx4HKjHQBW8GgZFV2Y3ItVvSoPTebv017vb5ssdweTmi9V4lhq_WOR9N8SZeClYJMiKkyMIgtbdzFJoSS0ocVuTiiHPnU6av2eSehxVTRIaqTkMYHYLRZtwW1hOnMdU3j2-bPguiyfUqDfZGbMPqYwYMdE155vWTyQC02yJuJzfuCCu35li0WIcEl1qxfZ0ppEkJ1MpDp58kaRc4lFb3qVFMM9LMGOYqcEhFMRzXxK0UAfx9MEKooneCbMF5mYNapes",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-01-23-PTL-staff-index",
+      "use": "sig"
+    }
+  ]
+}

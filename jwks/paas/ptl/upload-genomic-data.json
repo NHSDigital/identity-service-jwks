@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "rgNMVnvvFla0xtLqa6MFkMCV-Fk-UgLAErpPhKh04Et12-eXraCEMrXV_hPc7qIO1Gb8eRP4DCEAIy3qRNZngeEABqY6RHv3jgn6Vx5BJV16uQeBpr0yqNT9pTc7LHWGyDmLh0WMT7nAxR0cQVx9wFx1JfValhUWup40sXVOmqX_3XXrVr2oCERTqpFuywU7ZPfIzo67AoySzGI2TBlDX3yTiOLki6uKKDj6WVD3no_Nj-IzVm8UDch4HrvZcqSGMWSRMyILME6MN5DO-H5j2l_4zjSXam2ogFJmShLd_tzPhiyxwHvt_GoH0xzWavU1AyRQUhmFfxStRLPd0-fL6aadSofsMYJ-UwMfptlTF7qX21tprFJQqNVkKhKaqsPiayQgBXQD2XhRfZ5KzWvVhcYFOZ9HoM0SMk5xb8BE2vygpP9Xfw908w1rMtzxJNyxt56bFeHuGgMIebaHF-r8EjA82GyrIpamgr5GWnYF4mwh5Vhi4ZFuRt__yebgbnn3LdSiD1LcGJ8h31ug6gzjmQKznbfJagk4bhXDdqUg9s28ht6f785gZwrDejZEYgKEpcTvJj-3xz4apzg0PT4Axyxwlw01V57UklWedBfsn0enGrNPS7URCWWdIiaCompm2AQeLHKIzeaFvU-cbiMxym-warzbXGc0cE1XRSCN7Ek",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-01-27-PTL-upload-genomic-data",
+      "use": "sig"
+    }
+  ]
+}

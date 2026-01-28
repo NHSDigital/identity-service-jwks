@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "vhr6jMdjEelT7-HOkmRcxjIsDKwNEYvLA3AkN8S7fF6YytngvtTAsYhT1E1aRUPg8JJdPcUEauxB3HMHPKI57hSq6Wo5j8VJkt-iwUx-EiqDGM4NVIP3JKGj5wuJ56F0uvw4GCidtrCyut_wweHE6S_TFwu44BhVjk008sKjG_umhYyWuY3T2uMTlQvScBwSt23HL_CLVp_MyoUZTG4L86KJyWvKBb1DF45uA2G5OJcM1ZZxR5D1424-Zj5dnIUteDC5vZ5Xq0lQV2QHfwRK06evqjmhrAUguehpY852arAr6GtzG6brJvDceZob1i3DVByU2TtgNdyRcXGFa7TKWSN62j2ddEl-JgFg4lRZkYXgYntlg7oHObafJzRuGljLjMXzhqzNO_FY8Dh8j00tUAyRvVL_-C4pfrSPj9SKb7Xypx1lOUhwKIFyVf8jDbu76fG7N8Rnmila9hZytDpxWlMsmqJ_qpgN9q-fIn0_pjsmApiqLiM55U_6pJ3pjFvXkMCgfjXMim6jt7WeF_sZ8ScmMLzXj5PoyxEBdS1ZW9IucP3GFCjzXnaOpMbulX40qFtf5yaet9ZqWC2L1LtPnhEi4p33TSNr0bsm0f-ECO8flAVfurS2Dhb_VWc9rJf-htFw_KwLeKPL4AF32yB_zUXo8RIqaC7esnnYe7Y_yK0",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-01-27-PTL-patient-triage",
+      "use": "sig"
+    }
+  ]
+}

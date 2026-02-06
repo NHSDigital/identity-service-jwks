@@ -11,7 +11,7 @@ the methods outlined below.
 reports.**
 
 ### Email
-If you wish to notify us of a vulnerability via email, please include detailed
+If you wish to notify  us of a vulnerability via email, please include detailed
 information on the nature of the vulnerability and any steps required to
 reproduce it.
 

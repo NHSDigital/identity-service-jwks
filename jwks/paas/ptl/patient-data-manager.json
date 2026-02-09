@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "wq-SQZuOFuelZSSqg71itvaOsoyrc0IB8IRKy_iTDqIHbtvwwhLWDrv3YJbQo-qxgs_cmbpHJ4JOKxEUtL7X__dWYw5ZiFrbgfNt4CVlkPr8z2tDY0N6ChKCwJWo02wMIcrEh85Brk384r0BRhzMUSll-qYInQ20FMzKM1RW3RYmZp38q_uvyvNo_WkizibpWsXzZfYEUaGX56AdLWdhFX-xhaxViIEmJesg96mVYhk2RmszhttT-2JG_mFHmeVoXaR8o53BI-Ypp7tYJZArNcpjgSzupFDade9rztKGQNC1HIX9p4mPqiZfVTQSeTyfAjVHElnmT7Oz5dj-dg-lNpcVPiruZLp9djMnrgHzIk0hnUTMDER-QiiHDoMpcwJoYCLHrGOwLV8Y-S8AQEfMT09s116iLtuzq-ns9Lb3s1WfUYZIk-M99y4o_gO6EQsMB1Et6SJPRUe2EXHAsqoeRfK1a4DT8gEj8u-c7ozEiL7qaFGAIbTnC-gDYN_ibHlp6aIip0oqNIolsPRFteA5S1Vfk3CWD3qJqMhlPY6ifHaLjN9A8Ips5CxPIn6huZgRrLWAQqY0MTmH6sfhlZ9efefhL_3hj4xVnBIa0bmUo-JQSmgdYL5hV9VTrElarFXAX9yYg7wy1A2wxDOFz7ohgJ3p5zN3MPaZWCWjiwiNzW0",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-02-09-PTL-patient-data-manager",
+      "use": "sig"
+    }
+  ]
+}

@@ -13,6 +13,13 @@
       "kty": "RSA",
       "kid": "test-kumara-kid2",
       "use": "sig"
+    },
+    {
+      "n": "vaLCTCaUD6uTIukq0OAzc9Hmkachvuf_JQCYWuMNt9VEtxl7NPO4qDlurPgChipa7Dpm9kI5BG6vAt94bkA2L0yA2Owc7kyGlBtI5E9MzjJY1i2ytJ_veKAKJJLplw2CVNebZss-1qpWIa1p8zNqPTDSGAnlsuYkrJEP2chfEGd6jCeowZ0h4X6uFTrqQc0mXT_7IV-6oqfo2sYIsz0XB91E1tN-mQs4tcBz_XIrE2oDOSB5woFRfS_7UmboQUXamxLHJNc1gqvuBNEfCREF2Z9K-X4Zzd6eBxDHCNf7hd1jx40hFl2vQRyMTnYPFwg1Mw3e3USF3SNQmv9xXp4UO7sKxd5VkUsZ-JDDcO4dl2-az_ptB1By92n3y9lo5vUvV3fSD8PDFD9o8G-uLjUi-qdS19PTX5xPJxvyMfJFsHvDd04_PgVBuHyrqZ9cfQOogyjIHSZtVyUChN49tLymCnf9xY0xmapoG0xSje4t-JNKRckN210GveTjH5lr0MGZgMV3KAK96aizErQXcrRHGhEZ7rb7gQjX3t7Vi5KewLXwc2fFsFWHJu7iZkLc7WC8ubZCESoWb6brYgb1yAYYn80PmljoWl2JaVo_WR6ADOklq0TaPCRTi-hDtFQ5o0HcdBMPIEFrZ0oRtF7DKqfsD_uPfV2B09BKMY-I6n0J36U",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "testkid-3",
+      "use": "sig"
     }
   ]
 }

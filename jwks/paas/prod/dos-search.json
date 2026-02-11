@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "xDsMxxBYndw3VvRj57mgIG8oNs_SeWrSIQx58Y3AltyrnKk_k_jwISxC0OGrnSJtb_tesl1LQEKEM5bq9mS28zn9Y56YZSGVwFQCW2e-rrDz1hhLEHv22k8SfDuo0sW13G_Qug_B1PK8AHT6UswLXlvJ85NmUbbk4C22-oEflPdVH71M_HF6L6gEjyJrcQXnjMsLoyMCDTNk35Drd1FVcFgvtXQkbJ-ydaD0sdv5zEt51o-zGIRTTWx3hQvfE81m4Dp7rztzrKwDxrHL31Z4IIygIsRTbn3QEVtV6VKWM-_UNcnDyyOxi3qv1WHphGR2QXgDAyOHaEmvbZY3CvYC5b3wLl4MX1wG4styVlDIR53wkQ6tfRF69xzTu5S73YU8mRGNeywoejaDxMrblnatXxw_phVS0Wc7W0YiAsiZtKmMKdIbexsD1XN0wuGXTlYAktqKpkA30Xu32IZuo-8_uWYDPvmojXImmVaOMasYT_uFYmY6cxnmU2ng4MOdD2sMroF4lW2BmHBDkB5MO7SJynFU6ejooBdEeOZEp_yw_1x-mvmco2GAi-IZGszgjd8CsPwhl0zR0cNh_Z7Stu65oeGZ2NeNOx8a4Nxc_5_4QMCk0Fv-R1KrL3fjm_2U3TgzHk-BG1UFXs7KtBKnBe1r09KFrLmVTT4KwQ3Gg3mIUQk",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-02-11-Prod-dos-search",
+      "use": "sig"
+    }
+  ]
+}

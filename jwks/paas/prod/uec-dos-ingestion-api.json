@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "2waQOr2cvXM7pOzTOdVktOAcPn9aAmMgns2cPn5cV5O2dya6Eqq9U3o7veStraCj_9tkePi6NMLpoAV3rUhDzVutuTbkZVZeWFz8kwTkjdpivpG1WSNcF4MOZTuGTGWlagQkrgb5U62F3okbjl9VZwex4blDq9TnUiTyQpFPJTAD8iAaB8tBKEGUsuNfaRdHtacgFihlHnFf2ibIymSWuzj-yh_029yD05a-0DF3edx7T2AZsaUeKnUpgMwXBsXMdhN-s0e21FC-I9nXog4rTMMAtcvx3Rn6Wob_alD8_DVPrt4dKxi5w0JqV2EVW_EGPvKxakUOlo_Hb9olCmDIkopPoEp1VIxNPHU6KTzKaAUzMna8Wt10ynKZFtasi4SbHJUAlUOkVgkwOctGBatdF9pYv7mESgzL4iSk8BT599kgtHiYzbwb2_zSXeLvUegaT1MS8LD6nmd0w4nABWynTORkBthNIQ6eulY_Ujpj8KAc00kc-e4XN-zSXYizWQR5SNYvZoOzQlw09pElQ14Z_IWbHX-QWVa6uh3LBc02RtGCY__HxV0cb7Ik0yNMlr5XZE2HDk8i9OfE_QijkRw5OVgBPSGabZ9Wkgj1N2D-7LIqnRmLK58vchH-ATtU6YGfzNPWIU5LAWreouu9ybw1-7Rnlte-bkMqxdlkeaij0lc",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-02-11-Prod-uec-dos-ingestion",
+      "use": "sig"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "qHb8J4SLkVvaQTlEXntb0ml-5bQakPVNstLAzXsIf2QbUvUzesGqOzs-d6TO39RqvM2sIZnDE5O4zbVWjh73To0Ks44pYSbSAI4dJoZouMckT_kkYDwEdQC8Ayci75iBaBaIcvi4Jl0JjCvJVAjQkAUuxYvEgyNkwDOjiGcMo1iqcRujIiyV8tk-5jEkbY6PLfxH3MzsgDLXTacGtCNbaCCUPgTEc45LDwn2yEch-k1vtQYMr3NMZnBTzf7y2v4pFZiW0ckjT5rEfS2Yg9RU66XRbNVWDw_ZqoEFvzTG87KW5tWH2NQ1rIdyZf446G5gu10xeaI4M4x6ujnriMasWbQapqRr0Wk6qFDMBUCM0Rkia_-WWzKtM9JrVCUV4Ye-0oU5PhipRSKSpnwD2KDLMkXOGoW0H93w1ppkQE3PxipY2yhC2Meaz6mTVo_i7HVLJwF7joJp4RMoFtc3RMqjeNxH3rGq--MNj4GFtZgSTIMcGzsh5g3V9-JmQZbQdMcZWnjLK7VHisBcEvtMNWpRlYDp3xWpvnUlfpjQA1-uOTrmtsIuzdzHZ8CLaj6Ug4z36pl10xlbm-hwp2uN9tvjJO5PHTx-X2V_hl6fRz2nbjO0UYnasT-YwYVda84SM6WVzV0RjH3QRH3KsE-UmFI0yBLOSCqllV3kPBPI0f0Jomk",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-02-11-PTL-dos-search",
+      "use": "sig"
+    }
+  ]
+}

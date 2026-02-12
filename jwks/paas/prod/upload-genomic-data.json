@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "vW45HFxv1DSqRN4Cyi8L1D18MzCpm4-awRq8wySWKYOUTvLA5rU0x6RAu3e_xs5ckQm2xnSeeG5SU3iGfPcgH2JbrgOzYxMimVX55VMhKKRAg8DWXWUZ_MahdkQa3jgDAZRl7jLnVv-5Y_1hC584OveUNtF5txwVHpfSOUb8pK_k9munTnPTEu90Vs9IIx86rpZzPXhGO_shMzlPRx_mvlIUvXwMHB2oGvzwI15OQOUttqBJjdhBWdtGwqxcYVMZqw2dfVdwvBsQGduF6rcjh0jVFLPn3m8J7eGDsM9S-QuJVp7IYsX-f-3DtdM5ajjlCnkeYOGUQfoRiLaQz2yFDNKAVOlxPFGXUieR_yaFzBUYjRLbV-ddVCjXMnDAmXd1t08baY8wyPOuZMpxKzqh8YO9nso02m4GTC3_XXFP8tk5108IK__FDbcVmXxvl5x4OMAwffMjKUqdN4tYgeVK-ssmyqv81FS6kQEvL-u8TUK4Z0eb8_8KQTYKSFP1T4WB8wjFzNUde8-cRQWLpHq97FQWy9k0HTmS3cLUnehVnaD0QcuHzD0Uw0VFT7MgVYGpE1Idietl4JIFKhosrH7rcN-dTtgOsZdkQUr5oz9sWeMktpKnMtayhskuElvesRGSDf_fosCVzED6HcZQdleJXujNASuXxK2OY0l0DeZaqoU",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-01-27-PROD-upload-genomic-data",
+      "use": "sig"
+    }
+  ]
+}

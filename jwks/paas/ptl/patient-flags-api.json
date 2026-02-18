@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "zY3TsNr7Nra1vvrI_u7tVecIoaz9MuWJa2n0zZvwRHwwZrsL5vmrL4IM1JL9cpolv-uGUVS6g4lpngypkJt8HSQrM8DxoGDCSk-0IhhohmZkVsw53_HzAspgIFQ2dAX3tzNPteY4RXZYI1bjQ6tlnZ-EWi6qp7Tubr3gCdeLnZJRMEjuq758fd5-7Uh4TpTuJ27gDB9LRivMpsB1iroseJYDHqcK9vZl_BHwrr5IQqBnGoyKf8HmxBmwDRFtD64u7bzyIizg0VceYSWfg2ae7tgXkThYh-87Z6nlUaJ9hNMsSIaMdvQDkPEpDLh0tj5dBEtZG4ZR1GPHOr6YotGWrwCRfiAejLV6XFOMlikiZ0gzE9TUO4Pften1vT--r9zEZLw482wKZZSUO4vlEOqN7NlTrEDoQMErR1xSpmWhlFDr5Lb_8qE8eN7SHLqHk5CvGpTQrMZhAVqLpc0IrixIQ5zvWPx-CBW3uYI9YdlwxatsMtOIiKTGRuC9vWG2CeQmRwBdEqhvu1cvRF-u6f-EVCOAfh9WU2RVgfFy-AdLMpNJbJTUvxxGs2UWtL6kJRILsVB10ML_2Uzmkz6elp8G7qig6F0X4tOMrn-RlHM23YFF5K5VuETdrzo_D4N81TSJzYXFztPSBk00gxjjwqK_1W4VzouOoB1xEIYsMqKZSqs",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-02-16-PTL-patient-flags-api",
+      "use": "sig"
+    }
+  ]
+}

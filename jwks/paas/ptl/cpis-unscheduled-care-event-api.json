@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "i0k8ioTSoUQKO0bLNGakl1jx8VcpAEH16YU__9RbSU8mLt7O4_XxXFkXUt8qKS1ngIcZ3CHBpa6APuWHqdTEuKblRHiOWm9d4YCh1u31YfWWYJoEwrEQyGYz2et3QJ1aPh8sA7doaSXSbeFwa2Yxw9yccs3ZZAq0AWXFjwLYxzFvqQTrvELL3XCcEfkrsUb-SOSGdQRQFLYFs7iMJROgx6SuKuCV3VoINVi06mt9UpeiYHqR9gdKZUTyh9dA1wl-66sz3wtAvV92_4Xf6mE2vmI45LYusXzvlhL_fVcPvhms3wjXbwjIda3QTZ1ElsDBotag1q6FOs8Ipm9TsBjG3o-wrRWnUu4-uHAxOubRoab6zVJlJiHgeGIEW2Yzgx4c1IkwjpMTXn8qLRo0fYWbKhrYm4ZSc6_bTcO2IPBj46Tdz9jwCP4IL39ivGTKqnyNg3tn9MPQt0wUBfAIBbBKpE0-vF9-dXADPnQ7FuUsJvn4fWT4BqsdcQ0YohWaRD6Fum5cj694_PdvsO7N8An-iKGM7-7tzfqO0f5M8iN7fwBUEA3IPNBQOVYhQsukvOfJ3TwPfYIviFesTSkNmz7uS8KRkT2900bFUxXu1-7n5VsiRzAEKeWo89XUJ83mDtEMJC63-8Tac9WBRNkjtRetsrK2U6MZfHXLpEc10JbrXH0",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-02-16-PTL-cpis-unscheduled-care-event-api",
+      "use": "sig"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+name: Public Key Expiry Check
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # every day at 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: key-expiry-check
+  cancel-in-progress: true
+
+jobs:
+  run-check:
+    runs-on: ubuntu-latest
+
+    env:
+
+      TARGET_DIRS: "jwks/paas/prod, jwks/paas/ptl"
+      DAYS_THRESHOLD: "60"
+      JIRA_URL: ${{ secrets.JIRA_URL }}
+      JIRA_TOKEN: ${{ secrets.JIRA_TOKEN }}
+      JIRA_PROJECT_ID: 13001
+      JIRA_EPIC_KEY: "APM-5615"
+      JIRA_BOARD_ID: "2155"
+      DRY_RUN: "true"
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install jira
+
+      - name: Run public key expiry check
+        run: python scripts/check_public_key_expiry.py

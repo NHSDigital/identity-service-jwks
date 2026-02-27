@@ -75,7 +75,7 @@ def days_to_expiry(kid: str) -> Optional[int]:
 
 
 def sha1_label(text: str) -> str:
-    label_hash = hashlib.sha1(text.encode("utf-8")).hexdigest()[:12]
+    label_hash = hashlib.sha512(text.encode("utf-8")).hexdigest()[:12]
     return f"expkey-{label_hash}"
 
 

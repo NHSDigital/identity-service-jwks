@@ -1,0 +1,26 @@
+version: 2
+updates:
+
+  # ---------------------------
+  # Python (Poetry via pip)
+  # ---------------------------
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    target-branch: "main"
+    labels: ["dependencies", "python", "poetry"]
+    open-pull-requests-limit: 10
+    ignore:
+      - dependency-name: "*"
+        update-types: ["version-update:semver-major"]
+
+  # ---------------------------
+  # GitHub Actions
+  # ---------------------------
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    target-branch: "main"
+    labels: ["dependencies", "github-actions"]

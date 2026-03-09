@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "nlS-eCA4vkNI3GKxbnRI5L-HjGa02JdqryHxiTJ47o-WYjb-U_1sJTGGZDLR7_598yN8l9izSu-KJqvO2ygbwnIImKHUCMkNManoxQXMi1TGvRSBAfhKLOBEzKoMg0axayWQtmQwkhxhCZF4x2h9Bw7WGDyWyiI7YiB4Nw2yVsfb7KE3cVKpRJj-q34vmH-eCBAg_KmlQCMjZGS-kZJTZHgtTNIVtWutRks6S9iFCay7xIlHAOxqM45vE-dSLni2wAKhPX1XfrhPOMGhPglsm4LiBK0NgK730KPTqtSYBvq_UHU0PgjYCgYnc4r4JutW98wC_nG1wNSsl5IyZzlCZq6SLYChvac5OA46I0CGisyyuigbFIj0Y6BTvnqZ64tt0hUgIrq3bVPTDDBIMZmZlpCZQwXEx9l3IWIQ8I1Z90sKKlwqeCqc2Ku2MXUV8pYK-sOIwY8kQ_QFFgEltYA7vbcOm8_wQJGBhMZ5qRsWrJPz51cDcOLYhCBUs9gVmsFVb61sDU4kyE1KPJee6LjLwrtfVLfMR888f1kEReb055B0uwJJmg63loYuG7uQBqrKniKRK73OlRZiukn7V3ujCepG5-sHrzGwv8VHtATLl9VvbG3VLScy4LCM72fxxHE-xcIAVuCOMSQaMcdIeMSO6Sw2z3P2k0tarH4z5zgu3p8",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "ftrs-ref-pen-test",
+      "use": "sig"
+    }
+  ]
+}

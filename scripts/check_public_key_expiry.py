@@ -39,6 +39,7 @@ DATE_RE = re.compile(r"\b(\d{4}-\d{2}-\d{2})\b")
 
 
 def scan_json_files():
+    """Scan files in the given folder"""
     files: List[Path] = []
     for folder in TARGET_DIRS_LIST:
         path = Path(folder)
@@ -48,6 +49,7 @@ def scan_json_files():
 
 
 def add_job_summary(lines):
+    """Add the script updates to the github summary"""
     if not GITHUB_STEP_SUMMARY:
         return
     try:
@@ -57,6 +59,7 @@ def add_job_summary(lines):
 
 
 def extract_expiry_date(kid):
+    """Extract date from json file"""
     if not isinstance(kid, str):
         return None
     m = DATE_RE.search(kid)
@@ -67,19 +70,22 @@ def extract_expiry_date(kid):
         return None
 
 
-def days_to_expiry(kid: str) -> Optional[int]:
+def days_to_expiry(kid):
+    """Workout the days to expiry"""
     d = extract_expiry_date(kid)
     if d is None:
         return None
     return (d - date.today()).days
 
 
-def sha1_label(text: str) -> str:
+def sha_label(text):
+    """Hash the label using filename and kid"""
     label_hash = hashlib.sha512(text.encode("utf-8")).hexdigest()[:12]
     return f"expkey-{label_hash}"
 
 
 def find_existing_issue(client, dedupe_label):
+    """Find existing issues using unique label created for public key"""
     project = JIRA_PROJECT_ID
     if not project:
         return None
@@ -96,6 +102,7 @@ def find_existing_issue(client, dedupe_label):
 
 
 def get_current_sprint_id(client):
+    """Get current sprint id using board id"""
     if not JIRA_BOARD_ID:
         return None
 
@@ -113,6 +120,7 @@ def get_current_sprint_id(client):
 
 
 def get_env(file_path):
+    """Get env from file path"""
     p = str(file_path).lower()
     if "/prod" in p:
         return "PROD"
@@ -121,9 +129,9 @@ def get_env(file_path):
 
 
 def create_issue(client, api_name, file_path, kid, days_left):
-
+    """Create JIRA issues if not exists"""
     label_key = f"{file_path.as_posix()}::{kid}"
-    label_hash = sha1_label(label_key)
+    label_hash = sha_label(label_key)
     summary = f"Public Key Expiry - {api_name}({get_env(file_path)})"
     description = (
         f"Public key for {api_name} in `{file_path}` will expire in {days_left} day(s).\n\n"
@@ -159,6 +167,7 @@ def create_issue(client, api_name, file_path, kid, days_left):
 
 
 def main():
+    """Main function"""
     summary = []
     summary.append("Public Key Expiry Check")
     summary.append(f"- Date : {date.today().isoformat()}")

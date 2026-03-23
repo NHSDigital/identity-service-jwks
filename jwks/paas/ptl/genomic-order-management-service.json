@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "22AEr-kQPj8T7IpoiG8b0b_XTKTCLn4HTt-xKjuA69cCChDXhH5taxzp-fLCfgSqh4n6CJ8vMaYnxDA7_V4zP-2H59gHbLwJO7bt5HSol4MptrxbP_zMPjKDoeeWmIYord1dWC1t-aIbV9hCpv_OFOSUaHUFPz9uFOIXIXGI57LHbYkqT8GALLVYNBcxDeWkVbM1lvT34-FOP75iTRrLKiXKc1f-apJk4tLtM7kVQM1EgljrNyBML9Zj8DpIkqpHKMzEEyb6QwVf0A-fG-uX0ku27xnfC6xO1b2cwfxjxqWZCVkqXKanmKcZa1hHKT6_xdCn_02iCAUv1R7K_eh8ZeBPEjvhVRN9DfzaM0SQEA3K8ueN2EjAvmIrOzAQ1ZfSswwaUR0iBPXxLh532X2PaSvOcFxqaGEtF17jfwrUke9pQUGCArofhPNFHcnxj_1IrkHqToL8CUK0EVSHMvb9ouEXuNjA82-wota4xZV5LFhCPc8mClZOum4CmTxGJAeGjt_spAZrxJLuxHHPsZQXsIrXXNv5BjlYjaipUbMuP1xC1WuFKV7BAgN-ljDCr6C4wIvo9rb6rwAfqOuK57fzGlNMTocbup42IZikzFbvR0gme2mqfFAlXlzEaQ0STqKiqO5ycgd-bnMCmljhT7dozGN1QVbyn_IkdBINfbqyRaU",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-03-20-PTL-genomic-order-management-service",
+      "use": "sig"
+    }
+  ]
+}

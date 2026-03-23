@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "snLMiEaGP8Nih8ns7QgGIEoHX08yq4qJ5KPEu1MqltEoWyA2Hlu6PTPmVFuJsLstaUPC8j4o4HtT-JVs8NxZpENgEBdZXvi_HQbWOyQHcKzK0l12_o-cPnGYHAdw9pkJQT_GJFqb-CNjxmXEVyHodT84EvDN-47VyaU0SjtFv4m_DlCZxNHS9QzORIP55OgIDFIBtpQKAGKQEp4TSZauw-JkEn-Pm9B2n972_9gWbmTaGmm3t-RxNtidsfTRWHi3ICNB4vQxsOH_DUJ8K6DVRmyQ3nMU97-4Rfu7xswFI689p-wEgqX0njANrB-Diyk1wFyzFALGkKMZLyTtafCn1WN3Q_eaMVFgH3Eg8ZIXl0eV0Gs5DoFbyRk6vpNiw5V71AhHNmvyPV8eJmOuHrp4ygipgzwAjlwf7ukkM2GCHAhwbcO-CQhUY9ZhYE4nw4mtNfBk8grs2JCFI1NTj0buSsA2O9v4y12OxgFhpOA9fA4q3aG62Glw9chTVPKE0AnZT-OveQrYwSevg_yyq9XnGnDB-3xNjW9I8k4O6vckS4MkvscH9mAtMKDHGRYtdFq4bbV6eNNqwn-cpAnVb-nvAkhkxz8EFYYrArrmy67wO3EUS8J7yDjGuadAe64uI72v5sF0pybSH9sR832ACKwgQLw2-CLH8jTvlqfOybyIOn0",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-03-20-PTL-unified-genomic-record-service",
+      "use": "sig"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "pzcL1ym6ya06LkM2cCeTznIDLrWOMacCPxUfnDTWkIZS_uZjbU4Ks4G_YUa18cuxoOWyRvwFNb8s08qDWPwaItQeTuT5gGMn2ep3UPfiwQgUtIG2lCiQs2TdonkIzVZ1yJjDxMKaBgVUhFS5wLeMHhTD-Lmgy8l96s1u3y95PIKtvoyHc-D3wN8AlWMOO8tMkzPwhNE7FzApho6cXvm8m-svoEELOwCA3h8Sx2Jx1HVah4J07ex7VYIr3d22FkkUZkIZXpRgeOKr96JN52B60MmL7CKwc4DFfRUg9qvBE7s5JHfcJ0MVHDXlb6MyUJkrc3L-zvpP10An0ZhiY5Fq08lbldX73AQRho530XV3AKcjz1jv-1Lx2BPeOvQaXdUKJWPMjncyr2mw9S-yGe1d4qbLp2oHcm4xqs5RictoVZLzZvGA1LcQdYfFTXjm130hw8u33qcyRdFbNsyuwf814jRZ7tag3ht1RXJ9xPHLd6zzlV6LeUWw5SPqa2Oum6G2en90plmQQ-C9daodxjVdJReXr2grzLkLBIe6A4qR751TbjsquaaELpptQkC4G9IpDbsKMzp8NBnlJfA0uG6liSR4FVLa80F7_G3RDPW1L3JFVVyYaFNdcq_9p51_-LWe3jdYmidpOtXBk6M445wS26grliyDTSHH_fjMsRYO_mU",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-03-20-PTL-clinical-data-gateway-api-poc",
+      "use": "sig"
+    }
+  ]
+}

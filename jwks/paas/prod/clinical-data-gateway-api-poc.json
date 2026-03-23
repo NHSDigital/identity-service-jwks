@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "ztgtBgZY3AAtcuzaECSJ9VcEof36FnlyFCjvUt14wrQujoNojrni9juJHovihVB7fD8Olcz0npWOONn3c01emyY2pbrNCokCVAWGM2x74QUKxXXuIFbuvy7cjOYu7yDk45lOyMZabdsVn1lbuhRUpzfC4qLfgP2EvkXPo9TByHjPW7Oh3dtKxrQiNtiF-MbjjbpvykBPulUbF2epLdQ-aaxKvDCF5aanYuS2V36Gsc8YaN6lLs9xZdaZzPJUHtYbRcVpgQZqBjUVmwwaJbFW3M30S2dZA1H6ULLXENrUAysrO6RuNkRIovdut7-DBK-R9F3Iz1dpZyuU4bDJGoa7TqU8AnjsIh8WYpruU3bOelvMcmhxr3x1PHsB87I1JLr0THFOHEmFf7J1y7iAimVPyU8D9DY20sfz_Z4_5EVxYAx53V6P2gRHeqBcztWSx8s9AFku2SJ-Hw9IMpkVa0Jcv3LmqmT0ikumfEqvs2gXh-iOugT-WakCpi8NjSbqyXMaygTiAVh_AFUkYuMpL1Di8Nj-u5vMHau6dFgwQanua-ZGE_xy_2znG7zjfA8vhdJGH16sgrWwAy2bD_M-mz0mbkBu57v40piLZlubEgxyRyrB_UHY3Cigvso4SDhV511sFGWGZjDoymphp_I8avWJT41TEt3QoMugt9i_kPUM5GU",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-03-20-Prod-clinical-data-gateway-api-poc",
+      "use": "sig"
+    }
+  ]
+}

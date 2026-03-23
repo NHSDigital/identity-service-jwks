@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "rZJrBmg1Iwou4f4zmt7d0gsZoy6hrD07zpPjamYb3e-EEDZx5oAamUton_g-pTcmvZoZLve0TWmZW9hdrp7bsv85Gs_h6jYsrgSfQalTE-siaZy7o3HMfkf0TqDoW7kE5JLT8X9_8-h8pjlaaxBmIg0K3vfMHoU7Y8LWGeulka80VsPfvKFn7rRhCB7B8hoeCC58Iauxp6_pi8TCh9LuTX_3QdkWaiMpX7lQomJEs5wyZBcpCgbH5Ybzczh62Pyf5ifaFdedyE_KL5hn9F98zM0xbar8p-OWBvxaBgR8dEO-kWU3zT9cnTaZ3sko8gb-wdK92MGAay4HNdsStw6ELXRG2LX7e06bEOsJQ_goXa2AGOc5GZtnwXbFjCkeDxK5lplJ9IlmG2uNh7mjaB6YlmqOR2w6uBCqQFrU2ZzN5NnQyY4ld2lTXbMM0m3wfaPjE6PEetB8_6N7WwPSEt5LgwH_-t6bREE38CtYkAMcfNRxiZYooJEGb5001bPpiGODTk-Wr2i3LC7RUs8M0qYDI2XWzfWPgmRWDeCPWqEUD1mYbynAatnTE-Wf5dvCZASwW2QYHLmQ4wA-qRIVMkC2G-bfGBpLE95SFMDSGaW7BmP7A8VGAEvGYPl4q-zt0iTH--hngN7wX8LsoT8gUh9Zn47o6EuAmSwg6jaEln919WU",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-03-20-Prod-nhs-notify-supplier",
+      "use": "sig"
+    }
+  ]
+}

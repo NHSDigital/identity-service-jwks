@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "v-UJKp1oJoCzpAqG2hKXZaOsw1-kMDF_vDxISkM8UEq8bTtocR5IGRnipwO7uuQb3tfswhQwjWKNYqBaJcXuM2MKTQ4L3oJWUopGZbfhbWIgTDvatnRtV6L7tjMlpyoHqk8IOioTYg5owv3CbbpftAq7nFCuJZ3Bgc6zQFer6C1Qgtd6UPGbLJh7EKY97d03kWDe1AsoUwR5QQ5wDC0lRlaIo4Y-oRI4oDr6aKhiqi-DGQAHdfdVjHwbFk8lPK6iJDAg7yUphJYmKp2yv1MvWH-UCYyQeSthOaN-ED5lZgTJeEEwTeOvIYZQ5ZqhIHMEB4kTU0bhn3Zzv8Ht77gX8ZZf2XbXXa7F6Jeth7RIX1PsL1X4Fp1H6mxNZxLFjnqQ7qk3ky_anEkI-xgdqhlhPaUpw_md8c0cWUju8zHf19UALmuH8jS8SEbCBdMgjG6CSoJLkbe-d-HBpjmLjH_l4_WuGWgGX0Prom0pidE0cx2Jib2woZkTE_DS703MNef3PTM2-IWa2rHFA6vgJozrgEJvBlfLCun1DbYfv3bMrtexfyg_3nIO-W6grkh4JXm6QYJP4eW5LHKfHSZWal1fGPpk42YG3O6ALhiOVd7ha26p3Q6Jx4_IDMOyKsDqE1M3YiMBMo3m2NAFfHfZmJyzN6FWMxJqgf3zjUXiZdPAURk",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-03-20-Prod-pathology-laboratory-reporting",
+      "use": "sig"
+    }
+  ]
+}

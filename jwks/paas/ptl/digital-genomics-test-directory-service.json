@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "kVyTQ4AWSV4eJY8WQtJv0cg0c9LkTtX9GtS3yt1zIp3NNQnuR_3Nrt3IOTC2Tz43e0rrbxhVIeMK4TcaVHwi3ry5zrNd79_vPXC0S9XSrxPk3O1zhiHSEJogzebYbJ7I8abYzGYfUl6B8ZPZDnJaBMMhd8UMatflDmtfCdn5dhAKjnDUBaQasA6n-S9xrA2xL2YcDB1tqPt4qGxrnr3t6V1A-f1zzrJlE0FforuK5-n5EAk7hjvF1SJN2UNwmYH0HeqmZqSNs6BshTwHu9Ntg_fRy84MY8T6s-38RVBNAizhnOFyJvJEF0S3JPAaEK6ojkg_sf1Ayb_KHQGREqDkC-5V4Xjx6cbocD9eRVB8_fxIaQINjC1atkSrDgEO-5GaOxvqiQPez4ZyTHhMuEBvhY4myG0HifEWryw6SGalY4KM8VOogoVSXtfnTNwFfbylIf47ovKegk_pgU9ZOWkkhaE3UVPLQfLt_AcQP5gy5KEm43mIDfsZXm43cqnyiWBiDzX6JA8XOls_cmeTYsmoB1gP9LyzojRwtXR-gvygSocgCDAL0vM5vt6kKt6yaF69sf4l2xXJlKjYD9X76Gb3ZR5yS7jdBKKPnNto4Aml4d2ayrrPrwLuVOdOalHvHlS2eA_QAsgmNdzd_5xNJlTgpcREGxXH-XdmkIm9c6Pc1r8",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-03-20-PTL-digital-genomics-test-directory-service",
+      "use": "sig"
+    }
+  ]
+}

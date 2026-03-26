@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "mN86I-AXDVBC-EX0VPtWAmoTIr2xkOPQGtRMlqAWbWVBRQyRGSW53aqzqsARhsSegYBt6Erdj_wDgjMplmO_2qysakvAbFoLI2cmpPzOSJNmE705ab1ytENkyuOYC7m2Zd5fHM72UtQldzYwT6PLYtoSA-8khTid8NeFcpZLMobQNykmXYrU3rZp3jLoTn5fjtDjCuPtc5LArvERiN12yIe60vw35_CcZpTcqplAvRmUOLxXmlxQVxlIRQ6j5XJP3d6AuIN8pB5Kk8iFwAc4vQbCV2gDSXCnSt-QAEEzG0kkfZWPCv8VdDIm1N6M9MzIWe_urZJ_QzZlOeoy9hMGPV48u-x1N7GIeP28DWCnc4aPbhMYgzv5WgqiGgVztOSd6lwuWrZmgVn6g543MlySYZ6h6d5XLq3y3NZr-qEuyUuYPvE3cve4WPHxW3sJKVs3BqV1YEcAVmyPQmF_w8xQB0lVWl1oWtBJ9HFxlIuMs8Kh2zpyInLkmVYVNpuTnY0PwH3-fzMpI0OKylvug27FZm5tghH09kw52RCbHtVT1AiyUnllQi6P4XpmZfAK7R0lubHdZHPOrzwIjzZY2bLzX6h0Ex4nNbeT-3qSw3qY-N7iN2XQV42dA5327QnrBTJTjY1Cah1fAFexevJ2vICZwDVtU27zu1vlxI4yaGTFphU",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-03-23-Prod-digital-genomics-test-directory-service",
+      "use": "sig"
+    }
+  ]
+}

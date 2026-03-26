@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "pFhjIlZa69z5Ok_Q_eMuN6rkEWGVJIYIvVrm7sr58AZB-BDYLaK7pPCylm8pj4hWG04I_KY7ujotAoGZzzSA6RJUUYecF75qAgy9kVVAx9keyGGIv9LBxxaDBHeo0KZ7iEQ1iK3Y2UtWtlp8e3f9DCeTC4Y_2NT4pQ-DE_RvapuVZRs1k9pswYF7Gees-uT3vV7w6nBwTec9mrMeGdw69xJk4Wp3X70BWyO2oRgPNd2EMj-0KjC00e0BDbYb8iI3zFpmEhKU9qaJmlOoQsjYWahi2JsdV208l_YDLuNCiUr7r2zblMzR1vjK3c7mgxRAWOgFaIc-CVSIM9rNciz8baIHZlk6X5-YVBIcHaezFf-A6-PV66O3oZhmW4sLCaW8Of18Xn2Am3zU1p81gcieO9CRzNxdcwyN5WDN029IZC0JyV1U0lCpbx9sGO8sfxVp3U2z7jZjzTL7HphzFDq3NHDHf0uNAFW6MmFyQZRgA3hVyhf1k2P9kuPS-rlYHmcEMW0_LPcJ1Vt6sazmm3_KTVq0SgIjvUcW1PbNNxaddla81xe7GhpShxb4vtNFe8T8e3m0bGCeYbjJSQwLaxmzwxbEX5jYhyzOEqhx7-u2r4YjGJhdnvLghhW_uv2LAarMWN4_xKHiogjHJCeWxaEPUblGyU1iVgwp3IB6rHIBBsk",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-03-20-Prod-uec-dos",
+      "use": "sig"
+    }
+  ]
+}

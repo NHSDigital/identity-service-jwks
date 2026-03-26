@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "iJC61f9VRpQ4kLYeb9MlpV3pa-w7hmniDE3PKtyRiMV1oaHllCYn0ds2tFU_HYLQH1JALxJY8NwPkQMNSA_UC3Mlrs4RY6Yy5vgWcQWMBcm9UjvhvGIIXnfg3jMgLdUDHpS_s4X9oriq01STEBMOtQAOGH1pKGkN7V2JLmaJKlixdAERTRAWXuPTMpNQ6kLh8ccHWR7q-c11QZd75kP1YN_joWG8hLQXHDh5QE4ShYHevgLIScHAzkgy8HE5_PSlY8yoFHQxiujMJ1el7dcJTn0mc6R-mepjSHXMg0Oxt72uBxHneHqBJJtqPchCf7lzzcOknmt46Qknl6htwa9BZt3s9brXzwtBK6TdV421Q7gAMMdh3xKuOm9OZaA6XNCqszfvAQoIwKK5NW03aWeMQ_rCPY9eVy6v3WKDfSYiy5CbmGFc-dZayndhz7SkBEjdT914fY-IZk1YO5ebSEjthq8iY5qUkZlM8DUjFjPesuKYIRWlppL1DTgno7fj7t5JUvkVthX_GUXbshSGtkQEqSVWwgNoOofQdds7Dgzeb1jJvLhrm3JEILrAhWNdqvW9vN1ButwByqSYEnK9Gg-mFjJhrZbHvwkRSwgAYyXctWmAY66R1jDwCQ0JmNx2cvmPTxyaHnmPh0SsMIyl5kIXARuh0gi5eg_fTE30nn-LOB0",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-03-20-PTL-uec-dos-soap",
+      "use": "sig"
+    }
+  ]
+}

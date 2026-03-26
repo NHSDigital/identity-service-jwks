@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "kkwffbx1wztRk8Ch96BwdIPK1diBXwkSz5Mc0v1iyzMUdMVpYJ1gtqdlCZX_jbA2X7RmomtEUt5_LWQUDPTicn33ULFvTrULQQtuyOsTYA3MmrR9I7TnKtwrRGGGoKAt-SxbuxFYMCNddUKqgtiS0f9TYLcApRdn6dNxi3hKI_p2EgL2f1Tm9T-cxKDm63xnUxlKQZpJYuI1VkYMooARem-HhNHkr01lW9L7URcxR4oGlZtESv1jzDWgIyFT2OEwqxIWll6XCTWIsEB8vhRt2_CR6j8wSbxPz68kYvKmfUFnS967c2V-DhWeaRjd32Z7M9-FTq_Z-9ULMJHahmFSHpqqDl4EP9rd5CH3vkQIfKYuBPoanjJV33j_J20zoNyUxrRILSS34LKjccn1b6CLD3EOCztFtasycgYe9nr6JZO8ubg1ANhyMRykFuAw5SGmcIPzTUDulQ1PqN0Zz4nOiZJtLoHEHnjMvtc1Y5KV3hXXHIJcZ2BJIeD2Xe3DxP8zGZrt8OyzZiTl6QK9EPGfMYzPQew2IZ4DH6Fi41MsJQvGc4V8Wg5Xf_rpMWyMrmSd0Bby8tJQgula7iDcr0aSeeiZg23iJ52CEBc2ImjtfdWjBxeCGRHL_Z0WxhRC9HO24DqviLHv2aJ3P8zfzpXC8hA_F_469lmFKy1VSXiaT2c",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-03-25-Prod-patient-triage-api",
+      "use": "sig"
+    }
+  ]
+}

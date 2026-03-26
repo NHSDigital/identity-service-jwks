@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "mt9_ZZoBdDPZTBfRGW795bctng2ER7igrEjseIwFFP5K-FylrD2eKv7NmXpnR8CdrWl4FZrnTRtFoOcBHaCMgIJvioDzXnNy6jgVXRX851i-4vwkVBjzn_ciO-McjXZPjNm_0dHnwq193zScbzGFwNNzAj8fGK5XH7rikhYYHiJaWpMwruBkWDolgEEftZseg8CyLhCG9bhwUfBcO_-afo8KuRb-kvuF0ZXevJQVoIvcFwBrKTScfy8VVyKlpJCkUEHtRJ2XDXilIbsAMgpI4ZnPbCXkaz35V93VkJPb1u9g2jSme7AV0HrHT36cd61AoEZ9oyeN8zEF4-_wpl_tQfDqTzF3XZ2WkuN764c4IRCqUbj8ucKz-MvA3Bnz4-Xc-NLhKwZHeTpIdIrrrq6VrmfEO_2eNtC66uXOqGBcPAgWn9mq3sfvMUQSl5fB9aSl85DSShcs0lnY5z8XQs6PwXrIPCD9eq4PIyCDbM03VbatfoBtckn2pgdK9qZuVCCQjLccZ2moNkZ6QljmlXelRpKb1a_AJv3zh1gYLwNGmi_AHAWJ2dSouzKpnY4yp_AnHrGJAWeIV72IkG3mFaCTO9qMeoOSPHecp16y7G-CApGtGcaSKo7cykOyCr5AI24YZn6rnCPIjaczuyPu49TzQX5pKa-Y1006qnrpmXphThs",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-03-23-Prod-unified-genomic-record-service",
+      "use": "sig"
+    }
+  ]
+}

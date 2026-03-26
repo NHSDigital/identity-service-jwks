@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "qjyW_KKiN7MJtzY7av8_cglApA2riE6Es8V07sCe5BtWnUc5LzP7y18lKnUSfHirKdevvTMEMTQBcc4bDDKh43z4E7YXgtbp_hjm4N3fltLajpCde-hgF_ZgQjGbqMrWz44KJsvJL069QDQ0OYaAamTcl2_OIB0G2R-QmlzUfapV1trrytuzvn6wMqR3yEwab3w3IS30HZiBXMCdkBMm-eoSqsBMrQnmsXueJIRfydL7ISWRuMiDnCfGbiibhtYAUo6LY8FhZ8Eshpmw7FJorDvL5QstQLBZAjBP8bJauDpkgbvOBDT4ibjILKKzRGVu0Vswbx6rvkoOed1Y6a6kY3WgX6boY8xGEFXLfAK0YD1xOFi85cGiQOKfEID_VmLymtaUmQuxZBbu-mt9E-8WHr_AS4dJxBd1Mvd1rEsXQ5suDN9clyGV4DH2RRW62Ak1mk9jpCCywT-fWnz2N5N2JWp6sZAMdWY8U8zOodnZHAj2WF2P_XAGAsgoxfGn9wVDVLCulb0SlensWXUuHquZF-BFN8B2VByR3crRyEWg0ggblhj-4J_9Vk5eBSv4LsKbltgB95qe0towUE5p6bEyvRYBO0j_WS9akuMx4EIBn9vhFQqxeCIyuIlFp9AzQqOHfTju_mYSDcpTlqsJDopV6vA2-UX33i2PKi5C7fRSK-M",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-03-25-PTL-patient-audit-record-service-api",
+      "use": "sig"
+    }
+  ]
+}

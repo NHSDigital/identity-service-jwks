@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "m0VGt5tomuCl-6kLZwHlEezl6_z2BLCXW8kgXkP8EaiJbhfcHpcfumGLS0LWotWQ0NgrOLv_zquJQ9rhSHOkKSLSqlZsKJFZIcPAJJvrp92snXpQbSCG_piX2aWp6pR_S13oCtSP_528hHCCSDpG8tm9SMfa3SRCV7ti-PI1jMMm0neU94Ceo5qDeOtmvhEeO5ltBEXUoAGLhfRR_kfcXPt2GR28ESE7IycSkS3F2awMYbD9itAIqoFyAdbzRT6RcbQmxTTjiGfPLdFD7Iq5nRWhLt8hDS3vxPLc-G4F-kojWVnf_Du8cU_JPRU4hzkZO-BAwe4UyxSXU9LmX1CqvRVHnmTtXghLTV2TayQWen-aZpimyIfmYfaC2-strN3I5AgR5cIwVQ8EvaaEQpLw-4EMRbWex3cu4zlYYCySYOhZI0AiB6VW3Ujm4WFaExuz2HVdSRTzcQ5oOLJ-XvZxYHM4xqsS9Ip89pHmz35P_E9ircopvdkSZZ2cIdqlBTxzN-DKLnku4CLKAXvmfm6hM57GMoNKhbQQzyFAu9-SzNeg0n1WBlMO0s7Vp7i-gezN5V_SBUSiZuFXzWw5OvZnJw81wDARstIreCR0I2Pi6Z4G_mfT8EWPL_4QAxhCzxDKtxpCUFbodvEBlq6VvKpiUXgAwq6viZiC-BUPvV5p6B0",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-03-20-Prod-uec-dos-soap",
+      "use": "sig"
+    }
+  ]
+}

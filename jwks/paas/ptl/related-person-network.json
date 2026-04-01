@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "1LlqiRqL_RO9Qs2zDPlHqqQUqVin6chmlXvJ_71Ey-pk3_WTQ0potQQpwqPaqF883lAkitIF4yhVavEh1Jb2grEU7e9wJVRk3xCzcTfeQTATepp9rmDNVDH6RgBxfCJWFXFSBaSO-y4RiTNluBU--JBjo1pnneMMIhMAyxNyzL2LVPYKw6v_3sHYTCfKYIcB3oWg-0KAYrNuyjrbrDK8s58xFXNElQYUGIJH5d4Tv8EOzuO7P_eieJQCXlEQy0ymfmikc5pQVPCjI-mGzdJmZ6OW4YMuhqC51u14aIpc-vT9WRFcocR58uVc90acjZFAXy-X8KWBCB-QgO3WAdLBaiULyQA9Y64nMK9U6MslQASux3i3RkCEfs74_UaDayiAjVMX4skCR4N_YmorqaJzVdlzuxRHumENAsA4RcImtiC1bVWGSIpWJpGWAzJABvlJBoLX0e45fRbzuPtb_sTKMSTnN0eCV1nhVnv5w3vvPLo7Ajf0DACuuY7676heKLCcPjbghNDi6Z97BQsWURK8cyPeXrFzgL3afTi4_iGNZ7L63jjbmYUgyepY-YiRmcazAFIbEscgyMYQYOL46C-Vm2ZKEbPNAxuT0JlvpykqR4boKBZTEQNaZPQMeEEQ0uPx-qREUmhARstf3frrwtSoBxDXkVtoIPlC-RuNQg8gskM",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-03-31-PTL-related-person-network",
+      "use": "sig"
+    }
+  ]
+}

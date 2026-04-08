@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "yV9H86gr7kisuBHGe6bilQndziyu3o9D7oSX5Nm9MJjQJk_MhY1pFce-5XfCrDnYwLGoCgm3pzxqLXJKv7OuoXOyV_RaCqKyM3iRDF5qDZgNpYVBVe46QG-EOxcWgb2uuvjfLvP68C1ZOw19xDB8g4JhSEZ0PD0bZ746ggp_YXWYbaUs7FMGJvBlOIjNKdog8yhqa_yO7HhBlQS-ifHsnJLtvzkeKu8YP9nQn0UmZQZtg8g_LUQgB4pq7AwU2Il9fWSYMCy3w4FUPNAF_EnOokHk4v7Ikw-eF4rqJtHR_aWfAYQf-_iGyM9mNjDnrg9i3st9d8qXyOUd3PvlzNxbLIoic7nxtFwF2tH3CxgJwCestKZgCORnq87jjsv5YzQB1F1ZizX9HDuOpwmN-R7kefuEYiXtfd_Urb8eZyJSSyihbuTKB76ra-XXLvpMEkp9nr-GkL7HH1In2M4MlxxrHqFiEIdBksh7B7zoAy0DMSDyCGBeXALqHfIMhFWHyQRrCeH_XZVIX-hvnrRCj0olblPiZ0s0N-YpMPpUrV80LYachQ62KeuUas5m7zrmX76goMyj9q0cjFN9I-T4JJXjlirdT7rt7P2Lwb5ylLZcXAO_lUZpRWqlg33k9jIS3qw8dI1GJnJawDJI4_tbgg_gp4BP6nRfDvVpgf7bLfCOX4k",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-04-08-Prod-national-document-repository",
+      "use": "sig"
+    }
+  ]
+}

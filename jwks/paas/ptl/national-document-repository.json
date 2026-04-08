@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "xD6GmKMUIUZIbhgg8zKHIym7jHk7Z4sZi-LWmI6-xE54hNReD7p3f9RAav_48crb00mQS6ViNhcSvlJsqBamZOaJPaTzt0R5-KzpFtMbD-yqWMRQVS_Vs3AorqK2Z9HmVheRNgoNSOqP8sYlJ5elPmyhZgrSd-_Wku8CL95yaI37hijpD0WvJ3wQ2X7wp6_AY89A_fww7U5zoSWQVkgeJ8W50QAPGq5iKTQ9SO93hCFcDaDNh5Iw1C-gNQCRbcZhOz98kRRbG4WpmogIIKUj4aibpi9-7S-6bJpUS-qA23QriRrIPrHRtAUn2q2ZNtkACa9GAfvHrgoBUAXzOWfzmKhtxcsPkrIkkd4MBbTXgjh8GDa8HvZ3l1jkUBYymPUH9Hyi7mdmiAI6lZtg6OhTGWzU2fe59QGN-U7aSQA7wh8tiZ6d83kTaoZhwz28uLODwXNBQfKYxzW_18Ef-OwyvAt6BUhoJvC73U5cXV13eatcFpJzDEyyC68gb43fPqcr0xssMc4DRUOQRTUMavNVLn5reQxav6anCvOj9_RueADVJgNVKhmJZUcKmDGeUG9uWDiZZ-TZpCwolz0cx5SwmKfpqOFfLVUq8S5q3jDQqvwb6h7KqwBJPsWc8ig0agb2329UD8R59o3bbVHN5_3uj5EGgfLlWJdd82MNXOnUDe8",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-04-08-PTL-national-document-repository",
+      "use": "sig"
+    }
+  ]
+}

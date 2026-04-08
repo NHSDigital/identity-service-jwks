@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "riSIz-6QuFcDcpXMxdrwDPbExJhwee32wok2kkaxIBxa63xH5Gftr_AEv5NB1ez02fuPPqheKp_1U8tIqIPGQijzU5Evo_1l2LkJM0x7SmDacwvhPPCg48WcTkC70nmVd2jhkdEIlKn7Y81501xqBJHwkreedYmMzHz80xfvUZlI-p4fh1fw6lX4H8j95I9UiaBSs8VpkKdFbThY0refrWghBZqNqiE67frCCw8ht6Z4D1MCwbXhNlQpCkdiFq14mfT8EpshYYMr--tz-7d-kWAErU5T-W3hp7euKCLnZGkWEfOMDq3BXZ1h6RFGai2zrQvojyZkyVFPYrVK5n2E6feXbFLOEHY85fBTO2FWX5w097tbS2tGfwi96fL66tL18LatR2MLHgYMDKko2F42ETOkrG2vEgrWmWX04H4t4gMrY6PfnUjY0B6LXbL6fdUukom7ZL-Sq0YSfYWxPs9Zt_PFK1tRFeRcniM_95VTi5WDVn8TmsVuTNu67G7fBbXuRDYQDRZBBK9XF2VERIES5Mgw202ct8HXETOmVG-OFLjEVY28bg04AuRYf6jDCvboB8ejFD3NZf_WkNWcBrcFP_uHjRE8XYJdEGNfBtyJze2MBj8_d_G7Cgf_I8PJygXvgZ1763ij60nAG81FmnClnmQdLGm6eJ2cZlxenmcLfuM",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-04-08-Prod-gp-registrations-management-information",
+      "use": "sig"
+    }
+  ]
+}

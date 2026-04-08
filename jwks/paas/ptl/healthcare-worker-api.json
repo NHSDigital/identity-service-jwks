@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "vXG0Xwub61LudUaf9Z5X0yLMaeq7g9me3IReRfV8fzT9tsVslj8drl8TTO6NW4e5cijIQJc7MCWdSK9utvJYCdDFHfu6ejGuX_2_MIanjevi7Z8Y66WCiAp45CkBX1NZqzO-8OXpLsyAZLsduxDBFZxi4F7LvyqQgtf3T-ile1PegJZfHyBNR9LPrWQyFzI7nwr_3iCG5Q4Redf473kuDleoVowX_fAi1Knx-AFvq-ymMvj1XXDi40Kugr9_NkgcafH-0aHDQdy8BAUpQhwSgBDiD16VgLIU3BoE699JuiwSafqQzFV9ywjcqzR4Zu1GVhUPjcS3y5fevsi2h0jVlHV4Q_xnWGlDh8mXrHTt4Udh4jjWxzms01cYEwQuplWc9DmFOtMg3voFPANGrh7L13mDwJqGkSk8d9mztnMGOq3g0_7O9Zow6LWB8GEmSMyLVWy3mbXc_v0_yP3h5w_xSob1lqzbus1_VJ8LKtQaJH-XYpC_qiyYOgnDT7UR97L3A-IZoTVRiC1ovyG7Jd_YRbYfTjnGsIZ1u5FGsaMi_YKyOnUQ_xa36l4ZwF-ZvMJqVuIkWZhQSCbl6UybF7Tk35kmUr-CVYltVS4t86LYRMjEnMyeyjHXb-F9JGjtl-SWVf5Osu3Yl93cvqGl7J6ipkZ4ncPSulcAxecFhQs45hM",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-04-07-PTL-healthcare-worker-api",
+      "use": "sig"
+    }
+  ]
+}

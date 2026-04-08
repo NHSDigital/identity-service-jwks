@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "0Pha7HLoRwmXiv1kWq2J1dHo6ow0Ykc4c0zV-aiMUY7Tx5T6sLS35exBOZI5VtK0FVhIGn-_xGPqk6apuRg2259wqA1SJJ_tvwq5yRpXD_3m3BalxJhXUlSy_xnzPkUFggQqFxqlyAzdPelhpWJruHIT9tKPrsO66DOSB7n923Mqta7TTNyxnWNwNd7b6E6-B84kCiW3nAD3qXuyun7h-P0Ecvt0veW37LMHiWTJ0p-atI6J-D6a1VrwPEMemYy2zSD2WNlJQPrybzv79BKWUEVidJ9Qvh32sq5uVeEc_f_37AF27MFTRM_00mAyKyUeD4VJinnrNvQ10iCCDSggXZIfwjottyilKcyhA2v5xPTZ8NrxsA1ygjQ75LXTAANO329FYPGglRf5fdHWke0R4AamkmUrnU0eHKpFUrk5VOl4PRiSxAp9AJAn-uoWcb4I1ZHSfQUOfjU6ER99eJ45-0-UzciQCF0UC0OEefQWzfLEiPh3r_SUNIfXQXyYR97DSAEAGnBTRqyIjsJieWSiOW3Op0BQfHJvojt2MrDguBm79Mmw216URieiRU0X5dzdOEsWmi-RC7z6LrHWMEDhyzJKU_2GBjCAGK84aZibTkBExd1QASptpJBM85GIqaZcsN4iGPnnE-r8a8izfpIkdl4sEq-CgT4BOg66AXpvbas",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-04-08-PTL-gp-registrations-management-information",
+      "use": "sig"
+    }
+  ]
+}

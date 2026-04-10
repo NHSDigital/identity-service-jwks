@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "nNVu-e7VuzNpHVgCTcqUPc7YYUfCx673YChUOeK_DztCTXLlJ_TXIadzlOcoOcls4oippg9z3WYqqHmIrazYCffLOtfwmdW5jPGxokynlGNntlx8u7rwBhpaf_H3W3yE4VfZcVC-fbAxnzit3jOzNwEm02geprW7FE23WGmxb_mqAhoefVim2dsp_f_KLzPqiI0lhdNW4Mgtv2Wl-97FJyAayuHO4CO_Tgv4aqlbttaOM9ansx9LO4WWQ6gBLNdfE1qebB24-wfjsJldBxiaPwYoa7FuqoFkAgoUhL1xsYiZwtUbAlBEzd-R9mH6OLw0YpcNKEwB3S3zFQrEKAZ4H9GJDBJ6FpCb8ugfuT89Il1sAEhADQADolUDgONpR4uc-OA_3qJKSfic9QmnXeHMUQPub_NELlZYZhuDj0-LBRGGv_GFTV78rKG9f0TGI6zQdv7BeCGhyYV2xGw7kLFFW8tiWeM-bnsNoY4txbkXZ9C61poKF2ZC3OBA6ebGYsIi2y9lsi416v5Gs2Dy96-0Wf1H6J0xpTsAxVyw8Sa2m-7WnP1OP5wgibHsgXUOCnCyG5wbkVns3LeDTs_gUMqEx2zPpl-A8SIK4rP1nK8K0RcAvYVxXsKpvVVsO7s0z0PtE5Ke6H_8BN1_ZzHpfq3w47eftp5aOXXtGhdvTXPoRtM",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-04-08-Prod-patient-flags-api",
+      "use": "sig"
+    }
+  ]
+}

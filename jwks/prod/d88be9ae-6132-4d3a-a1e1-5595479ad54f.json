@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "uKxK_nPMc1t8ebWedd0WwPID6Oiz67jn9QjiwwKk7LNglknDP5-rR832OY20zODvKO59ruP9dFqqCxFp9kLfmO8F1q2O5CAC40e2APibCErBvIJSjLE2FFz6WZ0R9GMxm6TphflVUNg3tyqjnxyCaLljitiv3C4W5pWk-HM5DSuDkq-XuMwXPd5dDJa_k8lcJNUWTzeaCFxo3-NRjA9GRK6WkZypCBcdy9b9Dhjzz6r4rzyKO3g7xnrT4G8xGFtRo9743DNCRi3axWMPbZOsqoonaWH6Akxy28_bLx2eUEN6zTvhsuH3MZr8y58kASX5rjhHlrXmjl7xp5_CrN0TdWUXbuAwR_6F3AMQL59u7jpEqKvpwaTaqPFN6akUEvbobUklVOXEHDM6KEbVevpqntwm1U_mcqtooCxrnK-zwws90GT07nUWCg0llGoaE37rrV-bjrWXAhf1QqsGveR5IoFIujp5F_PglbZNFVReZmjl_7V9-DlCfI_6uRtQRPsM_G0L1BYEFR-67tNI7DqZPkS_WnRhk7QW1z2uN9ftmyv-bAnG7x9VG3_pS6LvD6yEf3qwckVkMS4CfwLpd1YUnk7YU8uf5Lg-lBVmOqivy1jIycEglevjMEfvcUvtsjQLzJIa61FLNnt3tF7VhzJlT91_ec63uMh5WQSM3x38kiE",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "dos-ingest-prod-smoke-09-04-2026",
+      "use": "sig"
+    }
+  ]
+}

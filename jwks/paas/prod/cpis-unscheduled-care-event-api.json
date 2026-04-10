@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "nentuBL9IE_csQyNlClRwYrdAQLDfQNfGwDgadAVy_SvDkmAY_xoiNIv58jaacfbNtr70YanMS1DjKDzOEWJ4TadZhI0Wx3q6CxcIkLoPTGVMOsoh2wacxAojoYoTTd5tS2bxbm1uLg11AbFSsNDwtq6aK-9fOiuyEeQST7SpDahisCCFIiJagsdTMdB4NT2YAewMUWhwqzqgY2L70HvoMXKrdVSyMmXcA5Fh7zqMSRZ5AuUOvyKLg1GFhS_gAIFBqUm7iL27MTUQr5kJQ517hn5FlzOYiXZla3I1PZoOO2FX96V6Vuu2x2ba2gCmAqA6xR8F98hUyltLjrwdlVDS1xtbRc2rLxW5HMINBkUpp_2SpLFWzItqIuIMJkaqALj1Odkn9GtyHWOS2zweEp27M_Y8IO4kI_5NeFxQRhnkjEXxq9Hm51uExcV_11IaRsZfemSE2fIrp41OUsFd2fEP194ZkNTI5J7i-wvq8tq6LKorLT3vAcjWBgGcKEw4sHv6rhp8IK_xRDxmApopI836uFpudIDmNgTsNgAOwbrvZMI-ltxAkHVb2ux20nmtdAL9v7cKQjBiGk7F7cVv7NUwDiq7bzBAwgIykhpcWs9osZVCdq8jmWEQWzaMCCS3Z1-VYhgpmDyx487pCQiES5R52Bjn7Vwfam7OtkkQWZa550",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-04-08-Prod-cpis-unscheduled-care-event-api",
+      "use": "sig"
+    }
+  ]
+}

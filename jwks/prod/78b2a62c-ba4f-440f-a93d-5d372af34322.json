@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "tr5XhmychqCYh1yXBvutsR1d6kAugsCuQM9xXFfVjhaxxGR4RR67RZUMb4_E0gP0TircroUwf7G5_aujAer9JJpURxChYCjjuQYPDaMW9iMs-Pfz9wqp2CxRysbEL02o7BXSpOPQ-k0_N7tbTatdW1HmDV2vcQLmOYV16hIkFyvq-imOPWyhKfcSP_3TV3wzuegDJPLLyMs9tzQmagu5sOkjvPpd5Y_stv0YMLsiO0bHuFVUd7hxYZJFQrzk2usWuz0d-Ix3wUrFyCWUVJS8yrYa_-w89mlTWvVs4q_rUXYJV0fotLrxQfsfWPsPmQiGzMf4-rUhUtFYEpZTyh0YGbx_-lTJy_qaRHair_nHbSy-AWSpHr2pWPI1XkAoiY7RcpYxRosrO3yXWu3e3ZN472tRVx0iIOWvB-oRTrJyMwrHnmCm0_rh2y-3oML7TEMkoG1wyzindLF2BKeOxak39-f3M9g8zpW_bDWJO941F5ZIS5R8Gt-IpxOR7fmULXxnUDzXaGBMON2hCsVRpdZcs0-mAOKSG6scT9-ULb58eKlCVPrpAe83IyBJ2tP3imVMBP47r6QhvjmrZeXU5SGOaFPAdlNsRmxNZqUh4BzOO11bu8Gxys0dx7TCwupC0D-xaUJGPwcHeQ5dCCCORukzIQSZdEb7DdrmaDtPV748eDU",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "dos-search-prod-smoke-10-04-2027",
+      "use": "sig"
+    }
+  ]
+}

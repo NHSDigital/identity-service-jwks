@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "vViQy8wB6_JPl1nBuoVnNkeDiWxIgba92hyyN8nVmWXlHGo3jDgfDGNyMrM3v-a_-1bk_2_ukvaqvu3GgPIVOVS8r8-6jKFk_7sm_70dvsqou9uP65WWXu-TcsSBGPF0HDBB9FDhZsE3o01HLM4dMOkQuiCEwQBPH3G04I5ZMhGwy4g5oAMHK2UaTxR86Wq-kkWopggZx7J8DjKA_5PtUGqlJadYCfPDlEKkPUdZnoZ1qmJxL1MAqeywKH6gUW4JcY0DU9nMmbt4BuMfiA6E0a-Eg2-w43ASfVrf6sQ-vo3Hv6DZU9lGUusHj6KVUbvV-dPzZJqIcnuPaDKaHl9h3TUp6GE0qIrqyul1TgpRK1F0u0NWzb6N4Rg9da_5xZdLGA0t8dtVDysqlzdMoov2avC6lEb25Swg5cGDbjQOfeyKdn20lZJKOXKXcIaTnMgxyIMBnsZIilVTjoE3H9OnYIyMzi0DpplIJxbfhjsRUcV9f8ELawBG174ei51BcdGta01WCBrKJRCrisEwDvhUAxPvFi9fj3IW7Fyr0ktLgWl8NeRUsQ8UYbH8w_6cMk8a5RvQ1Y2QaWSS10kUJ9r_ror5Tm68bZy8Su7O6KrUBxhcsFN0gCn0bVhjp3IdE6VUcQ9Tgzc5MIVG9CvWiaC5ItwSXnVStOLsu4lBm4bQ8lk",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-04-15-PTL-im1-pfs-auth",
+      "use": "sig"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "n": "szbbgQgR09VnWS9Z2RDTllTIKLZxgMZfjA7s3rteTXzTi-jwi5FkfdjbP7Sz9sFbbIXmwccM9FAa3V97Bvx7xVm9-ugDRxHwlB0vDJcRJJWN9ZaZZf9ffzahC7Ba9W3MqdAm9MzHrLkeIqpLyLTbNPrchgav_NvhayVBfzrLYbFmp6XScvZsJ2Haemy9RclUcqVZFxzQv0vFMg3P3SdJTl4q8LVr0P_JLI2843vdcfV_9h0h-4tf4XYA44M9vERMnjfovHohGPyVa5h7neAJHhDOpaF3TFDJbexzZOlOkwXVG7CuiuYiuD2VHQkrxOYnx03_Bhqj3wbmQIkCLn6j16OCYQoUmst4Dx8fGsTsIL6BQ9qNoo0ZcOeh6JuU7uvj-3urqPGB1oeja9tsIXDhcSMonzrO9mq-DTiPgGNVrUbfYO_G3iR8qo4PfD6hm6IrT51sB8kbTUblrLs6Qg4zzaX7e5wZoP2PH25cPxmwzh8Av6SZ1NC1YvHE-6h1JaH8w3IElyol671irLzCNgjXLrZ8BHhGaaEutyJVjkhn9TTwVGaHmYy58X-MssWLEUSTIbqnD90bxrValkNlz3VySa5Idl1NRZInEt5Mtum_DKl1ul6HPHozZJZN4ymwKLvU0K2jYQr5JV4tuKuaf0fzbVTXDVVChzoqopdS3QityAc",
+      "e": "AQAB",
+      "kty": "RSA",
+      "kid": "pdm-prod-egress-1",
+      "use": "sig"
+    }
+  ]
+}

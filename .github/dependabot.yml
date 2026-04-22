@@ -7,13 +7,13 @@ updates:
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "weekly"
     target-branch: "main"
-    labels: ["dependencies", "python", "poetry"]
+    labels: [ "dependencies", "python", "poetry" ]
     open-pull-requests-limit: 10
     ignore:
       - dependency-name: "*"
-        update-types: ["version-update:semver-major"]
+        update-types: [ "version-update:semver-major" ]
 
   # ---------------------------
   # GitHub Actions
@@ -21,8 +21,8 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "weekly"
     target-branch: "main"
-    labels: ["dependencies", "github-actions"]
+    labels: [ "dependencies", "github-actions" ]
     cooldown:
       default-days: 7

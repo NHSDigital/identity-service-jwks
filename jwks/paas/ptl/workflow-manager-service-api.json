@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "9zS3cptCQhtggYi5l7QU7ES3kLc8tm384sV_2Cri8uxfZCzGIazDqKwfYaq9DskbTWvLkDh7SXo5wJnpjOhhT7HxvdsUSafmRTDlOl1Mcb_i5b5At17tl-lN6Bd-DxmwHwK9cfx5viEv9y8L5w4SGyQcIr0mNRgdelkdoY4eEereVl8Ox10NhAehVmNKlaG0kA8gtdCr-vdCoQnWTKkxl-Ffo-PhCvdMKegumun2mPxRjIgVAsPUtT_qsstleaAQjcYhcp-p0PdULeKZLuFkwTRx5BDVs-dow4uSnViuacLta_mObTQrycBXhmEI6mw2CY4XXA4cxiIPb-uDex3TP3n1ELIwTSf8aBHKP0ND5PJYsqWJyvRBNucZ2M6_DpNuIJl0TlkGhHe0amTvYgjyksm0THCkWX1VmCJ1u2uQh867BVlWsgTGddlcfth-WobG1yHTyf_Y6H8OiayeRXVVearP4mfRzwU24DwFfegdMHPG0wtYHiScowIm_jRykFfZKhb7l-em6KtneDqYUOrjDjvt0K0I9QFQGLw7g-c2MeWqLO7sf1HDwC1RTxYrrev3mauzNU56cSdmrc-PJot5JVW6z8KSX_KrxCtfom3GSiw83cFZ4b5-dY_BV97dTBcwU0i-fSlOiSJ71-vM4WjakFKnkB1eH55uatd1rd2tmec",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-04-23-PTL-workflow-manager-service-api",
+      "use": "sig"
+    }
+  ]
+}

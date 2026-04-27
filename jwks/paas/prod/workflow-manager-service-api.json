@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "5PN06lOZX1Lt0KPpA_gE3Kic4tUEUfw_398Qp1cIPnO-uEXdyqbYPZv0o46OgqAekOeO0E8YDtMBhFpUdIkhwohGvqg0Np1LPMWudd6EObM8beyJDJQkEcvmX-lJqG732_Y4onjrd1OyreokKSyaBgu7WM4ZDKPy5DpIH6r7WonvwLBWZDSOmHv4JA1S2yevjf3ZfUb1bQKfsyxO0l5uiEIaURu9PoWmq_hA-Rm4JWlAXue4GacdlepWt8NIn3t1QtpFOyH8UM4g2HNA1gTtx7WNBBXvawyyxUxvXKcg811CVYzDjKZMJ-d2uCTeokjGoRZnZFelTiuJQ5eb2jUDgHvbZNrvSGnxFqwCusQrBXxnauinLOx00-3ioLW7O0ZO9LS-fdqxD1u5tjJc5S4nZyRcieMw7OfUYXoC_L_SdorosZkmRdnGDEdmkR5SoZkzbGQFwzcplipx7RUERK3diV9UNfA0dy56tWhPZPpy2jmWVhrVOXb1eIiou2uR729zHM6WmjpU-1BW3_lECYNJ24JE5TJ_8ngpRv5Ud1jIBONKKVyrWS7m5EIfVcfRuSDxj1y9PXTPWronY7hmulAfGFIb9mTjD8d3hkCrYlmFO8sR-IHTwUa3YsTq7hibYHwwjvG591DczoDJ6TXcI6mMCGtUHC9et3YNojmNGTGK310",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-04-23-Prod-workflow-manager-service-api",
+      "use": "sig"
+    }
+  ]
+}

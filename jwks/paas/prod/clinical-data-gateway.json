@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "zgt0dE5yV6Sot8hJbA4HaMN0i-WDcaJIy-HIxi1S1BQDKh3tQhDhb30fImFdn1LvS63ELjJAzGC--FcTuZbynhrXcBQLXRizlDe7mwHzH5K9E0ApR9LymvYOsfvuROAarwA7Tynogn9SzXhFGGDmsDKjo5Ibq8XWEPGJJFJNdmkwSaVqUJNaE0UaxOWKbSivjE-Nf5gePW5uttDBumwIB3ucK2rL4Q3-Bw6S0AYbBt86Q_oNUS2FaQbGDWlNLJcgT5Cp-Vsu3FGfRJvCdiQNTGCepPnFen0Th_p6AQdKJKz1eR38whP3i3EM51yQFtiJYsuZQJkWNBAwrmGVsUSGlDPiWEpHM6wl6Wh6OzrdHqW4OPShyf9eiQeOc5B83t9NQl2MKoY7vibcYfMUPuJp0f-CS0v8EBuGLz9Hr7KnH-p2eTO3XQpDY8RGKSWcQJJcdNXgAsZ4ZJRl9ruBynkuU-BQWrPldCwJhj1Un9ScfKlLOmcVemFRYzWa2G9Ooy8DH3BQiv06HE-Sr4dt9PNzFCN1XWC7N1Cq5_TysepZEKtXOlRGldjKB5K-GbarbHTYZdgnI6ke_VIv2Xss7YTi_rhylemrVHk4rIcZW32B8KhZS9W02vHeqArH9b8MQ-X8nHPZs4vrfP_X_g1DjN-AV9F2DTPJCx_c2QcJ4keTpUM",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-05-06-PROD-clinical-data-gateway",
+      "use": "sig"
+    }
+  ]
+}

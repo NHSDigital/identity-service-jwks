@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "n": "vhJ9rK_phi5V1HDySJx9M6p-3g_2Se5QKrq_fZanNrcT1tmykf4ADy9D1NDvVF8lQLaMRMhGV4nDeaKisBn26-2JiV0qklEN9Akb4SGAFrCQUmg0i8HML5HqWtjSevChCOv1nWXBiiG4v_6rKXsZPWe2Zqhov_DobZnRYHEOx4QnBBefVmEYCuPdIeMx27EnFCWDSqZb3reOoYjVDDivyE6YBw4iCeg7x6LLsps-VCwrXG-n1XUy21u9TVNtG-df3iKdBr1y9qo6IuUGf2DeBZI375zLh2gvagEhe3jXe_ZSPwOvHB9zcfHVaGAwJMg_HgForuGAQ5QGw_WNpCCjZcjwO1aD-zBIg30jwKjO6J5CsPE_4snjRB3d43ykbZ_g6xxPA1oYgkozqiVow92kPnpaGMz-X8v-mkTE_Fp7q404GUpFzD-dNddmLSd3Fi8G-G4aeUQx56ZIFxDIGj6OVbQG2tjXLNhHrqd5AzeotV19JMAj5tzc3xz4mzteHjHXLBEhrLxgfaXkU039wEIVozhgMoSMH8MCp5XwUHLqX1FacnB0oUNYDyjZ9R81acGE7iTZ8FUxfxlgVFkoegy8YoERc96wmvSQbwxlzv5_SILtl01BWIrSI_zi9hnOzztTZ7gHTflSDXZwrzJgT_NZmEJgsslVKXwFDwM1hW4rQRk",
+      "e": "AQAB",
+      "kty": "RSA",
+      "alg": "RS512",
+      "kid": "2027-05-06-PTL-NHS-PAT-SERVICE-UPDATE",
+      "use": "sig"
+    }
+  ]
+}
